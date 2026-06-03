@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SmartLoots | Price Tracker</title>
+    <style>
+        :root {
+            --primary: #f97316;
+            --primary-hover: #ea580c;
+            --bg: #f3f4f6;
+            --card-bg: #ffffff;
+            --text-main: #1f2937;
+            --text-muted: #6b7280;
+            --success: #059669;
+            --danger: #ef4444;
+            --border: #e5e7eb;
+        }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
+            background-color: var(--bg); 
+            margin: 0; 
+            padding: 20px; 
+            color: var(--text-main);
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        
+        .header { 
+            text-align: center; 
+            margin-bottom: 20px; 
+            padding: 20px;
+            background: var(--card-bg);
+            border-radius: 12px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+        }
+        .header h1 { margin: 0 0 5px 0; color: var(--text-main); font-size: 1.8rem; }
+        .header p { margin: 0; color: var(--text-muted); font-size: 0.95rem; }
+        
+        /* CONTROL CENTER PANEL */
+        .control-panel {
+            background: var(--card-bg);
+            padding: 15px;
+            border-radius: 12px;
+            margin-bottom: 25px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+            border: 1px solid var(--border);
+            position: sticky;
+            top: 10px;
+            z-index: 100;
+        }
+        .search-row {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+        }
+        .search-bar-wrapper { flex: 1; min-width: 260px; }
+        .search-bar-wrapper input {
+            width: 100%;
+            padding: 12px 15px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            font-size: 1rem;
+            box-sizing: border-box;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .search-bar-wrapper input:focus { border-color: var(--primary); }
+        
+        .select-wrapper { min-width: 180px; }
+        .select-wrapper select {
+            width: 100%;
+            padding: 12px 15px;
+            border-radius: 8px;
+            border: 1px solid var(--border);
+            font-size: 1rem;
+            background-color: white;
+            outline: none;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        
+        /* Store Selector Specific Styling */
+        #store-select {
+            border: 2px solid var(--primary);
+            color: var(--primary);
+            background-color: #fff7ed;
+        }
+
+        /* HORIZONTAL SCROLLABLE CATEGORIES */
+        .category-row {
+            display: flex;
+            gap: 10px;
+            overflow-x: auto;
+            padding-bottom: 5px;
+            scrollbar-width: none; 
+        }
+        .category-row::-webkit-scrollbar { display: none; } 
+        
+        .category-btn {
+            background: #e5e7eb;
+            color: var(--text-main);
+            padding: 8px 16px;
+            border-radius: 20px;
+            border: none;
+            font-weight: 500;
+            font-size: 0.85rem;
+            cursor: pointer;
+            white-space: nowrap;
+            transition: all 0.2s;
+        }
+        .category-btn.active, .category-btn:hover {
+            background: var(--primary);
+            color: white;
+        }
+
+        /* CARD GRID */
+        .grid { 
+            display: grid; 
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
+            gap: 20px; 
+        }
+        .card { 
+            background: var(--card-bg); 
+            border-radius: 12px; 
+            padding: 15px; 
+            box-shadow: 0 4px 6px rgba(0,0,0,0.03); 
+            display: flex; 
+            flex-direction: column; 
+            border: 1px solid var(--border);
+            transition: transform 0.2s;
+        }
+        .card:hover { transform: translateY(-3px); }
+        
+        .card img { 
+            width: 100%; 
+            height: 180px; 
+            object-fit: contain; 
+            margin-bottom: 12px; 
+        }
+        .badge { 
+            background: var(--danger); 
+            color: white; 
+            padding: 4px 8px; 
+            border-radius: 6px; 
+            font-weight: bold; 
+            font-size: 0.8em; 
+        }
+        .brand {
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            color: var(--text-muted);
+            letter-spacing: 0.5px;
+            margin-bottom: 3px;
+        }
+        .title { 
+            font-size: 0.95rem; 
+            font-weight: bold; 
+            margin-bottom: 12px; 
+            flex-grow: 1; 
+            line-height: 1.4;
+        }
+        .prices { 
+            margin-bottom: 12px; 
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .old-price { text-decoration: line-through; color: var(--text-muted); font-size: 0.85rem; }
+        .new-price { font-size: 1.3rem; font-weight: bold; color: var(--success); }
+        .savings { font-size: 0.8rem; color: var(--success); background: #d1fae5; padding: 2px 6px; border-radius: 4px; }
+        
+        .locations { 
+            font-size: 0.75rem; 
+            color: var(--text-muted); 
+            margin-bottom: 15px; 
+            background: var(--bg); 
+            padding: 8px; 
+            border-radius: 6px; 
+        }
+        .buy-btn { 
+            background: var(--primary); 
+            color: white; 
+            text-align: center; 
+            padding: 10px; 
+            border-radius: 8px; 
+            text-decoration: none; 
+            font-weight: bold; 
+            font-size: 0.9rem;
+        }
+        .buy-btn:hover { background: var(--primary-hover); }
+        
+        #loading, #status-msg {
+            text-align: center; grid-column: 1 / -1; padding: 40px; font-size: 1.1rem; color: var(--text-muted);
+        }
+
+        /* INFINITE SCROLL LOADER */
+        #scroll-sentinel {
+            text-align: center;
+            padding: 30px;
+            color: var(--text-muted);
+            font-weight: bold;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>🔥 SmartLoots Tracker</h1>
+            <p id="platform-subtitle">Automated Multi-Store Price Drops Engine</p>
+            <p style="margin-top: 5px;"><small id="last-updated" style="color: var(--text-muted);"></small></p>
+        </div>
+
+        <div class="control-panel">
+            <div class="search-row">
+                <div class="select-wrapper">
+                    <select id="store-select" onchange="loadStoreData(this.value)">
+                        <option value="jiomart">🛒 JioMart</option>
+                        <option value="bigbasket">🥦 BigBasket</option>
+                    </select>
+                </div>
+
+                <div class="search-bar-wrapper">
+                    <input type="text" id="search-bar" placeholder="Search product name or brand..." oninput="processFilters()">
+                </div>
+
+                <div class="select-wrapper">
+                    <select id="location-select" onchange="processFilters()">
+                        <option value="ALL">📍 All Locations</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="category-row" id="category-bar">
+                </div>
+        </div>
+
+        <div class="grid" id="deals-container">
+            <div id="loading">Loading current price matrix data...</div>
+        </div>
+
+        <div id="scroll-sentinel">
+            Fetching more deals... ⏳
+        </div>
+    </div>
+
+    <script>
+        const STORE_ENDPOINTS = {
+            jiomart: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/deals.json',
+            bigbasket: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/data-bb.json'
+        };
+
+        let rawDataset = [];
+        let filteredDataset = []; 
+        let itemsToShow = 60;     
+        let runningCategory = 'ALL';
+
+        function cleanString(str) {
+            if (!str) return 'General';
+            return str.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+        }
+
+        // 1. Core Data Fetch - Dynamic based on active store
+        function loadStoreData(storeKey) {
+            // Reset UI States
+            document.getElementById('deals-container').innerHTML = "<div id='loading'>Loading matrix payload...</div>";
+            document.getElementById('scroll-sentinel').style.display = 'none';
+            document.getElementById('search-bar').value = '';
+            document.getElementById('platform-subtitle').innerText = `${storeKey === 'jiomart' ? 'JioMart' : 'BigBasket'} Automated Price Drops Engine`;
+            runningCategory = 'ALL';
+            
+            // Re-fetch targeting specific repository endpoint
+            fetch(STORE_ENDPOINTS[storeKey] + '?v=' + new Date().getTime())
+                .then(res => { if (!res.ok) throw new Error(); return res.json(); })
+                .then(data => {
+                    rawDataset = data;
+                    document.getElementById('last-updated').innerText = `Sync Matrix Updated: ${new Date().toLocaleString()}`;
+                    
+                    generateFilterUI();
+                    processFilters();
+                })
+                .catch(() => {
+                    document.getElementById('deals-container').innerHTML = "<div id='status-msg'>Data source sync pending or file not found. Refresh in a few minutes!</div>";
+                });
+        }
+
+        // 2. Dynamic Option Generation
+        function generateFilterUI() {
+            const locationsSet = new Set();
+            const categoriesSet = new Set();
+
+            rawDataset.forEach(item => {
+                if(item.locations) item.locations.forEach(loc => locationsSet.add(loc));
+                if(item.category) categoriesSet.add(item.category);
+            });
+
+            // Rebuild Locations Dropdown
+            const locSelect = document.getElementById('location-select');
+            locSelect.innerHTML = '<option value="ALL">📍 All Locations</option>'; // Clear previous
+            Array.from(locationsSet).sort().forEach(loc => {
+                const opt = document.createElement('option');
+                opt.value = loc;
+                opt.innerText = `📍 ${cleanString(loc)}`;
+                locSelect.appendChild(opt);
+            });
+
+            // Rebuild Category Bar
+            const catBar = document.getElementById('category-bar');
+            catBar.innerHTML = '<button class="category-btn active" onclick="switchCategory(this, \'ALL\')">All Items</button>'; // Clear previous
+            Array.from(categoriesSet).sort().forEach(cat => {
+                const btn = document.createElement('button');
+                btn.className = 'category-btn';
+                btn.innerText = cleanString(cat);
+                btn.onclick = (e) => switchCategory(e.target, cat);
+                catBar.appendChild(btn);
+            });
+        }
+
+        // Category switching
+        function switchCategory(element, catValue) {
+            document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+            element.classList.add('active');
+            runningCategory = catValue;
+            processFilters();
+        }
+
+        // 3. Central Reactive Filtering Engine
+        function processFilters() {
+            const searchQuery = document.getElementById('search-bar').value.toLowerCase();
+            const selectedLocation = document.getElementById('location-select').value;
+            
+            filteredDataset = rawDataset.filter(deal => {
+                const matchesSearch = deal.name.toLowerCase().includes(searchQuery) || 
+                                      (deal.brand && deal.brand.toLowerCase().includes(searchQuery));
+                const matchesLocation = (selectedLocation === 'ALL') || 
+                                        (deal.locations && deal.locations.includes(selectedLocation));
+                const matchesCategory = (runningCategory === 'ALL') || 
+                                        (deal.category === runningCategory);
+
+                return matchesSearch && matchesLocation && matchesCategory;
+            });
+
+            itemsToShow = 60; // Reset pagination
+            renderInterfaceCards();
+        }
+
+        // 4. Render Layout Cards Builder DOM
+        function renderInterfaceCards() {
+            const displayContainer = document.getElementById('deals-container');
+            const sentinel = document.getElementById('scroll-sentinel');
+            displayContainer.innerHTML = '';
+
+            if (filteredDataset.length === 0) {
+                displayContainer.innerHTML = "<div id='status-msg'>No deals matching current search or filter combinations.</div>";
+                sentinel.style.display = 'none'; 
+                return;
+            }
+
+            const displayLimitItems = filteredDataset.slice(0, itemsToShow);
+
+            displayLimitItems.forEach(deal => {
+                const cleanLocs = deal.locations ? deal.locations.map(l => cleanString(l)).join(' • ') : 'Global';
+                const currentStore = document.getElementById('store-select').value;
+                const fallbackBrand = currentStore === 'jiomart' ? 'JioMart' : 'BigBasket';
+                
+                const cardTemplate = `
+                    <div class="card">
+                        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 10px;">
+                            <span class="badge">${deal.discount_pct}% OFF</span>
+                            <span style="font-size: 0.75rem; color: var(--text-muted); font-weight:600;">Stock: ${deal.stock || 'N/A'}</span>
+                        </div>
+                        <img src="${deal.image}" alt="${deal.name}" onerror="this.src='https://via.placeholder.com/300x180?text=Image+Coming+Soon'">
+                        <div class="brand">${deal.brand && deal.brand.toUpperCase() !== 'N/A' ? deal.brand : fallbackBrand}</div>
+                        <div class="title">${deal.name}</div>
+                        <div class="prices">
+                            <span class="new-price">₹${deal.new_price}</span>
+                            <span class="old-price">₹${deal.old_price}</span>
+                            <span class="savings">Save ₹${deal.savings}</span>
+                        </div>
+                        <div class="locations">📍 ${cleanLocs}</div>
+                        <a href="${deal.url}" target="_blank" class="buy-btn">Loot Fast 👉</a>
+                    </div>
+                `;
+                displayContainer.innerHTML += cardTemplate;
+            });
+
+            if (itemsToShow < filteredDataset.length) {
+                sentinel.style.display = 'block';
+            } else {
+                sentinel.style.display = 'none';
+            }
+        }
+
+        // 5. Infinite Scroll Trigger Logic
+        const observer = new IntersectionObserver((entries) => {
+            if (entries[0].isIntersecting && itemsToShow < filteredDataset.length) {
+                itemsToShow += 60;
+                renderInterfaceCards();
+            }
+        }, {
+            rootMargin: "200px" 
+        });
+
+        observer.observe(document.getElementById('scroll-sentinel'));
+
+        // Bootstrap on page load (Default to JioMart)
+        loadStoreData('jiomart');
+
+    </script>
+</body>
+</html>
