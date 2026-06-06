@@ -459,6 +459,24 @@
         ]
     },
     {
+        "uid": "7509595",
+        "name": "Act II RTE Sour Cream Cheese Popcorn 50 g",
+        "brand": "act ii",
+        "category": "chips_namkeens",
+        "old_price": 38.0,
+        "new_price": 20.0,
+        "savings": 18.0,
+        "discount_pct": 47.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/act-ii-rte-sour-cream-cheese-popcorn-50-g-mffmuu-7509595",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942448611.jpg.4fa064b9c7.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7519613",
         "name": "Kellogg's Millet Muesli with 84% Fruit, Seed & Multigrain 500g",
         "brand": "Kellogg's",
@@ -928,23 +946,6 @@
         ]
     },
     {
-        "uid": "7542162",
-        "name": "Lakme 9 to 5 All In 1 SPF 30 PA++ Instant Skin Stylist CC Cream 30 g",
-        "brand": "lakme",
-        "category": "skin_care",
-        "old_price": 335.0,
-        "new_price": 217.0,
-        "savings": 118.0,
-        "discount_pct": 35.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-9-to-5-all-in-1-spf-30-pa-instant-skin-stylist-cc-cream-30-g-mffn9x-7542162",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910462691.jpg.6b0cb9e252.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "80619451",
         "name": "Kwality Walls Hawaiian Nuts Sundae Ice Cream 700 ml",
         "brand": "KWALITY WALLS",
@@ -1106,6 +1107,22 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7522504",
+        "name": "Tata Sampann White Thick Poha 500 g",
+        "brand": "Tata Sampann",
+        "category": "sabudana_poha_murmura",
+        "old_price": 55.0,
+        "new_price": 38.0,
+        "savings": 17.0,
+        "discount_pct": 30.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tata-sampann-white-thick-poha-500-g-mffn0t-7522504",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4916147211.jpg.5d84f33f46.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -1483,22 +1500,6 @@
         ]
     },
     {
-        "uid": "7522504",
-        "name": "Tata Sampann White Thick Poha 500 g",
-        "brand": "Tata Sampann",
-        "category": "sabudana_poha_murmura",
-        "old_price": 55.0,
-        "new_price": 39.0,
-        "savings": 16.0,
-        "discount_pct": 29.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tata-sampann-white-thick-poha-500-g-mffn0t-7522504",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4916147211.jpg.5d84f33f46.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7508886",
         "name": "Home One Skap Microfiber Multiutility Cleaning Wipe 3 pcs (34 cm x 34 cm) - Design / Colour may vary",
         "brand": "home one",
@@ -1512,24 +1513,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915515631.jpg.cee78a34d5.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7502128",
-        "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
-        "brand": "Park Avenue",
-        "category": "deo_fragrances",
-        "old_price": 209.0,
-        "new_price": 149.0,
-        "savings": 60.0,
-        "discount_pct": 28.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/park-avenue-signature-collection-voyage-perfume-spray-220-ml-mffmre-7502128",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913172251.jpg.56fdc1300c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -1578,24 +1561,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.e9c59d2714.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7533426",
-        "name": "Ching's Secret Dark Soy Sauce 210 g",
-        "brand": "Ching's Secret",
-        "category": "spread_sauces_ketchup",
-        "old_price": 50.0,
-        "new_price": 36.0,
-        "savings": 14.0,
-        "discount_pct": 28.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/chings-secret-dark-soy-sauce-210-g-mffn5w-7533426",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ching-s-secret-dark-soy-sauce-210-g-0-20210811.jpg.09153828d7.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -1779,24 +1744,6 @@
         ]
     },
     {
-        "uid": "7509595",
-        "name": "Act II RTE Sour Cream Cheese Popcorn 50 g",
-        "brand": "act ii",
-        "category": "chips_namkeens",
-        "old_price": 38.0,
-        "new_price": 28.0,
-        "savings": 10.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/act-ii-rte-sour-cream-cheese-popcorn-50-g-mffmuu-7509595",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942448611.jpg.4fa064b9c7.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "74607231",
         "name": "Elle 18 Nail Pops Glossy Nail Color 5 ml (Shade 02)",
         "brand": "ELLE 18",
@@ -1861,23 +1808,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7535846",
-        "name": "Ching's Secret Red Chilli Sauce 200 g",
-        "brand": "Ching's Secret",
-        "category": "spread_sauces_ketchup",
-        "old_price": 54.0,
-        "new_price": 40.0,
-        "savings": 14.0,
-        "discount_pct": 25.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/chings-secret-red-chilli-sauce-200-g-mffn70-7535846",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ching-s-secret-red-chilli-sauce-200-g-0-20201112.jpg.c420b23909.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
         ]
     },
     {
@@ -2338,22 +2268,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945035871.jpg.104139b6f4.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7533801",
-        "name": "Camlin Scholar Mathematical Geometry Box",
-        "brand": "Camlin",
-        "category": "school_supplies",
-        "old_price": 119.0,
-        "new_price": 93.0,
-        "savings": 26.0,
-        "discount_pct": 21.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/camlin-scholar-mathematical-geometry-box-mffn62-7533801",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900948161.jpg.4c6ac996b0.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -2839,22 +2753,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7516618",
-        "name": "Horlicks Classic Malt Superfoods Nutritional Drink Mix 750 g",
-        "brand": "horlicks",
-        "category": "drinks_juices",
-        "old_price": 350.0,
-        "new_price": 295.0,
-        "savings": 55.0,
-        "discount_pct": 15.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/horlicks-classic-malt-750-g-mffmy4-7516618",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912764761.jpg.2e6fbc2895.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
