@@ -3,204 +3,330 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SmartLoots | Price Tracker</title>
+    <title>SmartLoots | Engine Matrix</title>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+    
     <style>
         :root {
-            --primary: #f97316;
-            --primary-hover: #ea580c;
-            --bg: #f3f4f6;
-            --card-bg: #ffffff;
-            --text-main: #1f2937;
-            --text-muted: #6b7280;
-            --success: #059669;
-            --danger: #ef4444;
-            --border: #e5e7eb;
-        }
-        body { 
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
-            background-color: var(--bg); 
-            margin: 0; 
-            padding: 20px; 
-            color: var(--text-main);
-        }
-        .container { max-width: 1200px; margin: 0 auto; }
-        
-        .header { 
-            text-align: center; 
-            margin-bottom: 20px; 
-            padding: 20px;
-            background: var(--card-bg);
-            border-radius: 12px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-        }
-        .header h1 { margin: 0 0 5px 0; color: var(--text-main); font-size: 1.8rem; }
-        .header p { margin: 0; color: var(--text-muted); font-size: 0.95rem; }
-        
-        /* CONTROL CENTER PANEL */
-        .control-panel {
-            background: var(--card-bg);
-            padding: 15px;
-            border-radius: 12px;
-            margin-bottom: 25px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.02);
-            border: 1px solid var(--border);
-            position: sticky;
-            top: 10px;
-            z-index: 100;
-        }
-        .search-row {
-            display: flex;
-            gap: 15px;
-            margin-bottom: 15px;
-            flex-wrap: wrap;
-        }
-        .search-bar-wrapper { flex: 1; min-width: 260px; }
-        .search-bar-wrapper input {
-            width: 100%;
-            padding: 12px 15px;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            font-size: 1rem;
-            box-sizing: border-box;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-        .search-bar-wrapper input:focus { border-color: var(--primary); }
-        
-        .select-wrapper { min-width: 180px; }
-        .select-wrapper select {
-            width: 100%;
-            padding: 12px 15px;
-            border-radius: 8px;
-            border: 1px solid var(--border);
-            font-size: 1rem;
-            background-color: white;
-            outline: none;
-            cursor: pointer;
-            font-weight: 500;
-        }
-        
-        /* Store Selector Specific Styling */
-        #store-select {
-            border: 2px solid var(--primary);
-            color: var(--primary);
-            background-color: #fff7ed;
+            /* CRED-inspired Palette */
+            --bg-base: #000000;
+            --surface-1: #0A0A0A;
+            --surface-2: #141414;
+            --surface-3: #1F1F1F;
+            
+            --text-primary: #FFFFFF;
+            --text-secondary: #8B8B8B;
+            --text-tertiary: #555555;
+            
+            --accent-gold: #E8D3B4; 
+            --accent-green: #4ADE80;
+            --border-subtle: rgba(255, 255, 255, 0.08);
+            --border-hover: rgba(255, 255, 255, 0.2);
+            
+            --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
         }
 
-        /* HORIZONTAL SCROLLABLE CATEGORIES */
+        body { 
+            font-family: 'Manrope', -apple-system, sans-serif; 
+            background-color: var(--bg-base);
+            color: var(--text-primary);
+            margin: 0; 
+            padding: 0;
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+            overflow-x: hidden;
+        }
+
+        /* Hide main scrollbar for a cleaner look */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: var(--bg-base); }
+        ::-webkit-scrollbar-thumb { background: var(--surface-3); border-radius: 4px; }
+
+        .container { 
+            max-width: 1400px; 
+            margin: 0 auto; 
+            padding: 40px 24px;
+        }
+
+        /* --- HEADER --- */
+        .header {
+            text-align: center;
+            margin-bottom: 60px;
+            padding-top: 40px;
+        }
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 4rem;
+            font-weight: 700;
+            margin: 0 0 10px 0;
+            letter-spacing: -0.03em;
+            color: var(--text-primary);
+        }
+        .header p {
+            font-size: 1.1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        /* --- CONTROL CENTER (Sticky Navbar) --- */
+        .control-panel {
+            background: rgba(10, 10, 10, 0.8);
+            backdrop-filter: blur(24px);
+            -webkit-backdrop-filter: blur(24px);
+            border: 1px solid var(--border-subtle);
+            border-radius: 20px;
+            padding: 20px;
+            margin-bottom: 40px;
+            position: sticky;
+            top: 24px;
+            z-index: 100;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+        }
+
+        .search-row {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+
+        /* Segmented Store Switcher */
+        .store-switcher {
+            display: flex;
+            background: var(--bg-base);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 6px;
+            gap: 6px;
+        }
+        .store-btn {
+            background: transparent;
+            color: var(--text-secondary);
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-family: 'Manrope', sans-serif;
+            font-weight: 600;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: var(--transition-smooth);
+        }
+        .store-btn:hover { color: var(--text-primary); }
+        .store-btn.active {
+            background: var(--surface-3);
+            color: var(--text-primary);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }
+
+        /* Search Input */
+        .search-bar-wrapper { flex: 1; min-width: 280px; }
+        .search-bar-wrapper input {
+            width: 100%;
+            background: transparent;
+            border: none;
+            border-bottom: 1px solid var(--border-subtle);
+            color: var(--text-primary);
+            padding: 16px 10px;
+            font-size: 1.1rem;
+            font-family: 'Manrope', sans-serif;
+            outline: none;
+            transition: var(--transition-smooth);
+        }
+        .search-bar-wrapper input:focus { border-bottom-color: var(--text-primary); }
+        .search-bar-wrapper input::placeholder { color: var(--text-tertiary); font-weight: 500; }
+
+        /* Custom Location Select (Minimalist) */
+        .custom-select {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--border-subtle);
+            padding: 14px 20px;
+            border-radius: 12px;
+            font-family: 'Manrope', sans-serif;
+            font-weight: 600;
+            cursor: pointer;
+            outline: none;
+            appearance: none;
+            min-width: 180px;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%23FFFFFF' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 16px center;
+        }
+        .custom-select option { background: var(--surface-1); color: var(--text-primary); }
+
+        /* Categories (Pills) */
         .category-row {
             display: flex;
-            gap: 10px;
+            gap: 12px;
             overflow-x: auto;
-            padding-bottom: 5px;
+            padding-bottom: 8px;
             scrollbar-width: none; 
         }
-        .category-row::-webkit-scrollbar { display: none; } 
+        .category-row::-webkit-scrollbar { display: none; }
         
         .category-btn {
-            background: #e5e7eb;
-            color: var(--text-main);
-            padding: 8px 16px;
-            border-radius: 20px;
-            border: none;
-            font-weight: 500;
+            background: var(--surface-2);
+            color: var(--text-secondary);
+            border: 1px solid transparent;
+            padding: 10px 24px;
+            border-radius: 30px;
+            font-family: 'Manrope', sans-serif;
+            font-weight: 600;
             font-size: 0.85rem;
             cursor: pointer;
             white-space: nowrap;
-            transition: all 0.2s;
+            transition: var(--transition-smooth);
         }
-        .category-btn.active, .category-btn:hover {
-            background: var(--primary);
-            color: white;
+        .category-btn:hover { background: var(--surface-3); color: var(--text-primary); }
+        .category-btn.active {
+            background: transparent;
+            color: var(--text-primary);
+            border: 1px solid var(--text-primary);
         }
 
-        /* CARD GRID */
+        /* --- PRODUCT GRID --- */
         .grid { 
             display: grid; 
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); 
-            gap: 20px; 
-        }
-        .card { 
-            background: var(--card-bg); 
-            border-radius: 12px; 
-            padding: 15px; 
-            box-shadow: 0 4px 6px rgba(0,0,0,0.03); 
-            display: flex; 
-            flex-direction: column; 
-            border: 1px solid var(--border);
-            transition: transform 0.2s;
-        }
-        .card:hover { transform: translateY(-3px); }
-        
-        .card img { 
-            width: 100%; 
-            height: 180px; 
-            object-fit: contain; 
-            margin-bottom: 12px; 
-        }
-        .badge { 
-            background: var(--danger); 
-            color: white; 
-            padding: 4px 8px; 
-            border-radius: 6px; 
-            font-weight: bold; 
-            font-size: 0.8em; 
-        }
-        .brand {
-            font-size: 0.75rem;
-            text-transform: uppercase;
-            color: var(--text-muted);
-            letter-spacing: 0.5px;
-            margin-bottom: 3px;
-        }
-        .title { 
-            font-size: 0.95rem; 
-            font-weight: bold; 
-            margin-bottom: 12px; 
-            flex-grow: 1; 
-            line-height: 1.4;
-        }
-        .prices { 
-            margin-bottom: 12px; 
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .old-price { text-decoration: line-through; color: var(--text-muted); font-size: 0.85rem; }
-        .new-price { font-size: 1.3rem; font-weight: bold; color: var(--success); }
-        .savings { font-size: 0.8rem; color: var(--success); background: #d1fae5; padding: 2px 6px; border-radius: 4px; }
-        
-        .locations { 
-            font-size: 0.75rem; 
-            color: var(--text-muted); 
-            margin-bottom: 15px; 
-            background: var(--bg); 
-            padding: 8px; 
-            border-radius: 6px; 
-        }
-        .buy-btn { 
-            background: var(--primary); 
-            color: white; 
-            text-align: center; 
-            padding: 10px; 
-            border-radius: 8px; 
-            text-decoration: none; 
-            font-weight: bold; 
-            font-size: 0.9rem;
-        }
-        .buy-btn:hover { background: var(--primary-hover); }
-        
-        #loading, #status-msg {
-            text-align: center; grid-column: 1 / -1; padding: 40px; font-size: 1.1rem; color: var(--text-muted);
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); 
+            gap: 24px; 
         }
 
-        /* INFINITE SCROLL LOADER */
+        .card { 
+            background: var(--surface-1);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            padding: 24px;
+            display: flex; 
+            flex-direction: column; 
+            transition: var(--transition-smooth);
+            position: relative;
+            isolation: isolate;
+        }
+        .card:hover { 
+            border-color: var(--border-hover);
+            transform: translateY(-4px);
+            box-shadow: 0 24px 48px rgba(0,0,0,0.4);
+            background: var(--surface-2);
+        }
+
+        /* Image Framing */
+        .card-img-wrapper {
+            width: 100%; 
+            height: 220px;
+            background: #FFFFFF; 
+            border-radius: 8px;
+            padding: 20px;
+            box-sizing: border-box;
+            margin-bottom: 24px;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .card img { 
+            max-width: 100%; max-height: 100%; 
+            object-fit: contain; 
+            transition: transform 0.5s ease;
+        }
+        .card:hover img { transform: scale(1.08); }
+
+        /* Typography inside cards */
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+        }
+        .brand {
+            font-size: 0.75rem; 
+            text-transform: uppercase; 
+            color: var(--text-secondary);
+            letter-spacing: 0.1em; 
+            font-weight: 700;
+        }
+        .stock-indicator {
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            font-weight: 600;
+        }
+        .title { 
+            font-size: 1.1rem; 
+            font-weight: 600; 
+            margin-bottom: 20px; 
+            flex-grow: 1; 
+            line-height: 1.4; 
+            color: var(--text-primary);
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+        }
+
+        /* Price block */
+        .prices-container { margin-bottom: 24px; }
+        .price-main {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            margin-bottom: 4px;
+        }
+        .price-strike {
+            font-family: 'Manrope', sans-serif;
+            font-size: 1rem;
+            color: var(--text-tertiary);
+            text-decoration: line-through;
+            font-weight: 500;
+        }
+        .savings-tag {
+            display: inline-block;
+            font-size: 0.8rem;
+            color: var(--accent-gold);
+            font-weight: 700;
+            letter-spacing: 0.05em;
+        }
+
+        .locations { 
+            font-size: 0.8rem; 
+            color: var(--text-tertiary); 
+            margin-bottom: 24px; 
+            font-weight: 500;
+            display: flex; align-items: center; gap: 6px;
+        }
+        .locations svg { opacity: 0.5; }
+        
+        /* Action Button */
+        .buy-btn { 
+            background: var(--text-primary);
+            color: var(--bg-base);
+            text-align: center; 
+            padding: 16px; 
+            border-radius: 8px; 
+            text-decoration: none; 
+            font-weight: 800; 
+            font-size: 0.95rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            transition: var(--transition-smooth);
+            border: 1px solid transparent;
+        }
+        .buy-btn:hover { 
+            background: var(--bg-base);
+            color: var(--text-primary);
+            border-color: var(--text-primary);
+        }
+        
+        /* Status Elements */
+        #loading, #status-msg {
+            text-align: center; grid-column: 1 / -1; padding: 80px 20px; 
+            font-size: 1.2rem; color: var(--text-secondary);
+            font-family: 'Playfair Display', serif;
+            font-style: italic;
+        }
         #scroll-sentinel {
-            text-align: center;
-            padding: 30px;
-            color: var(--text-muted);
-            font-weight: bold;
-            display: none;
+            text-align: center; padding: 40px; color: var(--text-tertiary);
+            font-weight: 500; display: none; margin-top: 20px;
         }
     </style>
 </head>
@@ -208,29 +334,27 @@
 
     <div class="container">
         <div class="header">
-            <h1>🔥 SmartLoots Tracker</h1>
-            <p id="platform-subtitle">Automated Multi-Store Price Drops Engine</p>
-            <p style="margin-top: 5px;"><small id="last-updated" style="color: var(--text-muted);"></small></p>
+            <h1>SmartLoots</h1>
+            <p id="platform-subtitle">Automated Multi-Store Engine</p>
+            <p style="margin-top: 12px; font-size: 0.75rem; color: var(--text-tertiary);" id="last-updated"></p>
         </div>
 
         <div class="control-panel">
             <div class="search-row">
-                <div class="select-wrapper">
-                    <select id="store-select" onchange="loadStoreData(this.value)">
-                        <option value="jiomart">🛒 JioMart</option>
-                        <option value="bigbasket">🥦 BigBasket</option>
-                    </select>
+                
+                <div class="store-switcher">
+                    <button class="store-btn active" onclick="handleStoreSwitch('jiomart', this)">JioMart</button>
+                    <button class="store-btn" onclick="handleStoreSwitch('bigbasket', this)">BigBasket</button>
+                    <button class="store-btn" onclick="handleStoreSwitch('amazon', this)">Amazon Now</button>
                 </div>
 
                 <div class="search-bar-wrapper">
-                    <input type="text" id="search-bar" placeholder="Search product name or brand..." oninput="processFilters()">
+                    <input type="text" id="search-bar" placeholder="Discover brands, items, or categories..." oninput="processFilters()">
                 </div>
 
-                <div class="select-wrapper">
-                    <select id="location-select" onchange="processFilters()">
-                        <option value="ALL">📍 All Locations</option>
-                    </select>
-                </div>
+                <select id="location-select" class="custom-select" onchange="processFilters()">
+                    <option value="ALL">Global View</option>
+                </select>
             </div>
             
             <div class="category-row" id="category-bar">
@@ -238,51 +362,70 @@
         </div>
 
         <div class="grid" id="deals-container">
-            <div id="loading">Loading current price matrix data...</div>
+            <div id="loading">curating exclusive selections...</div>
         </div>
 
         <div id="scroll-sentinel">
-            Fetching more deals... ⏳
+            loading more...
         </div>
     </div>
 
     <script>
+        // Updated to include Amazon endpoint
         const STORE_ENDPOINTS = {
             jiomart: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/deals.json',
-            bigbasket: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/data-bb.json'
+            bigbasket: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/data-bb.json',
+            amazon: 'https://raw.githubusercontent.com/tej0579/smartloots-data/main/amazon_deals.json'
         };
 
         let rawDataset = [];
         let filteredDataset = []; 
         let itemsToShow = 60;     
         let runningCategory = 'ALL';
+        let currentActiveStore = 'jiomart';
 
         function cleanString(str) {
             if (!str) return 'General';
             return str.replace(/_/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
         }
 
-        // 1. Core Data Fetch - Dynamic based on active store
+        // Handle Store Switch UI Logic
+        function handleStoreSwitch(storeKey, btnElement) {
+            if (currentActiveStore === storeKey) return;
+            
+            // UI Update
+            document.querySelectorAll('.store-btn').forEach(btn => btn.classList.remove('active'));
+            btnElement.classList.add('active');
+            currentActiveStore = storeKey;
+
+            // Trigger Fetch
+            loadStoreData(storeKey);
+        }
+
+        // 1. Core Data Fetch
         function loadStoreData(storeKey) {
-            // Reset UI States
-            document.getElementById('deals-container').innerHTML = "<div id='loading'>Loading matrix payload...</div>";
+            document.getElementById('deals-container').innerHTML = "<div id='loading'>curating exclusive selections...</div>";
             document.getElementById('scroll-sentinel').style.display = 'none';
             document.getElementById('search-bar').value = '';
-            document.getElementById('platform-subtitle').innerText = `${storeKey === 'jiomart' ? 'JioMart' : 'BigBasket'} Automated Price Drops Engine`;
+            
+            // Dynamic Subtitle Mapping
+            let engineName = 'JioMart';
+            if (storeKey === 'bigbasket') engineName = 'BigBasket';
+            if (storeKey === 'amazon') engineName = 'Amazon Now';
+            document.getElementById('platform-subtitle').innerText = `${engineName} Engine Active`;
+            
             runningCategory = 'ALL';
             
-            // Re-fetch targeting specific repository endpoint
             fetch(STORE_ENDPOINTS[storeKey] + '?v=' + new Date().getTime())
                 .then(res => { if (!res.ok) throw new Error(); return res.json(); })
                 .then(data => {
                     rawDataset = data;
-                    document.getElementById('last-updated').innerText = `Sync Matrix Updated: ${new Date().toLocaleString()}`;
-                    
+                    document.getElementById('last-updated').innerText = `LAST SYNC: ${new Date().toLocaleString()}`;
                     generateFilterUI();
                     processFilters();
                 })
                 .catch(() => {
-                    document.getElementById('deals-container').innerHTML = "<div id='status-msg'>Data source sync pending or file not found. Refresh in a few minutes!</div>";
+                    document.getElementById('deals-container').innerHTML = "<div id='status-msg'>Synchronization pending. Please wait.</div>";
                 });
         }
 
@@ -296,19 +439,17 @@
                 if(item.category) categoriesSet.add(item.category);
             });
 
-            // Rebuild Locations Dropdown
             const locSelect = document.getElementById('location-select');
-            locSelect.innerHTML = '<option value="ALL">📍 All Locations</option>'; // Clear previous
+            locSelect.innerHTML = '<option value="ALL">Global View</option>'; 
             Array.from(locationsSet).sort().forEach(loc => {
                 const opt = document.createElement('option');
                 opt.value = loc;
-                opt.innerText = `📍 ${cleanString(loc)}`;
+                opt.innerText = cleanString(loc);
                 locSelect.appendChild(opt);
             });
 
-            // Rebuild Category Bar
             const catBar = document.getElementById('category-bar');
-            catBar.innerHTML = '<button class="category-btn active" onclick="switchCategory(this, \'ALL\')">All Items</button>'; // Clear previous
+            catBar.innerHTML = '<button class="category-btn active" onclick="switchCategory(this, \'ALL\')">All Curations</button>'; 
             Array.from(categoriesSet).sort().forEach(cat => {
                 const btn = document.createElement('button');
                 btn.className = 'category-btn';
@@ -318,7 +459,6 @@
             });
         }
 
-        // Category switching
         function switchCategory(element, catValue) {
             document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
             element.classList.add('active');
@@ -326,7 +466,7 @@
             processFilters();
         }
 
-        // 3. Central Reactive Filtering Engine
+        // 3. Central Filtering Engine
         function processFilters() {
             const searchQuery = document.getElementById('search-bar').value.toLowerCase();
             const selectedLocation = document.getElementById('location-select').value;
@@ -342,7 +482,7 @@
                 return matchesSearch && matchesLocation && matchesCategory;
             });
 
-            itemsToShow = 60; // Reset pagination
+            itemsToShow = 60;
             renderInterfaceCards();
         }
 
@@ -353,7 +493,7 @@
             displayContainer.innerHTML = '';
 
             if (filteredDataset.length === 0) {
-                displayContainer.innerHTML = "<div id='status-msg'>No deals matching current search or filter combinations.</div>";
+                displayContainer.innerHTML = "<div id='status-msg'>No matches found for current parameters.</div>";
                 sentinel.style.display = 'none'; 
                 return;
             }
@@ -361,26 +501,41 @@
             const displayLimitItems = filteredDataset.slice(0, itemsToShow);
 
             displayLimitItems.forEach(deal => {
-                const cleanLocs = deal.locations ? deal.locations.map(l => cleanString(l)).join(' • ') : 'Global';
-                const currentStore = document.getElementById('store-select').value;
-                const fallbackBrand = currentStore === 'jiomart' ? 'JioMart' : 'BigBasket';
+                const cleanLocs = deal.locations ? deal.locations.map(l => cleanString(l)).join(' • ') : 'Global Curation';
+                const currentStore = currentActiveStore;
+                
+                // Dynamic Fallback Brand
+                let fallbackBrand = 'JioMart';
+                if (currentStore === 'bigbasket') fallbackBrand = 'BigBasket';
+                if (currentStore === 'amazon') fallbackBrand = 'Amazon Now';
                 
                 const cardTemplate = `
                     <div class="card">
-                        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom: 10px;">
-                            <span class="badge">${deal.discount_pct}% OFF</span>
-                            <span style="font-size: 0.75rem; color: var(--text-muted); font-weight:600;">Stock: ${deal.stock || 'N/A'}</span>
+                        <div class="card-meta">
+                            <span class="brand">${deal.brand && deal.brand.toUpperCase() !== 'N/A' ? deal.brand : fallbackBrand}</span>
+                            <span class="stock-indicator">Stock: ${deal.stock || 'N/A'}</span>
                         </div>
-                        <img src="${deal.image}" alt="${deal.name}" onerror="this.src='https://via.placeholder.com/300x180?text=Image+Coming+Soon'">
-                        <div class="brand">${deal.brand && deal.brand.toUpperCase() !== 'N/A' ? deal.brand : fallbackBrand}</div>
-                        <div class="title">${deal.name}</div>
-                        <div class="prices">
-                            <span class="new-price">₹${deal.new_price}</span>
-                            <span class="old-price">₹${deal.old_price}</span>
-                            <span class="savings">Save ₹${deal.savings}</span>
+                        
+                        <div class="card-img-wrapper">
+                            <img src="${deal.image}" alt="${deal.name}" onerror="this.src='https://via.placeholder.com/300x180?text=Unavailable'">
                         </div>
-                        <div class="locations">📍 ${cleanLocs}</div>
-                        <a href="${deal.url}" target="_blank" class="buy-btn">Loot Fast 👉</a>
+                        
+                        <div class="title" title="${deal.name}">${deal.name}</div>
+                        
+                        <div class="prices-container">
+                            <div class="price-main">
+                                ₹${deal.new_price}
+                                <span class="price-strike">₹${deal.old_price}</span>
+                            </div>
+                            <span class="savings-tag">FLAT ${deal.discount_pct}% OFF — SAVE ₹${deal.savings}</span>
+                        </div>
+                        
+                        <div class="locations">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                            ${cleanLocs}
+                        </div>
+                        
+                        <a href="${deal.url}" target="_blank" class="buy-btn">Acquire Now</a>
                     </div>
                 `;
                 displayContainer.innerHTML += cardTemplate;
@@ -393,19 +548,17 @@
             }
         }
 
-        // 5. Infinite Scroll Trigger Logic
+        // 5. Infinite Scroll
         const observer = new IntersectionObserver((entries) => {
             if (entries[0].isIntersecting && itemsToShow < filteredDataset.length) {
                 itemsToShow += 60;
                 renderInterfaceCards();
             }
-        }, {
-            rootMargin: "200px" 
-        });
+        }, { rootMargin: "400px" });
 
         observer.observe(document.getElementById('scroll-sentinel'));
 
-        // Bootstrap on page load (Default to JioMart)
+        // Bootstrap on page load
         loadStoreData('jiomart');
 
     </script>
