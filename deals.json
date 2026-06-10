@@ -1,1 +1,35 @@
-
+[
+    {
+        "uid": "7511002",
+        "name": "Kellogg's Chocos Crunchy Bites 375 g",
+        "brand": "Kellogg's",
+        "category": "breakfast_cereals",
+        "old_price": 666.0,
+        "new_price": 199.0,
+        "savings": 467.0,
+        "discount_pct": 70.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kelloggs-chocos-crunchy-bites-375-g-mffmvh-7511002",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.dd28d0d83e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7506517",
+        "name": "Saffola Multigrain Oats 480 g",
+        "brand": "saffola",
+        "category": "breakfast_cereals",
+        "old_price": 99.0,
+        "new_price": 74.0,
+        "savings": 25.0,
+        "discount_pct": 25.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/saffola-oats-480-g-mffmtc-7506517",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916961281.jpg.e34ee9a40b.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    }
+]
