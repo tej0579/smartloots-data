@@ -1,19 +1,218 @@
 [
     {
-        "uid": "7511002",
-        "name": "Kellogg's Chocos Crunchy Bites 375 g",
-        "brand": "Kellogg's",
-        "category": "breakfast_cereals",
-        "old_price": 666.0,
-        "new_price": 199.0,
-        "savings": 467.0,
-        "discount_pct": 70.1,
+        "uid": "7542948",
+        "name": "ITC Master Chef Hara Bhara Kebab 230 g",
+        "brand": "ITC Master Chef",
+        "category": "ice_cream_frozen",
+        "old_price": 133.0,
+        "new_price": 70.0,
+        "savings": 63.0,
+        "discount_pct": 47.4,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kelloggs-chocos-crunchy-bites-375-g-mffmvh-7511002",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.dd28d0d83e.jpg",
+        "url": "https://store1.jiomartjcp.com/product/itc-master-chef-hara-bhara-kebab-230-g-mffnaa-7542948",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4916414051.jpg.5e66385080.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7535972",
+        "name": "ITC Master Chef Lebanese Falafel Kebab 230 g",
+        "brand": "ITC Master Chef",
+        "category": "ice_cream_frozen",
+        "old_price": 133.0,
+        "new_price": 70.0,
+        "savings": 63.0,
+        "discount_pct": 47.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/itc-master-chef-lebanese-falafel-kebab-230-g-mffn72-7535972",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4914917171.jpg.efcda55e41.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7541944",
+        "name": "Nyle Naturals Advanced Damage Repair Paraben Free Shampoo 800 ml",
+        "brand": "nyle",
+        "category": "hair_care",
+        "old_price": 598.0,
+        "new_price": 315.0,
+        "savings": 283.0,
+        "discount_pct": 47.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-advanced-damage-repair-paraben-free-shampoo-800-ml-mffn9t-7541944",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900032111.jpg.7cdbb7e89f.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7539412",
+        "name": "Nyle Naturals Silky and Smooth Anti Hairfall Shampoo 800 ml",
+        "brand": "nyle",
+        "category": "hair_care",
+        "old_price": 598.0,
+        "new_price": 315.0,
+        "savings": 283.0,
+        "discount_pct": 47.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-silky-and-smooth-anti-hairfall-shampoo-800-ml-mffn8m-7539412",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900032121.jpg.123d1df903.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7746245",
+        "name": "Gillette Mach3 Razor + Stand 1N",
+        "brand": "gillette",
+        "category": "mens_grooming",
+        "old_price": 427.0,
+        "new_price": 225.0,
+        "savings": 202.0,
+        "discount_pct": 47.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/gillette-mach3-razor-stand-1n-mhd40e-7746245",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946089641.jpg.0587308e0c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7597291",
+        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Natural Black (1) 25 ml",
+        "brand": "Indica",
+        "category": "hair_care",
+        "old_price": 46.0,
+        "new_price": 29.0,
+        "savings": 17.0,
+        "discount_pct": 37.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/indica-easy-shampoo-based-ammonia-free-hair-colour-natural-black-1-25-ml-mfpi9o-7597291",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/indica-easy-shampoo-based-ammonia-free-hair-colour-natural-black-1-25-ml-0-20210818.jpg.89671d5522.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7541003",
+        "name": "Tulips Sensitive Baby Wet Wipes - 72 count with Lid",
+        "brand": "tulips",
+        "category": "diapers_wipes",
+        "old_price": 77.0,
+        "new_price": 49.0,
+        "savings": 28.0,
+        "discount_pct": 36.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tulips-sensitive-baby-wet-wipes-72-count-with-lid-mffn9e-7541003",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936544881.jpg.ea0474e6ea.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7528496",
+        "name": "Nyle Naturals Silky and Smooth Anti Hairfall Shampoo 400 ml",
+        "brand": "nyle",
+        "category": "hair_care",
+        "old_price": 299.0,
+        "new_price": 195.0,
+        "savings": 104.0,
+        "discount_pct": 34.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-silky-and-smooth-anti-hairfall-shampoo-400-ml-mffn3p-7528496",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910462481.jpg.776a225aaa.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7511440",
+        "name": "Nyle Naturals Advanced Damage Repair Paraben Free Shampoo 400 ml",
+        "brand": "nyle",
+        "category": "hair_care",
+        "old_price": 299.0,
+        "new_price": 195.0,
+        "savings": 104.0,
+        "discount_pct": 34.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-advanced-damage-repair-paraben-free-shampoo-400-ml-mffmvp-7511440",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910462471.jpg.3391e33fcf.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7526682",
+        "name": "VLCC Smokey Black Kajal .35 g",
+        "brand": "vlcc",
+        "category": "eyes",
+        "old_price": 99.0,
+        "new_price": 69.0,
+        "savings": 30.0,
+        "discount_pct": 30.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-smokey-black-kajal-35-g-mffn2u-7526682",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944095221.jpg.7cd865dc79.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "24070535",
+        "name": "Havmor Lotte Cone Double Belgium Chocolate Ice Cream 150 ml",
+        "brand": "HAVMOR",
+        "category": "ice_cream_frozen",
+        "old_price": 89.0,
+        "new_price": 64.0,
+        "savings": 25.0,
+        "discount_pct": 28.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/havmor-lotte-cone-double-belgium-chocolate-ice-cream-150-ml-mief72-24070535",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923347181.jpg.3a0b456660.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7518723",
+        "name": "Indica 10 Minute Creme Hair Colour, Natural Black 40 ml",
+        "brand": "Indica",
+        "category": "hair_care",
+        "old_price": 36.0,
+        "new_price": 26.0,
+        "savings": 10.0,
+        "discount_pct": 27.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/indica-10-minute-creme-hair-colour-natural-black-40-ml-mffmz4-7518723",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911682481.jpg.feebfc6b07.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "102292147",
+        "name": "Parle Bigger Melody Chocolate 138 g",
+        "brand": "parle",
+        "category": "chocolates_candies",
+        "old_price": 50.0,
+        "new_price": 37.0,
+        "savings": 13.0,
+        "discount_pct": 26.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parle-bigger-melody-chocolate-138g-mpgkb6-102292147",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4948096371.jpg.d8f0009e04.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -30,6 +229,136 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916961281.jpg.e34ee9a40b.jpg",
         "locations": [
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "102240234",
+        "name": "Parle Bigger Melody Chocolate 276 g",
+        "brand": "parle",
+        "category": "chocolates_candies",
+        "old_price": 100.0,
+        "new_price": 75.0,
+        "savings": 25.0,
+        "discount_pct": 25.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parle-bigger-melody-chocolate-276g-mpgkbe-102240234",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4948096711.jpg.8840b741d0.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7592912",
+        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Dark Brown (3) 25 ml",
+        "brand": "Indica",
+        "category": "hair_care",
+        "old_price": 39.0,
+        "new_price": 30.0,
+        "savings": 9.0,
+        "discount_pct": 23.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/indica-easy-shampoo-based-ammonia-free-hair-colour-dark-brown-3-25-ml-mfpi7p-7592912",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912516291.jpg.cfc77c648c.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7501468",
+        "name": "Pampers All Round Protection Pants (L) 36 count (9 - 14 kg)",
+        "brand": "pampers",
+        "category": "diapers_wipes",
+        "old_price": 610.0,
+        "new_price": 470.0,
+        "savings": 140.0,
+        "discount_pct": 23.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pampers-all-round-protection-pants-l-36-count-9-14-kg-mffmqy-7501468",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/2.jpg.3ecfd8712e.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7533426",
+        "name": "Ching's Secret Dark Soy Sauce 210 g",
+        "brand": "Ching's Secret",
+        "category": "spread_sauces_ketchup",
+        "old_price": 50.0,
+        "new_price": 40.0,
+        "savings": 10.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/chings-secret-dark-soy-sauce-210-g-mffn5w-7533426",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ching-s-secret-dark-soy-sauce-210-g-0-20210811.jpg.09153828d7.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "75837485",
+        "name": "Shree Gita Ultra Lite Refined Cottonseed Oil 13 kg",
+        "brand": "SHREE GITA",
+        "category": "edible_oils",
+        "old_price": 2951.0,
+        "new_price": 2365.0,
+        "savings": 586.0,
+        "discount_pct": 19.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/shree-gita-ultra-lite-refined-cottonseed-oil-13-kg-mndzc3-75837485",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947753271.jpg.ae5242d4b3.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7505475",
+        "name": "Himalaya Baby Powder 400 g",
+        "brand": "himalaya",
+        "category": "bath_hygiene_grooming",
+        "old_price": 273.0,
+        "new_price": 225.0,
+        "savings": 48.0,
+        "discount_pct": 17.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-baby-powder-400-g-mffmsv-7505475",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-baby-powder-400-g-0-20210909.jpg.f2bc65bbea.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7729759",
+        "name": "Lux International Bouncy & Bright Soap 130 g (Pack of 4)",
+        "brand": "Lux",
+        "category": "bath_hand_wash",
+        "old_price": 344.0,
+        "new_price": 295.0,
+        "savings": 49.0,
+        "discount_pct": 14.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/lux-international-bouncy-bright-soap-130-g-pack-of-4-mgqglk-7729759",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945787521.jpg.604ecf6028.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7541862",
+        "name": "Dettol Lime Fresh Disinfectant Liquid 1 L",
+        "brand": "Dettol",
+        "category": "health_and_wellness",
+        "old_price": 451.0,
+        "new_price": 404.0,
+        "savings": 47.0,
+        "discount_pct": 10.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dettol-lime-fresh-disinfectant-liquid-1-l-mffn9s-7541862",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4915860211.jpg.43929fcfc8.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     }
 ]
