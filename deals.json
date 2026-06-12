@@ -1,5 +1,38 @@
 [
     {
+        "uid": "7536060",
+        "name": "Sunfeast Yippee! Powerup Masala Atta Noodles 70 g",
+        "brand": "sunfeast",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 249.0,
+        "new_price": 25.0,
+        "savings": 224.0,
+        "discount_pct": 90.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sunfeast-yippee-powerup-masala-atta-noodles-70-g-mffn73-7536060",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912982551.jpg.1644cea5a1.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7527479",
+        "name": "YiPPee Magic Masala Noodles with Added Veggies (6 in 1) 420 g",
+        "brand": "sunfeast",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 374.0,
+        "new_price": 74.0,
+        "savings": 300.0,
+        "discount_pct": 80.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/yippee-magic-masala-noodles-with-added-veggies-420g-mffn38-7527479",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4913373981.jpg.37dcffa195.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7542948",
         "name": "ITC Master Chef Hara Bhara Kebab 230 g",
         "brand": "ITC Master Chef",
@@ -65,6 +98,23 @@
         ]
     },
     {
+        "uid": "7524764",
+        "name": "Heritage A-One Spiced Buttermilk 180 ml",
+        "brand": "Heritage",
+        "category": "milk_milk_products",
+        "old_price": 21.0,
+        "new_price": 13.0,
+        "savings": 8.0,
+        "discount_pct": 38.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/heritage-a-one-spiced-buttermilk-180-ml-mffn1u-7524764",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938284581.jpg.799b46fe06.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7597291",
         "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Natural Black (1) 25 ml",
         "brand": "Indica",
@@ -83,19 +133,19 @@
         ]
     },
     {
-        "uid": "7541003",
-        "name": "Tulips Sensitive Baby Wet Wipes - 72 count with Lid",
-        "brand": "tulips",
-        "category": "diapers_wipes",
-        "old_price": 77.0,
-        "new_price": 49.0,
-        "savings": 28.0,
-        "discount_pct": 36.4,
+        "uid": "101522164",
+        "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 40)",
+        "brand": "stayfree",
+        "category": "feminine_hygiene",
+        "old_price": 310.0,
+        "new_price": 199.0,
+        "savings": 111.0,
+        "discount_pct": 35.8,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tulips-sensitive-baby-wet-wipes-72-count-with-lid-mffn9e-7541003",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936544881.jpg.ea0474e6ea.jpg",
+        "url": "https://store1.jiomartjcp.com/product/stayfree-secure-xpert-xl-sanitary-napkin-pack-of-40-mpe075-101522164",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947888241.jpg.89f7bab53b.jpg",
         "locations": [
-            "INDORE"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -131,6 +181,73 @@
         ]
     },
     {
+        "uid": "87485845",
+        "name": "Nescafe Coffee Vietnamese Latte  200 ml Can",
+        "brand": "Nescafe",
+        "category": "milk_milk_products",
+        "old_price": 75.0,
+        "new_price": 49.0,
+        "savings": 26.0,
+        "discount_pct": 34.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nescafe-coffee-vietnamese-style-200-ml-movc56-87485845",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946150361.jpg.a5236381c4.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7508925",
+        "name": "Flair FC - 512 M Electronic Calculator",
+        "brand": "flair",
+        "category": "office_supplies",
+        "old_price": 299.0,
+        "new_price": 199.0,
+        "savings": 100.0,
+        "discount_pct": 33.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/flair-fc-512-m-electronic-calculator-mffmuj-7508925",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936202541.jpg.b1964d9079.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "107470075",
+        "name": "Sofy Anti Bacteria Period Panty M-L 6 N",
+        "brand": "sofy",
+        "category": "feminine_hygiene",
+        "old_price": 299.0,
+        "new_price": 199.0,
+        "savings": 100.0,
+        "discount_pct": 33.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sofy-anti-bacteria-period-panty-m-l-6-n-mpv5ha-107470075",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4945787841.jpg.3d74855462.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "107470079",
+        "name": "Sofy Antibacteria Period Panty L-XL 6N",
+        "brand": "sofy",
+        "category": "feminine_hygiene",
+        "old_price": 299.0,
+        "new_price": 199.0,
+        "savings": 100.0,
+        "discount_pct": 33.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sofy-antibacteria-period-panty-l-xl-6n-mpv5od-107470079",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4945787821.jpg.5391128903.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7526682",
         "name": "VLCC Smokey Black Kajal .35 g",
         "brand": "vlcc",
@@ -145,6 +262,38 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "107472274",
+        "name": "Sofy Antibacteria Period Panty L-Xl 2 N",
+        "brand": "sofy",
+        "category": "feminine_hygiene",
+        "old_price": 70.0,
+        "new_price": 49.0,
+        "savings": 21.0,
+        "discount_pct": 30.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sofy-antibacteria-period-panty-l-xl-2-n-mpv8lu-107472274",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4945787811.jpg.95dc0bd806.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "101522162",
+        "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 18)",
+        "brand": "stayfree",
+        "category": "feminine_hygiene",
+        "old_price": 140.0,
+        "new_price": 99.0,
+        "savings": 41.0,
+        "discount_pct": 29.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/stayfree-secure-xpert-xl-sanitary-napkin-pack-of-18-mpe075-101522162",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947888231.jpg.4586cbd6a9.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -234,18 +383,142 @@
         ]
     },
     {
-        "uid": "7501468",
-        "name": "Pampers All Round Protection Pants (L) 36 count (9 - 14 kg)",
-        "brand": "pampers",
-        "category": "diapers_wipes",
-        "old_price": 610.0,
-        "new_price": 470.0,
-        "savings": 140.0,
-        "discount_pct": 23.0,
+        "uid": "7530694",
+        "name": "Tata Grand Classic Coffee 100 g",
+        "brand": "TATA GRAND",
+        "category": "tea_coffee",
+        "old_price": 289.0,
+        "new_price": 220.0,
+        "savings": 69.0,
+        "discount_pct": 23.9,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-all-round-protection-pants-l-36-count-9-14-kg-mffmqy-7501468",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/2.jpg.3ecfd8712e.jpg",
+        "url": "https://store1.jiomartjcp.com/product/tata-grand-classic-coffee-100-g-mffn4o-7530694",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936575061.jpg.6ce518a7c9.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7511225",
+        "name": "Denver Hamilton Deodorant Body Spray for Men 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 210.0,
+        "new_price": 160.0,
+        "savings": 50.0,
+        "discount_pct": 23.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-deodorant-body-spray-for-men-200-ml-mffmvl-7511225",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914317751.jpg.9a01c20040.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7561710",
+        "name": "Denver Hamilton Imperial Deodorant Body Spray for Men 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 210.0,
+        "new_price": 160.0,
+        "savings": 50.0,
+        "discount_pct": 23.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-imperial-deodorant-body-spray-for-men-200-ml-mfphu2-7561710",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915988951.jpg.f2fba2bca8.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7504176",
+        "name": "Denver Hamilton Caliber Deodorant Body Spray 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 210.0,
+        "new_price": 160.0,
+        "savings": 50.0,
+        "discount_pct": 23.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-caliber-deodorant-body-spray-200-ml-mffmse-7504176",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915988961.jpg.9c5d4fc98e.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7524195",
+        "name": "Nivea Waterlily & Oil Shower Gel 125 ml",
+        "brand": "nivea",
+        "category": "bath_hand_wash",
+        "old_price": 111.0,
+        "new_price": 86.0,
+        "savings": 25.0,
+        "discount_pct": 22.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nivea-waterlily-oil-shower-gel-125-ml-mffn1l-7524195",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915996181.jpg.223d7cc2bc.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7590650",
+        "name": "Home One Wodden Fork Pack of 30",
+        "brand": "home one",
+        "category": "plates_cutlery",
+        "old_price": 45.0,
+        "new_price": 35.0,
+        "savings": 10.0,
+        "discount_pct": 22.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/home-one-wodden-fork-pack-of-30-mfpi6q-7590650",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944836061.jpg.df2041c3e2.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7508319",
+        "name": "Denver Hamilton Honour Deodorant Body Spray for Men 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 189.0,
+        "new_price": 149.0,
+        "savings": 40.0,
+        "discount_pct": 21.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-honour-deodorant-body-spray-for-men-200-ml-mffmu7-7508319",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914317771.jpg.78f4bbd528.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7516907",
+        "name": "Denver Hamilton Pride Deodorant Body Spray for Men 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 189.0,
+        "new_price": 149.0,
+        "savings": 40.0,
+        "discount_pct": 21.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-pride-deodorant-body-spray-for-men-200-ml-mffmy9-7516907",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914317761.jpg.1d1033400e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -263,6 +536,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ching-s-secret-dark-soy-sauce-210-g-0-20210811.jpg.09153828d7.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7544288",
+        "name": "Kerala Sandal Premium Soap 125 g",
+        "brand": "Kerala Sandal",
+        "category": "bath_hand_wash",
+        "old_price": 50.0,
+        "new_price": 40.0,
+        "savings": 10.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kerala-sandal-premium-soap-125-g-mffnav-7544288",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936611451.jpg.3e43407083.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -298,6 +587,22 @@
         ]
     },
     {
+        "uid": "7525730",
+        "name": "Kohinoor Mini Mogra Basmati Rice 10 kg",
+        "brand": "kohinoor",
+        "category": "rice",
+        "old_price": 549.0,
+        "new_price": 489.0,
+        "savings": 60.0,
+        "discount_pct": 10.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kohinoor-mini-mogra-basmati-rice-10-kg-mffn2c-7525730",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936946541.jpg.9501f23a74.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7541862",
         "name": "Dettol Lime Fresh Disinfectant Liquid 1 L",
         "brand": "Dettol",
@@ -311,6 +616,39 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4915860211.jpg.43929fcfc8.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7501448",
+        "name": "Daawat Rozana Niki 40 Basmati Rice 10 kg",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 479.0,
+        "new_price": 429.0,
+        "savings": 50.0,
+        "discount_pct": 10.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-rozana-niki-40-basmati-rice-10-kg-mffmqy-7501448",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908637231.jpg.c2cb67ba7b.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7540040",
+        "name": "Horlicks Classic Malt 1 kg",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 474.0,
+        "new_price": 426.0,
+        "savings": 48.0,
+        "discount_pct": 10.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/horlicks-classic-malt-1-kg-mffn8x-7540040",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900050731.jpg.209cbdb0ff.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     }
 ]
