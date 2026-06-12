@@ -789,7 +789,7 @@ async function submitAIChatQuery() {
   chatBox.scrollTop = chatBox.scrollHeight;
   
   try {
-    const response = await fetch("http://43.205.24.206:5000/api/chat", {
+    const response = await fetch("https://activist-audacity-preflight.ngrok-free.dev/api/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ question: question })
