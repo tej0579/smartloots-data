@@ -1,5 +1,42 @@
 [
     {
+        "uid": "7509840",
+        "name": "Sunfeast YiPPee Magic Masala Noodles 560 g",
+        "brand": "Sunfeast YiPPee!",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 1854.0,
+        "new_price": 99.0,
+        "savings": 1755.0,
+        "discount_pct": 94.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sunfeast-yippee-magic-masala-noodles-560-g-mffmuy-7509840",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4938570511.jpg.1c2c0222e4.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7578209",
+        "name": "YiPPee Magic Masala Noodles with Added Veggies 70 g",
+        "brand": "YIPPEE",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 230.0,
+        "new_price": 15.0,
+        "savings": 215.0,
+        "discount_pct": 93.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/yippee-magic-masala-noodles-with-added-veggies-70g-mfpi14-7578209",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4907676341.jpg.eecce88a96.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7536060",
         "name": "Sunfeast Yippee! Powerup Masala Atta Noodles 70 g",
         "brand": "sunfeast",
@@ -30,6 +67,38 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4913373981.jpg.37dcffa195.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7532293",
+        "name": "YiPPee! Magic Masala Noodles with Added Veggies 280 g",
+        "brand": "YIPPEE",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 230.0,
+        "new_price": 52.0,
+        "savings": 178.0,
+        "discount_pct": 77.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/yippee-magic-masala-noodles-with-added-veggies-280g-mffn5e-7532293",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908189851.jpg.83fb71737a.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7502587",
+        "name": "Sunfeast YiPPee! Powerup Masala Atta Noodles 280 g",
+        "brand": "sunfeast",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 230.0,
+        "new_price": 77.0,
+        "savings": 153.0,
+        "discount_pct": 66.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sunfeast-yippee-powerup-masala-atta-noodles-280-g-mffmro-7502587",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912982541.jpg.41328f76b4.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -314,20 +383,35 @@
         ]
     },
     {
-        "uid": "7525121",
-        "name": "Wonderland Premium Munch Healthy Crunch Almonds 500g",
-        "brand": "wonderland foods",
-        "category": "dry_fruits_nuts",
-        "old_price": 479.0,
-        "new_price": 351.0,
-        "savings": 128.0,
-        "discount_pct": 26.7,
+        "uid": "31047718",
+        "name": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg",
+        "brand": "Tata Sampann",
+        "category": "dals_pulses",
+        "old_price": 219.0,
+        "new_price": 159.0,
+        "savings": 60.0,
+        "discount_pct": 27.4,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/wonderland-premium-munch-healthy-crunch-almonds-500g-mffn21-7525121",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/8906095123629front.jpg.a33af4e71b.jpg",
+        "url": "https://store1.jiomartjcp.com/product/tata-sampann-unpolished-tur-arhar-dal-1-kg-milcks-31047718",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908309321.jpg.6bc7143e59.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "63180005",
+        "name": "Lotte World Swiss Choco Brownie Ice Cream Cone 150 ml",
+        "brand": "Lotte",
+        "category": "ice_cream_frozen",
+        "old_price": 81.0,
+        "new_price": 59.0,
+        "savings": 22.0,
+        "discount_pct": 27.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/lotte-world-swiss-choco-brownie-ice-cream-cone-150-ml-mjb97j-63180005",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923347161.jpg.ccdb886bf8.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -454,54 +538,19 @@
         ]
     },
     {
-        "uid": "7524195",
-        "name": "Nivea Waterlily & Oil Shower Gel 125 ml",
-        "brand": "nivea",
-        "category": "bath_hand_wash",
-        "old_price": 111.0,
-        "new_price": 86.0,
-        "savings": 25.0,
-        "discount_pct": 22.5,
+        "uid": "7592912",
+        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Dark Brown (3) 25 ml",
+        "brand": "Indica",
+        "category": "hair_care",
+        "old_price": 39.0,
+        "new_price": 30.0,
+        "savings": 9.0,
+        "discount_pct": 23.1,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-waterlily-oil-shower-gel-125-ml-mffn1l-7524195",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915996181.jpg.223d7cc2bc.jpg",
+        "url": "https://store1.jiomartjcp.com/product/indica-easy-shampoo-based-ammonia-free-hair-colour-dark-brown-3-25-ml-mfpi7p-7592912",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912516291.jpg.cfc77c648c.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7590650",
-        "name": "Home One Wodden Fork Pack of 30",
-        "brand": "home one",
-        "category": "plates_cutlery",
-        "old_price": 45.0,
-        "new_price": 35.0,
-        "savings": 10.0,
-        "discount_pct": 22.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/home-one-wodden-fork-pack-of-30-mfpi6q-7590650",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944836061.jpg.df2041c3e2.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7508319",
-        "name": "Denver Hamilton Honour Deodorant Body Spray for Men 180 ml",
-        "brand": "Denver",
-        "category": "deo_fragrances",
-        "old_price": 189.0,
-        "new_price": 149.0,
-        "savings": 40.0,
-        "discount_pct": 21.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-honour-deodorant-body-spray-for-men-200-ml-mffmu7-7508319",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914317771.jpg.78f4bbd528.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -651,5 +700,4 @@
             "VIKARABAD"
         ]
     }
-    
 ]
