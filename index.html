@@ -248,14 +248,13 @@ nav{
     0 0 80px -20px rgba(200,169,110,0.12)
 }
 
-/* IMAGE ZONE — the centrepiece */
+/* IMAGE ZONE */
 .img-zone{
   position:relative;
   height:240px;overflow:hidden;flex-shrink:0;
   background:#ffffff;
   border-bottom:1px solid var(--white-07)
 }
-/* Subtle vignette over image */
 .img-zone::after{
   content:'';position:absolute;inset:0;
   background:radial-gradient(ellipse at center,transparent 50%,rgba(0,0,0,0.08) 100%);
@@ -646,7 +645,7 @@ async function load(key){
 function buildUI(){
   const locs=new Set(),cats=new Set();
   raw.forEach(d=>{
-    (d.locations||[]).forEach(l=>locs.add(l));
+    (d.locations||[]).forEach(l=>locs.add(l.toUpperCase().trim()));
     if(d.category)cats.add(d.category);
   });
 
@@ -674,10 +673,16 @@ function doCat(v,el){
 
 function doFilter(){
   const q=$('q').value.toLowerCase().trim();
-  const loc=$('loc').value;
+  const loc=$('loc').value.toUpperCase().trim();
+  
   filtered=raw.filter(d=>{
     const ms=!q||(d.name||'').toLowerCase().includes(q)||(d.brand||'').toLowerCase().includes(q);
-    const ml=loc==='ALL'||(d.locations||[]).includes(loc);
+    
+    // Normalize target dataset array keys by replacing underscores with empty spaces cleanly
+    const itemLocs=(d.locations||[]).map(l=>l.replace(/_/g,' ').toUpperCase().trim());
+    const targetLocNormal=loc.replace(/_/g,' ');
+    const ml=loc==='ALL'||itemLocs.includes(targetLocNormal);
+    
     const mc=cat==='ALL'||d.category===cat;
     return ms&&ml&&mc;
   });
@@ -778,12 +783,10 @@ async function submitAIChatQuery() {
   
   if(!question) return;
   
-  // Render user question inside chat tray bubble
   chatBox.innerHTML += `<div class="ai-msg user">${question}</div>`;
   input.value = '';
   chatBox.scrollTop = chatBox.scrollHeight;
   
-  // Set up temporary loading anchor ID
   const loadingId = 'loading-' + Date.now();
   chatBox.innerHTML += `<div class="ai-msg bot" id="${loadingId}">Analyzing database index matrices...</div>`;
   chatBox.scrollTop = chatBox.scrollHeight;
@@ -798,9 +801,7 @@ async function submitAIChatQuery() {
     if(!response.ok) throw new Error();
     const data = await response.json();
     
-    // Convert backend markdown bold tokens (**text**) into inline markup tags
     const cleanAnswer = data.answer.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    
     const loaderBubble = $(loadingId);
     loaderBubble.innerHTML = cleanAnswer;
     
