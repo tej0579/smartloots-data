@@ -7,7 +7,7 @@ redirects = []
 [functions."*"]
 
 [build]
-publish = "/home/ubuntu/A_JIOMART_WEBSCRAPER/public_html"
+publish = "/home/ubuntu/SmartLoots_Engines/public_html"
 publishOrigin = "default"
 
 [build.environment]

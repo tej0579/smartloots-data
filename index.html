@@ -493,7 +493,8 @@ nav{
   .wrap{padding:0 16px 60px}
   .hero h1{font-size:3rem}
   nav{margin-bottom:44px}
-  .seg{width:100%;justify-content:center}
+  .seg{width:100%;justify-content:center;flex-wrap:wrap;padding:8px}
+  .seg-btn{flex:1;text-align:center}
   .ctrl-row1{flex-wrap:wrap}
   .stats-row{flex-wrap:wrap}
   .ai-drawer { width:100%; right:-100%; }
@@ -537,7 +538,7 @@ nav{
       <span class="line1">The best prices,</span>
       <span class="line2">found for you.</span>
     </h1>
-    <p class="hero-sub">Real-time discounts across JioMart, BigBasket, Amazon Now &amp; Blinkit — always up to date.</p>
+    <p class="hero-sub">Real-time discounts across JioMart, BigBasket, Amazon Now, Blinkit &amp; DMart — always up to date.</p>
   </div>
 
   <div class="stats-row" id="stats-row" style="display:none">
@@ -554,6 +555,7 @@ nav{
         <button class="seg-btn" onclick="doSwitch('bigbasket',this)">BigBasket</button>
         <button class="seg-btn" onclick="doSwitch('amazon',this)">Amazon Now</button>
         <button class="seg-btn" onclick="doSwitch('blinkit',this)">Blinkit</button>
+        <button class="seg-btn" onclick="doSwitch('dmart',this)">DMart</button>
       </div>
       <div class="srch">
         <svg class="srch-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
@@ -607,9 +609,16 @@ const EP={
   jiomart:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/deals.json',
   bigbasket:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/data-bb.json',
   amazon:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/amazon_deals.json',
-  blinkit:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/deals-blinkit.json'
+  blinkit:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/deals-blinkit.json',
+  dmart:'https://raw.githubusercontent.com/tej0579/smartloots-data/main/dmart-data.json'
 };
-const SN={jiomart:'JioMart',bigbasket:'BigBasket',amazon:'Amazon Now',blinkit:'Blinkit'};
+const SN={
+  jiomart:'JioMart',
+  bigbasket:'BigBasket',
+  amazon:'Amazon Now',
+  blinkit:'Blinkit',
+  dmart:'DMart'
+};
 
 let raw=[],filtered=[],PAGE=60,shown=0,cat='ALL',store='jiomart';
 

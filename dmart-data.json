@@ -1,0 +1,434 @@
+[
+    {
+        "uid": "dmart_1483006",
+        "name": "Desi Nutri Brown Top Millet Hari Kangni : 500 g",
+        "brand": "Desi Nutri",
+        "category": "flours---grains-aesc-floursandgrains4",
+        "old_price": 219.0,
+        "new_price": 125.0,
+        "savings": 94.0,
+        "discount_pct": 42.9,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-brown-top-millet-hari-kangni-pgrains0desi5xx50324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1544527",
+        "name": "Desi Nutri Multi Millet Noodles : 180 g",
+        "brand": "Desi Nutri",
+        "category": "pasta---noodles-aesc-pastaandnoodles",
+        "old_price": 90.0,
+        "new_price": 60.0,
+        "savings": 30.0,
+        "discount_pct": 33.3,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-multi-millet-noodles-pnoodles0desi11xx140324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1483005",
+        "name": "Desi Nutri Barnyard Millet Sanwa : 500 g",
+        "brand": "Desi Nutri",
+        "category": "flours---grains-aesc-floursandgrains4",
+        "old_price": 119.0,
+        "new_price": 85.0,
+        "savings": 34.0,
+        "discount_pct": 28.6,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-barnyard-millet-sanwa-pgrains0desi3xx50324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1483009",
+        "name": "Desi Nutri Little Millet Kutki : 500 g",
+        "brand": "Desi Nutri",
+        "category": "flours---grains-aesc-floursandgrains4",
+        "old_price": 119.0,
+        "new_price": 85.0,
+        "savings": 34.0,
+        "discount_pct": 28.6,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-little-millet-kutki-pgrains0desi11xx50324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_713277",
+        "name": "Parry's Amrit Jaggery Powder : 500 g",
+        "brand": "Parry's",
+        "category": "salt---sugar---jaggery-aesc-saltsugarjaggery4",
+        "old_price": 54.0,
+        "new_price": 44.0,
+        "savings": 10.0,
+        "discount_pct": 18.5,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/parrys-amrit-jaggery-powder-pjaggery0parr59xx80520",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_437023",
+        "name": "Harpic Bathroom Cleaner Liquid Lemon : 1 L",
+        "brand": "Harpic",
+        "category": "home---kitchen-aesc-homeandkitchencore",
+        "old_price": 215.0,
+        "new_price": 188.0,
+        "savings": 27.0,
+        "discount_pct": 12.6,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/harpic-bathroom-cleaner-lemon",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1731082",
+        "name": "Chicco Baby Moments Body Lotion Almond Milk & Murumuru Butter : 500 ml",
+        "brand": "Chicco",
+        "category": "baby-care-aesc-babycare",
+        "old_price": 597.0,
+        "new_price": 529.0,
+        "savings": 68.0,
+        "discount_pct": 11.4,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/chicco-baby-moments-body-lotion-almond-milk-murumuru-butter-pbabylotion5xx150425",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1544522",
+        "name": "Desi Nutri Cold Pressed Groundnut Oil : 1 L",
+        "brand": "Desi Nutri",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 388.0,
+        "new_price": 349.0,
+        "savings": 39.0,
+        "discount_pct": 10.1,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-cold-pressed-groundnut-oil-poil0desi21xx140324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_812509",
+        "name": "Lay's India's Magic Masala Potato Chips : 67 g",
+        "brand": "Lay's",
+        "category": "snacks---farsans-aesc-snacksandfarsans",
+        "old_price": 30.0,
+        "new_price": 27.0,
+        "savings": 3.0,
+        "discount_pct": 10.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/lays-indias-magic-masala-chips",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1349001",
+        "name": "Farmley Date Bites : 20 g",
+        "brand": "Farmley",
+        "category": "snacks---farsans-aesc-snacksandfarsans",
+        "old_price": 20.0,
+        "new_price": 18.0,
+        "savings": 2.0,
+        "discount_pct": 10.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/farmley-dates-bites-ppetha0farm15xx70723",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_338505",
+        "name": "Parle-G Gold Biscuits : 1 kg",
+        "brand": "Parle-G",
+        "category": "biscuits---cookies-aesc-biscuitsandcookies",
+        "old_price": 139.0,
+        "new_price": 127.0,
+        "savings": 12.0,
+        "discount_pct": 8.6,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/parle-g-gold-biscuits",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_1546534",
+        "name": "Desi Nutri Multi Millet Muesli : 450 g",
+        "brand": "Desi Nutri",
+        "category": "breakfast-cereals-aesc-breakfastcereals",
+        "old_price": 175.0,
+        "new_price": 160.0,
+        "savings": 15.0,
+        "discount_pct": 8.6,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/desi-nutri-multi-millet-muesli-pmuesli0desi13xx200324",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11137",
+        "name": "Saffola Active Oil : 846 g",
+        "brand": "Saffola",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 172.0,
+        "new_price": 158.0,
+        "savings": 14.0,
+        "discount_pct": 8.1,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/saffola-active-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_704002",
+        "name": "Nutella Ferrero Spread With Cocoa : 180 g",
+        "brand": "Nutella",
+        "category": "packaged-food-aesc-packagedfoodcore",
+        "old_price": 200.0,
+        "new_price": 184.0,
+        "savings": 16.0,
+        "discount_pct": 8.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/nutella-hazelnut-spread-with-cocoa-pnutellantla1858xx240119",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_98507",
+        "name": "Kellogg's Corn Flakes with Real Almond & Honey : 1 kg",
+        "brand": "Kellogg's",
+        "category": "breakfast-cereals-aesc-breakfastcereals",
+        "old_price": 389.0,
+        "new_price": 358.0,
+        "savings": 31.0,
+        "discount_pct": 8.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/kelloggs-corn-flakes-with-real-almond-and-honey",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_704001",
+        "name": "Nutella Ferrero Spread With Cocoa : 350 g",
+        "brand": "Nutella",
+        "category": "packaged-food-aesc-packagedfoodcore",
+        "old_price": 349.0,
+        "new_price": 324.0,
+        "savings": 25.0,
+        "discount_pct": 7.2,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/nutella-hazelnut-spread-with-cocoa-pnutellantla1858xx240119",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11134",
+        "name": "Saffola Tasty Oil : 820 g",
+        "brand": "Saffola",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 175.0,
+        "new_price": 164.0,
+        "savings": 11.0,
+        "discount_pct": 6.3,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/saffola-tasty-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11139",
+        "name": "Saffola Total Oil : 4.550 kg",
+        "brand": "Saffola",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 1140.0,
+        "new_price": 1071.0,
+        "savings": 69.0,
+        "discount_pct": 6.1,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/saffola-total-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_99515",
+        "name": "Everest Tikhalal Chilli Powder : 200 g",
+        "brand": "Everest",
+        "category": "masala---spices-aesc-masalaandspices4",
+        "old_price": 103.0,
+        "new_price": 97.0,
+        "savings": 6.0,
+        "discount_pct": 5.8,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/everest-tikhalal-chilli-powder",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_725077",
+        "name": "Good Knight Flash Liquid Vaporiser Refill : 4 x 45 ml",
+        "brand": "Good Knight",
+        "category": "home-utility-organisers",
+        "old_price": 265.0,
+        "new_price": 250.0,
+        "savings": 15.0,
+        "discount_pct": 5.7,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/goodknight-gold-flash-twin-pack-prepellent0good9xx90520",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11308",
+        "name": "India Gate Basmati Rice - Classic (Biyyam) : 5 kgs",
+        "brand": "India Gate",
+        "category": "rice---rice-products-aesc-riceandriceproducts4",
+        "old_price": 1140.0,
+        "new_price": 1075.0,
+        "savings": 65.0,
+        "discount_pct": 5.7,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/india-gate-basmati-rice-classic",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11112",
+        "name": "Fortune Rice Bran Health Oil : 870 g",
+        "brand": "Fortune",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 166.0,
+        "new_price": 157.0,
+        "savings": 9.0,
+        "discount_pct": 5.4,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/fortune-rice-bran-health-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_673502",
+        "name": "Fortune Rice Bran Health Oil : 4.350 kg",
+        "brand": "Fortune",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 861.0,
+        "new_price": 815.0,
+        "savings": 46.0,
+        "discount_pct": 5.3,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/fortune-rice-bran-health-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_11138",
+        "name": "Saffola Active Oil : 4.18 kg",
+        "brand": "Saffola",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 884.0,
+        "new_price": 847.0,
+        "savings": 37.0,
+        "discount_pct": 4.2,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/saffola-active-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_980501",
+        "name": "Lizol Disinfectant Surface Cleaner - Citrus : 1 L",
+        "brand": "Lizol",
+        "category": "home---kitchen-aesc-homeandkitchencore",
+        "old_price": 219.0,
+        "new_price": 213.0,
+        "savings": 6.0,
+        "discount_pct": 2.7,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/lizol-disinfectant-surface-cleaner-citrus",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_99525",
+        "name": "Saffola Tasty Oil : 4.550 kg",
+        "brand": "Saffola",
+        "category": "cooking-oil-aesc-cookingoil",
+        "old_price": 856.0,
+        "new_price": 839.0,
+        "savings": 17.0,
+        "discount_pct": 2.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/saffola-tasty-oil",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_980502",
+        "name": "Lizol Floral Disinfectant Surface Cleaner : 1 L",
+        "brand": "Lizol",
+        "category": "cleaners-aesc-cleaners",
+        "old_price": 226.0,
+        "new_price": 225.0,
+        "savings": 1.0,
+        "discount_pct": 0.4,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/lizol-disinfectant-surface-cleaner-floral",
+        "image": "N/A",
+        "locations": [
+            "DMART_STORE"
+        ]
+    }
+]
