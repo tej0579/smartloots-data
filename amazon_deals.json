@@ -160,33 +160,17 @@
         ]
     },
     {
-        "uid": "B0D6GQY59S",
-        "name": "Ariel Machine Expert Powder Detergent Front Load",
+        "uid": "B0CL6KR49W",
+        "name": "HK Vitals Multivitamin Tablets For Men",
         "brand": "General",
-        "category": "Laundry_Dishcare",
-        "old_price": 1187.0,
-        "new_price": 999.0,
-        "savings": 188.0,
-        "discount_pct": 15.8,
+        "category": "Nutritional_Supplements",
+        "old_price": 359.0,
+        "new_price": 199.0,
+        "savings": 160.0,
+        "discount_pct": 44.6,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D6GQY59S",
-        "image": "https://m.media-amazon.com/images/I/716KJzc-PGL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B098KGQC7M",
-        "name": "MILTON Helix Pet Plastic Water Bottle",
-        "brand": "General",
-        "category": "Kitchen_Utilities",
-        "old_price": 389.0,
-        "new_price": 209.0,
-        "savings": 180.0,
-        "discount_pct": 46.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B098KGQC7M",
-        "image": "https://m.media-amazon.com/images/I/818EOU7f4PS._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CL6KR49W",
+        "image": "https://m.media-amazon.com/images/I/713qFhkA9rL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -240,22 +224,6 @@
         ]
     },
     {
-        "uid": "B0FPLPJ8BH",
-        "name": "Yogabar 26g High Protein Filter Kappi Oats",
-        "brand": "General",
-        "category": "Breakfast_Foods",
-        "old_price": 384.0,
-        "new_price": 244.0,
-        "savings": 140.0,
-        "discount_pct": 36.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FPLPJ8BH",
-        "image": "https://m.media-amazon.com/images/I/717+0zQudbL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07BKGVPNP",
         "name": "Dabur Shilajit Double Gold Capsules",
         "brand": "General",
@@ -272,17 +240,17 @@
         ]
     },
     {
-        "uid": "B01GJRE04O",
-        "name": "Dettol Antiseptic Liquid",
+        "uid": "B0CBMTX7DX",
+        "name": "Indulekha Bringha Hairfall Control Shampoo",
         "brand": "General",
-        "category": "Household_Cleaners",
-        "old_price": 2185.0,
-        "new_price": 2054.0,
+        "category": "Hair_Care",
+        "old_price": 947.0,
+        "new_price": 816.0,
         "savings": 131.0,
-        "discount_pct": 6.0,
+        "discount_pct": 13.8,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01GJRE04O",
-        "image": "https://m.media-amazon.com/images/I/51oh4+D5VRL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CBMTX7DX",
+        "image": "https://m.media-amazon.com/images/I/51Y+VGxU7zL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -304,22 +272,6 @@
         ]
     },
     {
-        "uid": "B088FKCD4J",
-        "name": "Boat Airdopes 131/8 Earbuds - Active Black",
-        "brand": "General",
-        "category": "PC_Electronics",
-        "old_price": 825.0,
-        "new_price": 699.0,
-        "savings": 126.0,
-        "discount_pct": 15.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B088FKCD4J",
-        "image": "https://m.media-amazon.com/images/I/71qedw-kh+L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07BL1MZLK",
         "name": "Henfruit Protein Max Eggs",
         "brand": "General",
@@ -336,17 +288,33 @@
         ]
     },
     {
-        "uid": "B09NW97911",
-        "name": "Indulekha Bringha Shampoo (Hairfall Control)",
+        "uid": "B0DBZZ64T4",
+        "name": "Asaya Advanced Spot Targeting Serum",
         "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 481.0,
-        "new_price": 369.0,
-        "savings": 112.0,
-        "discount_pct": 23.3,
+        "category": "Makeup_Beauty",
+        "old_price": 679.0,
+        "new_price": 569.0,
+        "savings": 110.0,
+        "discount_pct": 16.2,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09NW97911",
-        "image": "https://m.media-amazon.com/images/I/41ZOBfRg6hL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0DBZZ64T4",
+        "image": "https://m.media-amazon.com/images/I/61DnbH+UlML._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0C4H4ZBGW",
+        "name": "Karachi Bakery Osmania Chai Cookies",
+        "brand": "General",
+        "category": "Biscuits_Cookies",
+        "old_price": 240.0,
+        "new_price": 134.0,
+        "savings": 106.0,
+        "discount_pct": 44.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0C4H4ZBGW",
+        "image": "https://m.media-amazon.com/images/I/81FY92xsKTL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -368,17 +336,17 @@
         ]
     },
     {
-        "uid": "B0C43MT5RT",
-        "name": "Arata Curly Hair Gel & Cream Combo",
+        "uid": "B0BT179DV6",
+        "name": "Amazon Basics 8-in-1 HDCP Type-C Adapter",
         "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 373.0,
-        "new_price": 274.0,
-        "savings": 99.0,
-        "discount_pct": 26.5,
+        "category": "PC_Electronics",
+        "old_price": 1049.0,
+        "new_price": 949.0,
+        "savings": 100.0,
+        "discount_pct": 9.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0C43MT5RT",
-        "image": "https://m.media-amazon.com/images/I/51MKJz4lQgL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0BT179DV6",
+        "image": "https://m.media-amazon.com/images/I/71wYP1R-1eL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -400,22 +368,6 @@
         ]
     },
     {
-        "uid": "B0BG8LZNYL",
-        "name": "Portronics Toad One Wireless BT Mouse - Black",
-        "brand": "General",
-        "category": "PC_Electronics",
-        "old_price": 699.0,
-        "new_price": 604.0,
-        "savings": 95.0,
-        "discount_pct": 13.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BG8LZNYL",
-        "image": "https://m.media-amazon.com/images/I/51hZtBRUFBL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B08PGDPPM4",
         "name": "Bajaj Almond Drops Non Sticky Hair Oil",
         "brand": "General",
@@ -427,38 +379,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B08PGDPPM4",
         "image": "https://m.media-amazon.com/images/I/51ry4jEs3BL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07JFW4CY4",
-        "name": "Colgate Maxfresh Peppermint Toothpaste",
-        "brand": "General",
-        "category": "Oral_Care",
-        "old_price": 459.0,
-        "new_price": 367.0,
-        "savings": 92.0,
-        "discount_pct": 20.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07JFW4CY4",
-        "image": "https://m.media-amazon.com/images/I/71CcY3aE6uL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08B8QSY7Q",
-        "name": "Lakme Unreal Blurfect Primer",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 278.0,
-        "new_price": 186.0,
-        "savings": 92.0,
-        "discount_pct": 33.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08B8QSY7Q",
-        "image": "https://m.media-amazon.com/images/I/41mFEshTPLL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -496,6 +416,22 @@
         ]
     },
     {
+        "uid": "B0CZXVVZHX",
+        "name": "Dermatouch 1% Kojic Acid Syndet Soap",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 389.0,
+        "new_price": 299.0,
+        "savings": 90.0,
+        "discount_pct": 23.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CZXVVZHX",
+        "image": "https://m.media-amazon.com/images/I/71OahNz-tkL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B07C5R74MT",
         "name": "Wingreens Farms Cheesy Sauce",
         "brand": "General",
@@ -512,49 +448,49 @@
         ]
     },
     {
-        "uid": "B0BL3MTSSB",
-        "name": "Alpino Chocolate High Protein Super Oats",
+        "uid": "B07QF7M56Y",
+        "name": "Biotique Soothe & Nourish Facewash",
         "brand": "General",
-        "category": "Breakfast_Foods",
-        "old_price": 517.0,
-        "new_price": 429.0,
-        "savings": 88.0,
-        "discount_pct": 17.0,
+        "category": "Bath_Body",
+        "old_price": 249.0,
+        "new_price": 163.0,
+        "savings": 86.0,
+        "discount_pct": 34.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BL3MTSSB",
-        "image": "https://m.media-amazon.com/images/I/811Sou6TjnL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B07QF7M56Y",
+        "image": "https://m.media-amazon.com/images/I/51o2yhdcowL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B0756X9DVJ",
-        "name": "Akshayakalpa Organic Cow Ghee",
+        "uid": "B097C5S5ZJ",
+        "name": "Dabur Vatika Damage Therapy Shampoo",
         "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 828.0,
-        "new_price": 743.0,
-        "savings": 85.0,
-        "discount_pct": 10.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0756X9DVJ",
-        "image": "https://m.media-amazon.com/images/I/51kw1zJsWsL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00TH38IMI",
-        "name": "Safe Harvest Sona Masuri Raw Rice (12 M)",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 434.0,
-        "new_price": 350.0,
+        "category": "Hair_Care",
+        "old_price": 381.0,
+        "new_price": 297.0,
         "savings": 84.0,
-        "discount_pct": 19.4,
+        "discount_pct": 22.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00TH38IMI",
-        "image": "https://m.media-amazon.com/images/I/61XZwSwtIBL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B097C5S5ZJ",
+        "image": "https://m.media-amazon.com/images/I/71iAMC6U3dL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0B6PPNPS4",
+        "name": "Love Beauty & Planet Length & Strength Shampoo",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 520.0,
+        "new_price": 440.0,
+        "savings": 80.0,
+        "discount_pct": 15.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0B6PPNPS4",
+        "image": "https://m.media-amazon.com/images/I/61Ro9ybx7uL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -571,22 +507,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0F1YXW8FN",
         "image": "https://m.media-amazon.com/images/I/61r0b4WQGRL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CB4BCM94",
-        "name": "Pears Soft & Fresh Bathing Bar",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 391.0,
-        "new_price": 314.0,
-        "savings": 77.0,
-        "discount_pct": 19.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CB4BCM94",
-        "image": "https://m.media-amazon.com/images/I/41c+OcVwMCL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -624,38 +544,6 @@
         ]
     },
     {
-        "uid": "B0B8YP7Y29",
-        "name": "Ariel Matic 4 In 1 PODS Detergent Capsules",
-        "brand": "General",
-        "category": "Laundry_Dishcare",
-        "old_price": 784.0,
-        "new_price": 709.0,
-        "savings": 75.0,
-        "discount_pct": 9.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0B8YP7Y29",
-        "image": "https://m.media-amazon.com/images/I/71cefykv-5L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B086QDT64L",
-        "name": "Indulekha Ayurvedic Bringha Oil",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 607.0,
-        "new_price": 533.0,
-        "savings": 74.0,
-        "discount_pct": 12.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B086QDT64L",
-        "image": "https://m.media-amazon.com/images/I/61kwdkePWfL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07BG79D3S",
         "name": "Fresh Red Delicious Apple - Regular",
         "brand": "General",
@@ -667,22 +555,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07BG79D3S",
         "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Set5/B07BG79D3S._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CRTQZ4HG",
-        "name": "Pilgrim Advanced Hair Growth Serum",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 477.0,
-        "new_price": 405.0,
-        "savings": 72.0,
-        "discount_pct": 15.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CRTQZ4HG",
-        "image": "https://m.media-amazon.com/images/I/71CgBm4faQL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -784,6 +656,22 @@
         ]
     },
     {
+        "uid": "B00YRN3YDG",
+        "name": "Vahdam Himalayan Green Tea",
+        "brand": "General",
+        "category": "Coffee_Tea",
+        "old_price": 349.0,
+        "new_price": 279.0,
+        "savings": 70.0,
+        "discount_pct": 20.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00YRN3YDG",
+        "image": "https://m.media-amazon.com/images/I/61o0AMr6Q2L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0DJH19LDS",
         "name": "Sneha Snackster Chicken Breakfast Sausage",
         "brand": "General",
@@ -811,22 +699,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B09C3Q2YFX",
         "image": "https://m.media-amazon.com/images/I/61RoXbpPw7L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08GR2DHCY",
-        "name": "Meatzza Mutton Seekh Kebab",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 522.0,
-        "new_price": 453.0,
-        "savings": 69.0,
-        "discount_pct": 13.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08GR2DHCY",
-        "image": "https://m.media-amazon.com/images/I/51EpelQwTSL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -880,6 +752,22 @@
         ]
     },
     {
+        "uid": "B00A4RM45I",
+        "name": "Daawat Devaaya Premium Rice",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 580.0,
+        "new_price": 516.0,
+        "savings": 64.0,
+        "discount_pct": 11.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00A4RM45I",
+        "image": "https://m.media-amazon.com/images/I/61hc14HquDL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B09MB1PSMC",
         "name": "Nyle Naturals Damage Repair Anti Hairfall Shampoo",
         "brand": "General",
@@ -896,17 +784,17 @@
         ]
     },
     {
-        "uid": "B00NYZS1GS",
-        "name": "Lipton Yellow Label Black Tea",
+        "uid": "B09MB119MX",
+        "name": "Nyle Naturals Dryness Hydration Shampoo",
         "brand": "General",
-        "category": "Coffee_Tea",
-        "old_price": 330.0,
-        "new_price": 270.0,
-        "savings": 60.0,
-        "discount_pct": 18.2,
+        "category": "Hair_Care",
+        "old_price": 441.0,
+        "new_price": 379.0,
+        "savings": 62.0,
+        "discount_pct": 14.1,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00NYZS1GS",
-        "image": "https://m.media-amazon.com/images/I/61UQUY2-RML._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B09MB119MX",
+        "image": "https://m.media-amazon.com/images/I/61tTMo42s1L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -923,102 +811,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B00NW7NTTW",
         "image": "https://m.media-amazon.com/images/I/51XM4dJPZPL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B008RBKJVO",
-        "name": "Organic India Triphala Capsules",
-        "brand": "General",
-        "category": "Nutritional_Supplements",
-        "old_price": 261.0,
-        "new_price": 201.0,
-        "savings": 60.0,
-        "discount_pct": 23.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B008RBKJVO",
-        "image": "https://m.media-amazon.com/images/I/61TnOXBE72L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07BG7LB37",
-        "name": "Fresh Green Apple",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 386.0,
-        "new_price": 327.0,
-        "savings": 59.0,
-        "discount_pct": 15.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG7LB37",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Set5/B07BG7LB37._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0748F34HW",
-        "name": "Cycle Pure Agarbatti",
-        "brand": "General",
-        "category": "Home_Utilities",
-        "old_price": 350.0,
-        "new_price": 291.0,
-        "savings": 59.0,
-        "discount_pct": 16.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0748F34HW",
-        "image": "https://m.media-amazon.com/images/I/619-zaO+gqL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0DW93LWTV",
-        "name": "Hocco Belgian Choconut Ice Cream",
-        "brand": "General",
-        "category": "Chocolates_Ice_cream",
-        "old_price": 266.0,
-        "new_price": 208.0,
-        "savings": 58.0,
-        "discount_pct": 21.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DW93LWTV",
-        "image": "https://m.media-amazon.com/images/I/61FXFbAcOpL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B093LMJFVH",
-        "name": "Minimalist 18% Hair Density Serum",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 760.0,
-        "new_price": 703.0,
-        "savings": 57.0,
-        "discount_pct": 7.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B093LMJFVH",
-        "image": "https://m.media-amazon.com/images/I/5183NoEHS5L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B083FRQ3CV",
-        "name": "Saucery Sundried Tomato & Pesto",
-        "brand": "General",
-        "category": "Pastes_Sauces",
-        "old_price": 229.0,
-        "new_price": 173.0,
-        "savings": 56.0,
-        "discount_pct": 24.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B083FRQ3CV",
-        "image": "https://m.media-amazon.com/images/I/81kTk0rmliL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1072,49 +864,33 @@
         ]
     },
     {
-        "uid": "B0097FVTW2",
-        "name": "OGX Renewing Argan Oil of Morocco Repairing Shampoo",
+        "uid": "B007E9E9CK",
+        "name": "Nivea Men Fresh Active Roll-On Deodorant",
         "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 722.0,
-        "new_price": 668.0,
+        "category": "Bath_Body",
+        "old_price": 178.0,
+        "new_price": 124.0,
         "savings": 54.0,
-        "discount_pct": 7.5,
+        "discount_pct": 30.3,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0097FVTW2",
-        "image": "https://m.media-amazon.com/images/I/51gn9MXRDZL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B007E9E9CK",
+        "image": "https://m.media-amazon.com/images/I/51ch9EOUrvL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B074K9ZS9L",
-        "name": "IndicWisdom Wood Pressed Groundnut Oil",
+        "uid": "B09P1T6CTD",
+        "name": "Nua Ultra-Safe Sanitary Pads Combo",
         "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 1449.0,
-        "new_price": 1395.0,
+        "category": "Feminine_Hygiene",
+        "old_price": 746.0,
+        "new_price": 692.0,
         "savings": 54.0,
-        "discount_pct": 3.7,
+        "discount_pct": 7.2,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B074K9ZS9L",
-        "image": "https://m.media-amazon.com/images/I/71rvlnY6Q-L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0D5QTPJT2",
-        "name": "Amazon Basics 12W Dual Port GaN Charger - White",
-        "brand": "General",
-        "category": "PC_Electronics",
-        "old_price": 313.0,
-        "new_price": 260.0,
-        "savings": 53.0,
-        "discount_pct": 16.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D5QTPJT2",
-        "image": "https://m.media-amazon.com/images/I/51q5rJ1U30L._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B09P1T6CTD",
+        "image": "https://m.media-amazon.com/images/I/71AF51UAFIL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1152,33 +928,33 @@
         ]
     },
     {
-        "uid": "B0DW8JCW1H",
-        "name": "Hocco Choco Brownie Ice Cream",
+        "uid": "B08C3Y558R",
+        "name": "Zoff  Premium Cumin (Jeera)",
         "brand": "General",
-        "category": "Chocolates_Ice_cream",
-        "old_price": 233.0,
-        "new_price": 182.0,
+        "category": "Oils_Ghee_Masala",
+        "old_price": 244.0,
+        "new_price": 193.0,
         "savings": 51.0,
-        "discount_pct": 21.9,
+        "discount_pct": 20.9,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DW8JCW1H",
-        "image": "https://m.media-amazon.com/images/I/61J218wgYYL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B08C3Y558R",
+        "image": "https://m.media-amazon.com/images/I/61Q-cEO8QFL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B08GQW9JGQ",
-        "name": "Meatzza Chicken Breast Strips",
+        "uid": "B0DS27L55J",
+        "name": "Aqualogica Hydra Gel Moisturizer",
         "brand": "General",
-        "category": "Chicken_Meat_Fish",
-        "old_price": 324.0,
-        "new_price": 274.0,
-        "savings": 50.0,
-        "discount_pct": 15.4,
+        "category": "Bath_Body",
+        "old_price": 269.0,
+        "new_price": 218.0,
+        "savings": 51.0,
+        "discount_pct": 19.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08GQW9JGQ",
-        "image": "https://m.media-amazon.com/images/I/61wM2oApxvL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0DS27L55J",
+        "image": "https://m.media-amazon.com/images/I/414HB5MJ3LL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1200,22 +976,6 @@
         ]
     },
     {
-        "uid": "B0B8YPHC8R",
-        "name": "Ariel Matic 4 In 1 PODS Detergent Capsules",
-        "brand": "General",
-        "category": "Laundry_Dishcare",
-        "old_price": 449.0,
-        "new_price": 399.0,
-        "savings": 50.0,
-        "discount_pct": 11.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0B8YPHC8R",
-        "image": "https://m.media-amazon.com/images/I/616BYCcDdBL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0D6WJ556C",
         "name": "Nat Habit Hairfall Control Shampoo",
         "brand": "General",
@@ -1227,6 +987,22 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0D6WJ556C",
         "image": "https://m.media-amazon.com/images/I/516rUcTbtiL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07RM2BYJ1",
+        "name": "The Baker's Dozen Walnut Banana Cake",
+        "brand": "General",
+        "category": "Biscuits_Cookies",
+        "old_price": 160.0,
+        "new_price": 110.0,
+        "savings": 50.0,
+        "discount_pct": 31.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07RM2BYJ1",
+        "image": "https://m.media-amazon.com/images/I/61tDQ2LLg6L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1280,54 +1056,6 @@
         ]
     },
     {
-        "uid": "B0CGHV8N2V",
-        "name": "Colin Glass & Multisurface Cleaner",
-        "brand": "General",
-        "category": "Household_Cleaners",
-        "old_price": 306.0,
-        "new_price": 260.0,
-        "savings": 46.0,
-        "discount_pct": 15.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CGHV8N2V",
-        "image": "https://m.media-amazon.com/images/I/71xvAY7ekCL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01C42I1NE",
-        "name": "Lakme Absolute Perfect Radiance Serum",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 422.0,
-        "new_price": 376.0,
-        "savings": 46.0,
-        "discount_pct": 10.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01C42I1NE",
-        "image": "https://m.media-amazon.com/images/I/41Z-MdyJROL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CX1VB52B",
-        "name": "Brillare 100% Natural Rosemary Oil",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 327.0,
-        "new_price": 282.0,
-        "savings": 45.0,
-        "discount_pct": 13.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CX1VB52B",
-        "image": "https://m.media-amazon.com/images/I/51LDDPW4w4L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B085F2HVF9",
         "name": "Butterfly Premium Vegetable Chopper",
         "brand": "General",
@@ -1360,22 +1088,6 @@
         ]
     },
     {
-        "uid": "B077XWTK3G",
-        "name": "Skinn By Titan Raw Perfume",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 604.0,
-        "new_price": 559.0,
-        "savings": 45.0,
-        "discount_pct": 7.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B077XWTK3G",
-        "image": "https://m.media-amazon.com/images/I/71ccDKsPLdL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0BWJFB6RN",
         "name": "Vooki Premium Floor + Surface Cleaner",
         "brand": "General",
@@ -1387,6 +1099,38 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0BWJFB6RN",
         "image": "https://m.media-amazon.com/images/I/511-gnjsSBL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DW8JCW1H",
+        "name": "Hocco Choco Brownie Ice Cream",
+        "brand": "General",
+        "category": "Ch Chocolates_Ice_cream",
+        "old_price": 221.0,
+        "new_price": 177.0,
+        "savings": 44.0,
+        "discount_pct": 19.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DW8JCW1H",
+        "image": "https://m.media-amazon.com/images/I/61J218wgYYL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01LN5RJD6",
+        "name": "True Elements Rolled Oats",
+        "brand": "General",
+        "category": "Breakfast_Foods",
+        "old_price": 264.0,
+        "new_price": 220.0,
+        "savings": 44.0,
+        "discount_pct": 16.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01LN5RJD6",
+        "image": "https://m.media-amazon.com/images/I/71lW556u4OL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1440,17 +1184,33 @@
         ]
     },
     {
-        "uid": "B07NJJBG9S",
-        "name": "Glucon-D Nimbu Pani Instant Energy Drink Mix",
+        "uid": "B00DJTGMEW",
+        "name": "Himalaya Pure Herbs Hadjod Tablets",
         "brand": "General",
         "category": "Nutritional_Supplements",
-        "old_price": 359.0,
-        "new_price": 317.0,
-        "savings": 42.0,
-        "discount_pct": 11.7,
+        "old_price": 302.0,
+        "new_price": 259.0,
+        "savings": 43.0,
+        "discount_pct": 14.2,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07NJJBG9S",
-        "image": "https://m.media-amazon.com/images/I/81K6DT5aLYL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B00DJTGMEW",
+        "image": "https://m.media-amazon.com/images/I/5125CABTLDL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01M1FWOKU",
+        "name": "Beardo Godfather Lite Beard Oil",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 262.0,
+        "new_price": 220.0,
+        "savings": 42.0,
+        "discount_pct": 16.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01M1FWOKU",
+        "image": "https://m.media-amazon.com/images/I/61YGPqnekfL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1472,22 +1232,6 @@
         ]
     },
     {
-        "uid": "B00QV90A72",
-        "name": "Saffola Total Heart Pro Multi-Source Edible Oil Jar",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 1140.0,
-        "new_price": 1099.0,
-        "savings": 41.0,
-        "discount_pct": 3.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00QV90A72",
-        "image": "https://m.media-amazon.com/images/I/61VUXr1zu7L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0D1N8KKYY",
         "name": "Sanfe Hair Volumizing Dry Shampoo",
         "brand": "General",
@@ -1499,22 +1243,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0D1N8KKYY",
         "image": "https://m.media-amazon.com/images/I/51TGMf-a91L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01LGZ77T4",
-        "name": "Pond's Pimple Clear Facewash",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 262.0,
-        "new_price": 221.0,
-        "savings": 41.0,
-        "discount_pct": 15.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01LGZ77T4",
-        "image": "https://m.media-amazon.com/images/I/51S1xnq72ML._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1536,22 +1264,6 @@
         ]
     },
     {
-        "uid": "B0FRN4HR2P",
-        "name": "Optimum Nutrition Gold Standard 100% Whey Protein",
-        "brand": "General",
-        "category": "Nutritional_Supplements",
-        "old_price": 919.0,
-        "new_price": 879.0,
-        "savings": 40.0,
-        "discount_pct": 4.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FRN4HR2P",
-        "image": "https://m.media-amazon.com/images/I/71YxvaqChML._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0BRXGH5HB",
         "name": "eCraftIndia Resin Love Animated Characters Showpiece",
         "brand": "General",
@@ -1563,22 +1275,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0BRXGH5HB",
         "image": "https://m.media-amazon.com/images/G/31/Ugadi-Selection/B0BRXGH5HB._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08F9MF314",
-        "name": "Minimalist 10% Niacinamide Face Serum",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 559.0,
-        "new_price": 519.0,
-        "savings": 40.0,
-        "discount_pct": 7.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08F9MF314",
-        "image": "https://m.media-amazon.com/images/I/51fo5Cdx4YL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1600,17 +1296,17 @@
         ]
     },
     {
-        "uid": "B0BR585QS2",
-        "name": "Facescanada Strobe Your Way Strobe Cream",
+        "uid": "B073SC4QWY",
+        "name": "Elina Long Grain Rice",
         "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 481.0,
-        "new_price": 442.0,
-        "savings": 39.0,
-        "discount_pct": 8.1,
+        "category": "Rice_Atta_Dal",
+        "old_price": 123.0,
+        "new_price": 83.0,
+        "savings": 40.0,
+        "discount_pct": 32.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BR585QS2",
-        "image": "https://m.media-amazon.com/images/I/515W5cQZxDL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B073SC4QWY",
+        "image": "https://m.media-amazon.com/images/I/51qFxefisNL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1648,6 +1344,22 @@
         ]
     },
     {
+        "uid": "B07DHV2Q5C",
+        "name": "Fresh Indian Cherry",
+        "brand": "General",
+        "category": "Fresh_Fruits",
+        "old_price": 234.0,
+        "new_price": 196.0,
+        "savings": 38.0,
+        "discount_pct": 16.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07DHV2Q5C",
+        "image": "https://m.media-amazon.com/images/I/41WfimazUWL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B091XPD9J3",
         "name": "Jivo Cold Press Mustard Oil Jar",
         "brand": "General",
@@ -1659,22 +1371,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B091XPD9J3",
         "image": "https://m.media-amazon.com/images/I/71syZRyDKlL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0D1YLZ1Y1",
-        "name": "Fresh Totapuri Raw Mango",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 68.0,
-        "new_price": 31.0,
-        "savings": 37.0,
-        "discount_pct": 54.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D1YLZ1Y1",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Photoshoot/2nd_Set/B0D1YLZ1Y1_1._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1696,33 +1392,33 @@
         ]
     },
     {
-        "uid": "B009CBIGDQ",
-        "name": "India Gate Dubar Pure Basmati Rice",
+        "uid": "B0F6T1G4QJ",
+        "name": "Lal Premium Kaju Katli",
         "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 720.0,
-        "new_price": 683.0,
+        "category": "Indian_Sweets",
+        "old_price": 204.0,
+        "new_price": 167.0,
         "savings": 37.0,
-        "discount_pct": 5.1,
+        "discount_pct": 18.1,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B009CBIGDQ",
-        "image": "https://m.media-amazon.com/images/I/713phGwVB-L._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0F6T1G4QJ",
+        "image": "https://m.media-amazon.com/images/I/71DQQ4REBjL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B0FLJRQV87",
-        "name": "Huber & Holly Butterscotch & Praline Ice Cream",
+        "uid": "B0CSKBCMHX",
+        "name": "Fiama Radiant Glow Shower Gel Refill Pack",
         "brand": "General",
-        "category": "Chocolates_Ice_cream",
-        "old_price": 171.0,
-        "new_price": 135.0,
-        "savings": 36.0,
-        "discount_pct": 21.1,
+        "category": "Bath_Body",
+        "old_price": 342.0,
+        "new_price": 305.0,
+        "savings": 37.0,
+        "discount_pct": 10.8,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FLJRQV87",
-        "image": "https://m.media-amazon.com/images/I/51UtdEXVdTL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CSKBCMHX",
+        "image": "https://m.media-amazon.com/images/I/61BcIXLTv2L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1824,65 +1520,17 @@
         ]
     },
     {
-        "uid": "B08MVD6T8V",
-        "name": "Minimalist 10% Multi Peptides Face Serum",
+        "uid": "B00791CORK",
+        "name": "Biotique Morning Nectar Moisturizer",
         "brand": "General",
         "category": "Makeup_Beauty",
-        "old_price": 665.0,
-        "new_price": 630.0,
+        "old_price": 156.0,
+        "new_price": 121.0,
         "savings": 35.0,
-        "discount_pct": 5.3,
+        "discount_pct": 22.4,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08MVD6T8V",
-        "image": "https://m.media-amazon.com/images/I/71jwS9zUoQL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08F8W91F8",
-        "name": "Minimalist 02% Granactive Retinoid Cream",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 665.0,
-        "new_price": 630.0,
-        "savings": 35.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08F8W91F8",
-        "image": "https://m.media-amazon.com/images/I/519BZQj8VAL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08KSJ32SC",
-        "name": "Minimalist 32% AHA PHA BHA Face Peel",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 665.0,
-        "new_price": 630.0,
-        "savings": 35.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08KSJ32SC",
-        "image": "https://m.media-amazon.com/images/I/61eIRLY3puL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0746KV3CN",
-        "name": "Wingreens Farms Classic Hummus",
-        "brand": "General",
-        "category": "Pastes_Sauces",
-        "old_price": 159.0,
-        "new_price": 125.0,
-        "savings": 34.0,
-        "discount_pct": 21.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0746KV3CN",
-        "image": "https://m.media-amazon.com/images/I/61IsTr1ZS9L._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B00791CORK",
+        "image": "https://m.media-amazon.com/images/I/71eGPJQryIL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1915,22 +1563,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0D1JW9VF3",
         "image": "https://m.media-amazon.com/images/I/81xiZKa52yL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01J7K4HES",
-        "name": "Wingreens Farms Peri Peri Garlic Dip",
-        "brand": "General",
-        "category": "Pastes_Sauces",
-        "old_price": 159.0,
-        "new_price": 125.0,
-        "savings": 34.0,
-        "discount_pct": 21.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01J7K4HES",
-        "image": "https://m.media-amazon.com/images/I/71XcaRrUZqL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -1984,6 +1616,54 @@
         ]
     },
     {
+        "uid": "B0DFBYQVR8",
+        "name": "Dove Acne Clear Body Wash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 258.0,
+        "new_price": 224.0,
+        "savings": 34.0,
+        "discount_pct": 13.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DFBYQVR8",
+        "image": "https://m.media-amazon.com/images/I/41I-r2VZheL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08YSHK9TP",
+        "name": "Kwality Wall's Cadbury Crackle Frozen Dessert",
+        "brand": "General",
+        "category": "Ch Chocolates_Ice_cream",
+        "old_price": 271.0,
+        "new_price": 237.0,
+        "savings": 34.0,
+        "discount_pct": 12.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08YSHK9TP",
+        "image": "https://m.media-amazon.com/images/I/61gUSe4zELL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0F6TTNGJJ",
+        "name": "Lal Premium Mysore Pak",
+        "brand": "General",
+        "category": "Indian_Sweets",
+        "old_price": 138.0,
+        "new_price": 105.0,
+        "savings": 33.0,
+        "discount_pct": 23.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F6TTNGJJ",
+        "image": "https://m.media-amazon.com/images/I/71iyCyJZ7KL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B079QDJCLD",
         "name": "Nivea Aloe Hydration Body Lotion",
         "brand": "General",
@@ -2011,22 +1691,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B08TQN1KCV",
         "image": "https://m.media-amazon.com/images/I/71sHhdyZyCL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01NCN9K7N",
-        "name": "Patanjali Dant Kanti Advanced Toothpaste",
-        "brand": "General",
-        "category": "Oral_Care",
-        "old_price": 288.0,
-        "new_price": 256.0,
-        "savings": 32.0,
-        "discount_pct": 11.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01NCN9K7N",
-        "image": "https://m.media-amazon.com/images/I/61KGgwRwaOL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2096,6 +1760,22 @@
         ]
     },
     {
+        "uid": "B07WNR6XT3",
+        "name": "Swiss Beauty Ultimate Eyeshadow Palette",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 244.0,
+        "new_price": 213.0,
+        "savings": 31.0,
+        "discount_pct": 12.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07WNR6XT3",
+        "image": "https://m.media-amazon.com/images/I/616kViYpgpL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B07ZZBYWKF",
         "name": "Zebronics Warrior 2.0 Multimedia Speaker",
         "brand": "General",
@@ -2160,38 +1840,6 @@
         ]
     },
     {
-        "uid": "B0CX56YRMS",
-        "name": "Minimalist SPF 30 Frizz Control Complex Hair Serum",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 570.0,
-        "new_price": 540.0,
-        "savings": 30.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CX56YRMS",
-        "image": "https://m.media-amazon.com/images/I/51QU1G4ObnL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B091JG3GJ5",
-        "name": "Minimalist 0.3% Retinol Face Serum",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 570.0,
-        "new_price": 540.0,
-        "savings": 30.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B091JG3GJ5",
-        "image": "https://m.media-amazon.com/images/I/71PcEPXHN4L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0FH5B4LV8",
         "name": "Godrej Yummiez Crispy Veg Sticks",
         "brand": "General",
@@ -2224,6 +1872,38 @@
         ]
     },
     {
+        "uid": "B0F1K9Z3JS",
+        "name": "DiSano Chocolate Crunchy Peanut Butter",
+        "brand": "General",
+        "category": "Pastes_Sauces",
+        "old_price": 125.0,
+        "new_price": 95.0,
+        "savings": 30.0,
+        "discount_pct": 24.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F1K9Z3JS",
+        "image": "https://m.media-amazon.com/images/I/71zWhS1DmXL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07YWM9WMG",
+        "name": "Biotique Ultra Rich Body Lotion",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 150.0,
+        "new_price": 120.0,
+        "savings": 30.0,
+        "discount_pct": 20.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07YWM9WMG",
+        "image": "https://m.media-amazon.com/images/I/41aIcR6LwVL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B004D1PDLS",
         "name": "Bajaj Almond Drops Non Sticky Hair Oil",
         "brand": "General",
@@ -2235,22 +1915,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B004D1PDLS",
         "image": "https://m.media-amazon.com/images/I/51--N3BSJmL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BN29VCD7",
-        "name": "Minimalist 08% L-Ascorbic Acid Lip Balm",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 380.0,
-        "new_price": 351.0,
-        "savings": 29.0,
-        "discount_pct": 7.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BN29VCD7",
-        "image": "https://m.media-amazon.com/images/I/51Uue3Fxw7L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2272,17 +1936,17 @@
         ]
     },
     {
-        "uid": "B01BUZZ4XQ",
-        "name": "India Gate Sona Masoori Rice",
+        "uid": "B0CBPR8NRR",
+        "name": "Facescanada 3-In-1 Matte Foundation",
         "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 340.0,
-        "new_price": 312.0,
-        "savings": 28.0,
-        "discount_pct": 8.2,
+        "category": "Makeup_Beauty",
+        "old_price": 279.0,
+        "new_price": 250.0,
+        "savings": 29.0,
+        "discount_pct": 10.4,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01BUZZ4XQ",
-        "image": "https://m.media-amazon.com/images/I/71CvU3Mn3HL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CBPR8NRR",
+        "image": "https://m.media-amazon.com/images/I/61rnIKkluLL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2320,6 +1984,70 @@
         ]
     },
     {
+        "uid": "B09JSD3591",
+        "name": "Swiss Beauty Hydra Eye Serum Patch",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 314.0,
+        "new_price": 286.0,
+        "savings": 28.0,
+        "discount_pct": 8.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09JSD3591",
+        "image": "https://m.media-amazon.com/images/I/71YrPFQSkcL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09JSD5Z6S",
+        "name": "Swiss Beauty Hydra Eye Serum Patch",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 314.0,
+        "new_price": 286.0,
+        "savings": 28.0,
+        "discount_pct": 8.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09JSD5Z6S",
+        "image": "https://m.media-amazon.com/images/I/71C44eIvjaL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B006QQQTHU",
+        "name": "Revital H Complete Multivitamin Capsules",
+        "brand": "General",
+        "category": "Nutritional_Supplements",
+        "old_price": 476.0,
+        "new_price": 448.0,
+        "savings": 28.0,
+        "discount_pct": 5.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B006QQQTHU",
+        "image": "https://m.media-amazon.com/images/I/513v9AZ2XwL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07D4JY656",
+        "name": "Slurrp Farm Millet Pancake Combo",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 329.0,
+        "new_price": 301.0,
+        "savings": 28.0,
+        "discount_pct": 8.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07D4JY656",
+        "image": "https://m.media-amazon.com/images/I/71XCQC1i+KL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0CNXZ6LHW",
         "name": "Dove 10 in1 Deep Repair Treatment Hair Mask",
         "brand": "General",
@@ -2336,30 +2064,14 @@
         ]
     },
     {
-        "uid": "B072LQ7RLS",
-        "name": "Unibic Assorted Cookies Pack",
-        "brand": "General",
-        "category": "Biscuits_Cookies",
-        "old_price": 245.0,
-        "new_price": 218.0,
-        "savings": 27.0,
-        "discount_pct": 11.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B072LQ7RLS",
-        "image": "https://m.media-amazon.com/images/I/81rxeKH5EUL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B085T374WK",
         "name": "Lakme 9 To 5 SPF 50 Tint Hint Sunscreen",
         "brand": "General",
         "category": "Makeup_Beauty",
-        "old_price": 381.0,
-        "new_price": 354.0,
+        "old_price": 354.0,
+        "new_price": 327.0,
         "savings": 27.0,
-        "discount_pct": 7.1,
+        "discount_pct": 7.6,
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B085T374WK",
         "image": "https://m.media-amazon.com/images/I/516A12SLU7L._SL1000_.jpg",
@@ -2368,17 +2080,17 @@
         ]
     },
     {
-        "uid": "B08T71G5W4",
-        "name": "Hello Tempayy Peppery Szechuan Chili Tempayy Cubes",
+        "uid": "B07KX2GQCY",
+        "name": "Levista Strong Instant Coffee",
         "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 159.0,
-        "new_price": 132.0,
+        "category": "Coffee_Tea",
+        "old_price": 343.0,
+        "new_price": 316.0,
         "savings": 27.0,
-        "discount_pct": 17.0,
+        "discount_pct": 7.9,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08T71G5W4",
-        "image": "https://m.media-amazon.com/images/I/61InceEf2cL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B07KX2GQCY",
+        "image": "https://m.media-amazon.com/images/I/81v-1VorjQL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2400,22 +2112,6 @@
         ]
     },
     {
-        "uid": "B084PMZJXY",
-        "name": "The Baker's Dozen Vanilla Cake",
-        "brand": "General",
-        "category": "Biscuits_Cookies",
-        "old_price": 175.0,
-        "new_price": 149.0,
-        "savings": 26.0,
-        "discount_pct": 14.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B084PMZJXY",
-        "image": "https://m.media-amazon.com/images/I/61UAjY3tcnL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0DGLKH2RL",
         "name": "Dettol Original Bathing Soap Bar",
         "brand": "General",
@@ -2427,22 +2123,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0DGLKH2RL",
         "image": "https://m.media-amazon.com/images/I/61j4tjFr47L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BRY8VZ42",
-        "name": "Minimalist 3.5% Maleic Bond Repair Shampoo",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 499.0,
-        "new_price": 473.0,
-        "savings": 26.0,
-        "discount_pct": 5.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BRY8VZ42",
-        "image": "https://m.media-amazon.com/images/I/51k5C+VdBkL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2480,81 +2160,17 @@
         ]
     },
     {
-        "uid": "B00DRE2II8",
-        "name": "Chik Protein Therapy Shampoo - Strong & Black",
+        "uid": "B08B8QN595",
+        "name": "Hamam 100% Pure Neem Oil Soap",
         "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 249.0,
-        "new_price": 223.0,
+        "category": "Bath_Body",
+        "old_price": 386.0,
+        "new_price": 360.0,
         "savings": 26.0,
-        "discount_pct": 10.4,
+        "discount_pct": 6.7,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00DRE2II8",
-        "image": "https://m.media-amazon.com/images/I/61EBMzeu4hL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CLTXXVSF",
-        "name": "sugar.fit Active Sugar Control Rice",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 799.0,
-        "new_price": 773.0,
-        "savings": 26.0,
-        "discount_pct": 3.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CLTXXVSF",
-        "image": "https://m.media-amazon.com/images/I/81Y5LlJN0tL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BS1V2W98",
-        "name": "Minimalist 05% Maleic Bond Repair Complex Hair Serum",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 475.0,
-        "new_price": 450.0,
-        "savings": 25.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BS1V2W98",
-        "image": "https://m.media-amazon.com/images/I/61RjgoFqyrL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CH8HYZQV",
-        "name": "Minimalist 0.8% CPH Complex + Oligopeptide Anti-Dandruff Hair Serum",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 475.0,
-        "new_price": 450.0,
-        "savings": 25.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CH8HYZQV",
-        "image": "https://m.media-amazon.com/images/I/61KbPKLahqL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BNBXWVY3",
-        "name": "Minimalist 08% Glycolic Acid Liquid",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 475.0,
-        "new_price": 450.0,
-        "savings": 25.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BNBXWVY3",
-        "image": "https://m.media-amazon.com/images/I/51sEEZ7M1sL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B08B8QN595",
+        "image": "https://m.media-amazon.com/images/I/519aoGkQD4L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2587,6 +2203,22 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0FP5FS4Y7",
         "image": "https://m.media-amazon.com/images/I/51G4OPzYfhL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08MGCWMH1",
+        "name": "Indica Easy Shampoo Hair Color",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 400.0,
+        "new_price": 375.0,
+        "savings": 25.0,
+        "discount_pct": 6.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08MGCWMH1",
+        "image": "https://m.media-amazon.com/images/I/71fyt4HikeL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2656,17 +2288,17 @@
         ]
     },
     {
-        "uid": "B00791CORK",
-        "name": "Biotique Morning Nectar Moisturizer",
+        "uid": "B0DSVTLHMC",
+        "name": "Nivea Soft Daily UV Light Moisturising Cream",
         "brand": "General",
         "category": "Makeup_Beauty",
-        "old_price": 180.0,
-        "new_price": 156.0,
+        "old_price": 299.0,
+        "new_price": 275.0,
         "savings": 24.0,
-        "discount_pct": 13.3,
+        "discount_pct": 8.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00791CORK",
-        "image": "https://m.media-amazon.com/images/I/71eGPJQryIL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0DSVTLHMC",
+        "image": "https://m.media-amazon.com/images/I/61N7ISBanuL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2699,22 +2331,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0BVZ73HBN",
         "image": "https://m.media-amazon.com/images/I/51krlJMwpQL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0B9X1RNTL",
-        "name": "Plum Green Tea Renewed Clarity Night Gel",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 179.0,
-        "new_price": 156.0,
-        "savings": 23.0,
-        "discount_pct": 12.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0B9X1RNTL",
-        "image": "https://m.media-amazon.com/images/I/41WzjR4DH0L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2768,70 +2384,6 @@
         ]
     },
     {
-        "uid": "B0CCY1RBXG",
-        "name": "Nakpro Impact Whey Protein",
-        "brand": "General",
-        "category": "Nutritional_Supplements",
-        "old_price": 1332.0,
-        "new_price": 1309.0,
-        "savings": 23.0,
-        "discount_pct": 1.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CCY1RBXG",
-        "image": "https://m.media-amazon.com/images/I/71pvrkj3FTL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0721DXN2P",
-        "name": "Surf Excel Matic Liquid Detergent - Top Load",
-        "brand": "General",
-        "category": "Laundry_Dishcare",
-        "old_price": 135.0,
-        "new_price": 112.0,
-        "savings": 23.0,
-        "discount_pct": 17.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0721DXN2P",
-        "image": "https://m.media-amazon.com/images/I/41yiOXzQugL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08T7B6G4T",
-        "name": "Hello Tempayy Tawa Masala Tempayy Cubes",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 129.0,
-        "new_price": 107.0,
-        "savings": 22.0,
-        "discount_pct": 17.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08T7B6G4T",
-        "image": "https://m.media-amazon.com/images/I/61pZIjDf+oL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B082SYW974",
-        "name": "Asal Wheat Parota",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 91.0,
-        "new_price": 69.0,
-        "savings": 22.0,
-        "discount_pct": 24.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B082SYW974",
-        "image": "https://m.media-amazon.com/images/I/71HGjmTL-oL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0D66WKPFD",
         "name": "Frugivore Frozen Mix Berry",
         "brand": "General",
@@ -2848,6 +2400,38 @@
         ]
     },
     {
+        "uid": "B0D1N7QYBK",
+        "name": "Sanfe Bikini & Underarms Hair Removal Spray Away Foam",
+        "brand": "General",
+        "category": "Feminine_Hygiene",
+        "old_price": 165.0,
+        "new_price": 143.0,
+        "savings": 22.0,
+        "discount_pct": 13.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0D1N7QYBK",
+        "image": "https://m.media-amazon.com/images/I/61dXYZsQ4iL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DPR7V64F",
+        "name": "Soulflower Castor Hexane Free Oil",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 181.0,
+        "new_price": 159.0,
+        "savings": 22.0,
+        "discount_pct": 12.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DPR7V64F",
+        "image": "https://m.media-amazon.com/images/I/71ozdUJPRTL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0D2D9BK8R",
         "name": "Aqualogica Glow+ Dewy SPF 50 Sunscreen Gel",
         "brand": "General",
@@ -2859,22 +2443,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0D2D9BK8R",
         "image": "https://m.media-amazon.com/images/I/51AFzWKTCuL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09Z65JJ69",
-        "name": "Mamaearth Rice Face Wash",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 255.0,
-        "new_price": 234.0,
-        "savings": 21.0,
-        "discount_pct": 8.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09Z65JJ69",
-        "image": "https://m.media-amazon.com/images/I/51telxeMDOL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -2912,38 +2480,6 @@
         ]
     },
     {
-        "uid": "B09GRSWM71",
-        "name": "Slurrp Farm Millet Noodles Combo",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 242.0,
-        "new_price": 221.0,
-        "savings": 21.0,
-        "discount_pct": 8.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09GRSWM71",
-        "image": "https://m.media-amazon.com/images/I/71cG67L2KUL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CH1499X7",
-        "name": "Amazon Basics Type-A To Micro USB Braided Cable",
-        "brand": "General",
-        "category": "PC_Electronics",
-        "old_price": 139.0,
-        "new_price": 119.0,
-        "savings": 20.0,
-        "discount_pct": 14.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CH1499X7",
-        "image": "https://m.media-amazon.com/images/I/51733j8zXoL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0DQ5MLN6C",
         "name": "Nescafe Cold Coffee Can Caramel Latte",
         "brand": "General",
@@ -2971,54 +2507,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0BRJJNPMG",
         "image": "https://m.media-amazon.com/images/I/61e5k073-4L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B08M4QF7V9",
-        "name": "Vaseline Deep Moisture Body Lotion",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 287.0,
-        "new_price": 267.0,
-        "savings": 20.0,
-        "discount_pct": 7.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08M4QF7V9",
-        "image": "https://m.media-amazon.com/images/I/51Fd2nodJPL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0DQ4M4W79",
-        "name": "Two Brothers Organic Farms Khapli Flour",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 201.0,
-        "new_price": 181.0,
-        "savings": 20.0,
-        "discount_pct": 10.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DQ4M4W79",
-        "image": "https://m.media-amazon.com/images/I/711yROrvDRL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09VLDY46B",
-        "name": "Minimalist 07% Glycolic Cleanser",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 380.0,
-        "new_price": 360.0,
-        "savings": 20.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09VLDY46B",
-        "image": "https://m.media-amazon.com/images/I/51SRCp9dInL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3056,6 +2544,70 @@
         ]
     },
     {
+        "uid": "B09C3VGV8G",
+        "name": "Surf Excel Easy Wash Detergent Powder",
+        "brand": "General",
+        "category": "Laundry_Dishcare",
+        "old_price": 695.0,
+        "new_price": 675.0,
+        "savings": 20.0,
+        "discount_pct": 2.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09C3VGV8G",
+        "image": "https://m.media-amazon.com/images/I/61s5orKgmwL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0FWQKV8XG",
+        "name": "McCain Chilli Cheese Italian Style Zig Zag Fries",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 129.0,
+        "new_price": 109.65,
+        "savings": 19.35,
+        "discount_pct": 15.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0FWQKV8XG",
+        "image": "https://m.media-amazon.com/images/I/81p3j0-f5zL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0FWQYZYM6",
+        "name": "McCain K-Spicy Korean Style Zig Zag Fries",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 129.0,
+        "new_price": 109.65,
+        "savings": 19.35,
+        "discount_pct": 15.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0FWQYZYM6",
+        "image": "https://m.media-amazon.com/images/I/81R19j6TB2L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B084PMZJXY",
+        "name": "The Baker's Dozen Vanilla Cake",
+        "brand": "General",
+        "category": "Biscuits_Cookies",
+        "old_price": 149.0,
+        "new_price": 130.0,
+        "savings": 19.0,
+        "discount_pct": 12.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B084PMZJXY",
+        "image": "https://m.media-amazon.com/images/I/61UAjY3tcnL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0FZKHJNRS",
         "name": "Striders Peppa Pig Lunch Box & Water Bottle Combo - Multicolour",
         "brand": "General",
@@ -3067,22 +2619,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0FZKHJNRS",
         "image": "https://m.media-amazon.com/images/I/417LPG1c4NL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B082SZ7WYH",
-        "name": "Meatzza Chicken Seekh Kebab",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 268.0,
-        "new_price": 249.0,
-        "savings": 19.0,
-        "discount_pct": 7.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B082SZ7WYH",
-        "image": "https://m.media-amazon.com/images/I/61+e3Wj3tTL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3120,22 +2656,6 @@
         ]
     },
     {
-        "uid": "B01DIO6ODQ",
-        "name": "Yummiez Chicken Seekh Kabab",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 239.0,
-        "new_price": 220.0,
-        "savings": 19.0,
-        "discount_pct": 7.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01DIO6ODQ",
-        "image": "https://m.media-amazon.com/images/I/71dC5-Fjh6L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0FH5C41RH",
         "name": "Godrej Yummiez Potato Cheese Bites",
         "brand": "General",
@@ -3168,33 +2688,17 @@
         ]
     },
     {
-        "uid": "B0CLTX5C1Z",
-        "name": "sugar.fit Active Sugar Control Rice",
+        "uid": "B0CPQ2JB8T",
+        "name": "WOW! Momo Chicken Cheese Momos",
         "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 179.0,
-        "new_price": 160.0,
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 292.0,
+        "new_price": 273.0,
         "savings": 19.0,
-        "discount_pct": 10.6,
+        "discount_pct": 6.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CLTX5C1Z",
-        "image": "https://m.media-amazon.com/images/I/81B7NEN2DnL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0D1N7QYBK",
-        "name": "Sanfe Bikini & Underarms Hair Removal Spray Away Foam",
-        "brand": "General",
-        "category": "Feminine_Hygiene",
-        "old_price": 183.0,
-        "new_price": 165.0,
-        "savings": 18.0,
-        "discount_pct": 9.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D1N7QYBK",
-        "image": "https://m.media-amazon.com/images/I/61dXYZsQ4iL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CPQ2JB8T",
+        "image": "https://m.media-amazon.com/images/I/61YekGfbw-L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3216,54 +2720,6 @@
         ]
     },
     {
-        "uid": "B0BH92CHFW",
-        "name": "Plum Body Lovin Vanilla Vibes Body Mist",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 314.0,
-        "new_price": 296.0,
-        "savings": 18.0,
-        "discount_pct": 5.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BH92CHFW",
-        "image": "https://m.media-amazon.com/images/I/41X1KFw1WXL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09Q3MWP2S",
-        "name": "Minimalist 10% Vitamin B5 Moisturizer",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 332.0,
-        "new_price": 314.0,
-        "savings": 18.0,
-        "discount_pct": 5.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09Q3MWP2S",
-        "image": "https://m.media-amazon.com/images/I/51g9c5DjXpL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07G7L7SQP",
-        "name": "Cetaphil SPF 50+ Gel Sunscreen",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 1143.0,
-        "new_price": 1125.0,
-        "savings": 18.0,
-        "discount_pct": 1.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07G7L7SQP",
-        "image": "https://m.media-amazon.com/images/I/61i+MR6iwkL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B08YP23SGC",
         "name": "Fresh Diced Pumpkin",
         "brand": "General",
@@ -3280,33 +2736,49 @@
         ]
     },
     {
-        "uid": "B07L9XMST7",
-        "name": "Fresh Basil Leaves",
+        "uid": "B0BK1KZ4D3",
+        "name": "Chicco Toothbrush For Infants",
         "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 40.0,
-        "new_price": 22.0,
+        "category": "Oral_Care",
+        "old_price": 213.0,
+        "new_price": 195.0,
         "savings": 18.0,
-        "discount_pct": 45.0,
+        "discount_pct": 8.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07L9XMST7",
-        "image": "https://m.media-amazon.com/images/I/412XL2is9hL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0BK1KZ4D3",
+        "image": "https://m.media-amazon.com/images/I/61ilQZLUrgL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B08DM3889F",
-        "name": "Nestle Lactogrow Nutritious Milk Drink",
+        "uid": "B0893VKGZK",
+        "name": "Nivea Frangipani & Oil Shower Gel",
         "brand": "General",
-        "category": "Nutritional_Supplements",
-        "old_price": 356.0,
-        "new_price": 338.0,
+        "category": "Bath_Body",
+        "old_price": 122.0,
+        "new_price": 104.0,
         "savings": 18.0,
-        "discount_pct": 5.1,
+        "discount_pct": 14.8,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08DM3889F",
-        "image": "https://m.media-amazon.com/images/I/61fRcttvYZL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0893VKGZK",
+        "image": "https://m.media-amazon.com/images/I/51tZJ1PEj9L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0FTSVZPWV",
+        "name": "Plush Ultra-Thin Sanitary Napkins - XL",
+        "brand": "General",
+        "category": "Feminine_Hygiene",
+        "old_price": 228.0,
+        "new_price": 210.0,
+        "savings": 18.0,
+        "discount_pct": 7.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0FTSVZPWV",
+        "image": "https://m.media-amazon.com/images/I/71LARdClirL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3344,38 +2816,6 @@
         ]
     },
     {
-        "uid": "B0FPRBCDCX",
-        "name": "Fresh Orange Valencia - Premium",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 105.0,
-        "new_price": 88.0,
-        "savings": 17.0,
-        "discount_pct": 16.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FPRBCDCX",
-        "image": "https://m.media-amazon.com/images/I/51zUzlwfu1L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BSN7LHC4",
-        "name": "Minimalist 02% Salicylic Acid + LHA Body Wash",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 332.0,
-        "new_price": 315.0,
-        "savings": 17.0,
-        "discount_pct": 5.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BSN7LHC4",
-        "image": "https://m.media-amazon.com/images/I/51t5JQHln1L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B01M692BKC",
         "name": "Daawat Rozana Mini Mogra Basmati Rice",
         "brand": "General",
@@ -3387,22 +2827,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B01M692BKC",
         "image": "https://m.media-amazon.com/images/I/81FK+0P3CQL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B009W0UTLO",
-        "name": "MTR Idli/Dosa Chilly Chutney Powder",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 155.0,
-        "new_price": 138.0,
-        "savings": 17.0,
-        "discount_pct": 11.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B009W0UTLO",
-        "image": "https://m.media-amazon.com/images/I/815vmeyVaBL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3440,22 +2864,6 @@
         ]
     },
     {
-        "uid": "B0D62L27S9",
-        "name": "Plum Coconut Milk & Peptides Shampoo",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 481.0,
-        "new_price": 465.0,
-        "savings": 16.0,
-        "discount_pct": 3.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D62L27S9",
-        "image": "https://m.media-amazon.com/images/I/41Comym3MXL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0FPRDNKW5",
         "name": "Fresh Apple Red Delicious - Premium",
         "brand": "General",
@@ -3467,22 +2875,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0FPRDNKW5",
         "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/top_ASINs/Phase2/B0FPRDNKW5._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0D7TWP3XB",
-        "name": "Sanfe Underarm Sweat Absorbent Patch",
-        "brand": "General",
-        "category": "Feminine_Hygiene",
-        "old_price": 98.0,
-        "new_price": 82.0,
-        "savings": 16.0,
-        "discount_pct": 16.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D7TWP3XB",
-        "image": "https://m.media-amazon.com/images/I/51BVNy+6zpL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3520,6 +2912,22 @@
         ]
     },
     {
+        "uid": "B0BL8FSSR6",
+        "name": "Everyuth Naturals Golden Glow Peel-Off Mask",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 235.0,
+        "new_price": 219.0,
+        "savings": 16.0,
+        "discount_pct": 6.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BL8FSSR6",
+        "image": "https://m.media-amazon.com/images/I/61rr2sviugL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0D8W8MTDD",
         "name": "Nutralite Activ Buttery Spread Olive",
         "brand": "General",
@@ -3547,54 +2955,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B08FTGF8QK",
         "image": "https://m.media-amazon.com/images/I/61OvQreFgjL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07D4MRFS4",
-        "name": "Fresh Peeled Pomegranate",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 179.0,
-        "new_price": 164.0,
-        "savings": 15.0,
-        "discount_pct": 8.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07D4MRFS4",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Set5/B07D4MRFS4._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09VLBWQDV",
-        "name": "Minimalist 05% Aquaporin Booster Cleanser",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 285.0,
-        "new_price": 270.0,
-        "savings": 15.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09VLBWQDV",
-        "image": "https://m.media-amazon.com/images/I/51y+n-G0fJL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09RB93LBX",
-        "name": "Minimalist 5% Niacinamide Body Lotion",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 285.0,
-        "new_price": 270.0,
-        "savings": 15.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09RB93LBX",
-        "image": "https://m.media-amazon.com/images/I/51cWnlWUJOL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3632,22 +2992,6 @@
         ]
     },
     {
-        "uid": "B0BJ6XPC77",
-        "name": "Minimalist SPF 30 Lip Balm",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 285.0,
-        "new_price": 270.0,
-        "savings": 15.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BJ6XPC77",
-        "image": "https://m.media-amazon.com/images/I/51uYLdqyxLL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0B15HXLHQ",
         "name": "Kellogg's Oats",
         "brand": "General",
@@ -3680,22 +3024,6 @@
         ]
     },
     {
-        "uid": "B0BZV918WF",
-        "name": "Maggi Spicy Manchurian Instant Noodles",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 100.0,
-        "new_price": 85.0,
-        "savings": 15.0,
-        "discount_pct": 15.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BZV918WF",
-        "image": "https://m.media-amazon.com/images/I/61ZruHaFyNL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0D6G71QY5",
         "name": "Frugivore Frozen Strawberry",
         "brand": "General",
@@ -3707,6 +3035,86 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0D6G71QY5",
         "image": "https://m.media-amazon.com/images/I/71Lhx4W9y9L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07D7ZGCRS",
+        "name": "Fresh Papaya Cut",
+        "brand": "General",
+        "category": "Fresh_Fruits",
+        "old_price": 95.0,
+        "new_price": 80.0,
+        "savings": 15.0,
+        "discount_pct": 15.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07D7ZGCRS",
+        "image": "https://m.media-amazon.com/images/I/6188zTQ+ioL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01412X46Y",
+        "name": "Navratna Ayurvedic Cool Oil",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 223.0,
+        "new_price": 208.0,
+        "savings": 15.0,
+        "discount_pct": 6.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01412X46Y",
+        "image": "https://m.media-amazon.com/images/I/71X3ryvPdQL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BZZFPHMJ",
+        "name": "Aromahpure Sandalwood Fragrance Oil",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 179.0,
+        "new_price": 164.0,
+        "savings": 15.0,
+        "discount_pct": 8.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BZZFPHMJ",
+        "image": "https://m.media-amazon.com/images/I/71F1J9-ASgL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07KWLRRM4",
+        "name": "Fresh Long Purple Brinjal",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 41.0,
+        "new_price": 26.0,
+        "savings": 15.0,
+        "discount_pct": 36.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07KWLRRM4",
+        "image": "https://m.media-amazon.com/images/I/51cHV0cEnQL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08T71G5W4",
+        "name": "Hello Tempayy Peppery Szechuan Chili Tempayy Cubes",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 132.0,
+        "new_price": 118.0,
+        "savings": 14.0,
+        "discount_pct": 10.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08T71G5W4",
+        "image": "https://m.media-amazon.com/images/I/61InceEf2cL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3739,38 +3147,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B005MDSSN6",
         "image": "https://m.media-amazon.com/images/I/61aXXwFlBAL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09GKW2BVZ",
-        "name": "Plum Eye-Swear-By Kohl Kajal",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 237.0,
-        "new_price": 223.0,
-        "savings": 14.0,
-        "discount_pct": 5.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09GKW2BVZ",
-        "image": "https://m.media-amazon.com/images/I/41PCSVel8AL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0FLJQQ7BB",
-        "name": "Hocco Aamchi Mango Ice Cream",
-        "brand": "General",
-        "category": "Ch Chocolates_Ice_cream",
-        "old_price": 180.0,
-        "new_price": 166.0,
-        "savings": 14.0,
-        "discount_pct": 7.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FLJQQ7BB",
-        "image": "https://m.media-amazon.com/images/I/51CgeJ2IP3L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3824,17 +3200,81 @@
         ]
     },
     {
-        "uid": "B0C5R1V6MJ",
-        "name": "Alpino Chocolate High Protein Super Oats",
+        "uid": "B0CQCSXX5L",
+        "name": "Cycle Pure Air Karpure Bhimseni Camphor",
         "brand": "General",
-        "category": "Breakfast_Foods",
-        "old_price": 197.0,
-        "new_price": 183.0,
+        "category": "Home_Utilities",
+        "old_price": 140.0,
+        "new_price": 126.0,
         "savings": 14.0,
-        "discount_pct": 7.1,
+        "discount_pct": 10.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0C5R1V6MJ",
-        "image": "https://m.media-amazon.com/images/I/81rBxr3m+oL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CQCSXX5L",
+        "image": "https://m.media-amazon.com/images/I/61mAxYnvZeL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07D7WVSLJ",
+        "name": "Fresh Raw Jackfruit",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 152.0,
+        "new_price": 138.0,
+        "savings": 14.0,
+        "discount_pct": 9.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07D7WVSLJ",
+        "image": "https://m.media-amazon.com/images/I/71j-VrrJ-oL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09D3LBRGD",
+        "name": "Patanjali Dant Kanti Natural Toothpaste",
+        "brand": "General",
+        "category": "Oral_Care",
+        "old_price": 262.0,
+        "new_price": 248.0,
+        "savings": 14.0,
+        "discount_pct": 5.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09D3LBRGD",
+        "image": "https://m.media-amazon.com/images/I/710kiqgcxkL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DXFN8DS4",
+        "name": "McCain AirFryer French Fries",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 158.0,
+        "new_price": 144.0,
+        "savings": 14.0,
+        "discount_pct": 8.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DXFN8DS4",
+        "image": "https://m.media-amazon.com/images/I/61scbMGnOqL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09TR5SHY8",
+        "name": "Grameen Kesar Pista Kulfi",
+        "brand": "General",
+        "category": "Ch Chocolates_Ice_cream",
+        "old_price": 68.0,
+        "new_price": 54.0,
+        "savings": 14.0,
+        "discount_pct": 20.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09TR5SHY8",
+        "image": "https://m.media-amazon.com/images/I/71Bxo3TW1tL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -3904,22 +3344,6 @@
         ]
     },
     {
-        "uid": "B0CW1NV935",
-        "name": "Minimalist 025 Salicylic Acid Face Serum",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 237.0,
-        "new_price": 224.0,
-        "savings": 13.0,
-        "discount_pct": 5.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CW1NV935",
-        "image": "https://m.media-amazon.com/images/I/61BkX4Y+yYL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07574XSJW",
         "name": "India Gate Dubar Pure Basmati Rice",
         "brand": "General",
@@ -3984,22 +3408,6 @@
         ]
     },
     {
-        "uid": "B07VGXW717",
-        "name": "Gillette Mach 3 Shaving Razor",
-        "brand": "General",
-        "category": "Mens_Grooming",
-        "old_price": 392.0,
-        "new_price": 379.0,
-        "savings": 13.0,
-        "discount_pct": 3.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07VGXW717",
-        "image": "https://m.media-amazon.com/images/I/61ND4N0URCL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0CVQKKLFP",
         "name": "Mom's Magic Rich Cashew Almond Cookies",
         "brand": "General",
@@ -4016,17 +3424,81 @@
         ]
     },
     {
-        "uid": "B00L924QIA",
-        "name": "24 Mantra Organic Sonamasuri Rice",
+        "uid": "B0CWH7SQRL",
+        "name": "Right Shift Jaggery Oats Cookies",
         "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 100.0,
-        "new_price": 87.0,
+        "category": "Biscuits_Cookies",
+        "old_price": 63.0,
+        "new_price": 50.0,
         "savings": 13.0,
-        "discount_pct": 13.0,
+        "discount_pct": 20.6,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00L924QIA",
-        "image": "https://m.media-amazon.com/images/I/71PRixJqOBL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CWH7SQRL",
+        "image": "https://m.media-amazon.com/images/I/51gk8NDDlsL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CVXR5WQ6",
+        "name": "Sunfeast Dark Fantasy Sandwich Creme Biscuit",
+        "brand": "General",
+        "category": "Biscuits_Cookies",
+        "old_price": 87.0,
+        "new_price": 74.0,
+        "savings": 13.0,
+        "discount_pct": 14.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CVXR5WQ6",
+        "image": "https://m.media-amazon.com/images/I/818X7u8uWsL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CVL4ZK4Y",
+        "name": "Dr. Rashel Bamboo Charcoal Nose Pore Strips & Soothing Wet Wipes",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 195.0,
+        "new_price": 182.0,
+        "savings": 13.0,
+        "discount_pct": 6.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CVL4ZK4Y",
+        "image": "https://m.media-amazon.com/images/I/71Sd6dWTQVL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BL7SBNTP",
+        "name": "Everyuth Naturals Exfoliating Scrub Combo",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 252.0,
+        "new_price": 239.0,
+        "savings": 13.0,
+        "discount_pct": 5.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BL7SBNTP",
+        "image": "https://m.media-amazon.com/images/I/61D6sz-WvuL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0776QSD14",
+        "name": "Cycle Naivedya Sambrani Dhoop Cups",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 270.0,
+        "new_price": 257.0,
+        "savings": 13.0,
+        "discount_pct": 4.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0776QSD14",
+        "image": "https://m.media-amazon.com/images/I/816jJZ5i7YL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4064,38 +3536,6 @@
         ]
     },
     {
-        "uid": "B0CW5BK193",
-        "name": "Minimalist SPF 50 Sunscreen",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 227.0,
-        "new_price": 215.0,
-        "savings": 12.0,
-        "discount_pct": 5.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CW5BK193",
-        "image": "https://m.media-amazon.com/images/I/61tvX-QQDhL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CW1KVNL8",
-        "name": "Minimalist 02% Alpha Arbutin Face Serum",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 237.0,
-        "new_price": 225.0,
-        "savings": 12.0,
-        "discount_pct": 5.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CW1KVNL8",
-        "image": "https://m.media-amazon.com/images/I/51bO6zzJj4L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B00M57VQ22",
         "name": "Organic Tattva White Split Organic Urad Dal",
         "brand": "General",
@@ -4112,33 +3552,33 @@
         ]
     },
     {
-        "uid": "B07BG6QFYJ",
-        "name": "Fresh White Radish",
+        "uid": "B0CP95MV7M",
+        "name": "Beco Bamboo 2 Ply Kitchen Tissue Roll",
         "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 47.0,
-        "new_price": 35.0,
+        "category": "Tissues_Napkins",
+        "old_price": 139.0,
+        "new_price": 127.0,
         "savings": 12.0,
-        "discount_pct": 25.5,
+        "discount_pct": 8.6,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG6QFYJ",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Phase4/B07BG6QFYJ._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0CP95MV7M",
+        "image": "https://m.media-amazon.com/images/I/71tYf4u9CDL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B0DSVTLHMC",
-        "name": "Nivea Soft Daily UV Light Moisturising Cream",
+        "uid": "B0DP4K4B5W",
+        "name": "Ujala Liquid Detergent Top Load",
         "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 311.0,
-        "new_price": 299.0,
+        "category": "Laundry_Dishcare",
+        "old_price": 398.0,
+        "new_price": 386.0,
         "savings": 12.0,
-        "discount_pct": 3.9,
+        "discount_pct": 3.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DSVTLHMC",
-        "image": "https://m.media-amazon.com/images/I/61N7ISBanuL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0DP4K4B5W",
+        "image": "https://m.media-amazon.com/images/I/61ZVWRVFYvL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4155,38 +3595,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0C2Z5F5TJ",
         "image": "https://m.media-amazon.com/images/I/41nFzsxYbvL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00K2TX34Y",
-        "name": "Nivea Watermelon Shine Lip Balm",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 140.0,
-        "new_price": 129.0,
-        "savings": 11.0,
-        "discount_pct": 7.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00K2TX34Y",
-        "image": "https://m.media-amazon.com/images/I/61iI4M9ipBL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0FKGHBLB6",
-        "name": "Godrej Aer Royal Matic Kit",
-        "brand": "General",
-        "category": "Home_Utilities",
-        "old_price": 532.0,
-        "new_price": 521.0,
-        "savings": 11.0,
-        "discount_pct": 2.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FKGHBLB6",
-        "image": "https://m.media-amazon.com/images/I/71FEiGr2qZL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4251,6 +3659,70 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0FFT11VVJ",
         "image": "https://m.media-amazon.com/images/I/61vpKtP+JeL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0F4WTQPWP",
+        "name": "Sid's Farm Cow Ghee",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 443.0,
+        "new_price": 432.0,
+        "savings": 11.0,
+        "discount_pct": 2.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F4WTQPWP",
+        "image": "https://m.media-amazon.com/images/I/51K8XOP68hL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00TIMOXFO",
+        "name": "Kellogg's Original Corn Flakes",
+        "brand": "General",
+        "category": "Breakfast_Foods",
+        "old_price": 186.0,
+        "new_price": 175.0,
+        "savings": 11.0,
+        "discount_pct": 5.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00TIMOXFO",
+        "image": "https://m.media-amazon.com/images/I/71LwIz1RPUL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07CK51LT9",
+        "name": "Two Brothers Organic Farms Jaggery Block",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 203.0,
+        "new_price": 192.0,
+        "savings": 11.0,
+        "discount_pct": 5.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07CK51LT9",
+        "image": "https://m.media-amazon.com/images/I/61wl63AetIL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DSG7X1CH",
+        "name": "Upnourish Cocoa Hazelnut Plant Protein Bar",
+        "brand": "General",
+        "category": "Nutritional_Supplements",
+        "old_price": 110.0,
+        "new_price": 99.0,
+        "savings": 11.0,
+        "discount_pct": 10.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DSG7X1CH",
+        "image": "https://m.media-amazon.com/images/I/81PdGp0+R-L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4400,38 +3872,6 @@
         ]
     },
     {
-        "uid": "B0CTFHPC23",
-        "name": "WishCare Multi-Peptide Shampoo (Anti-Hairfall)",
-        "brand": "General",
-        "category": "Hair_Care",
-        "old_price": 399.0,
-        "new_price": 389.0,
-        "savings": 10.0,
-        "discount_pct": 2.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CTFHPC23",
-        "image": "https://m.media-amazon.com/images/I/51I38T3uojL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0BHT6BNBK",
-        "name": "Mamaearth Nourishing Tinted Natural Lip Balm",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 149.0,
-        "new_price": 139.0,
-        "savings": 10.0,
-        "discount_pct": 6.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0BHT6BNBK",
-        "image": "https://m.media-amazon.com/images/I/619yP-q6dBL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B00M57WD7E",
         "name": "Organic Tattva Organic Mix Dal",
         "brand": "General",
@@ -4496,6 +3936,182 @@
         ]
     },
     {
+        "uid": "B08H654828",
+        "name": "Tata Tea Premium (Black tea)",
+        "brand": "General",
+        "category": "Coffee_Tea",
+        "old_price": 601.0,
+        "new_price": 591.0,
+        "savings": 10.0,
+        "discount_pct": 1.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08H654828",
+        "image": "https://m.media-amazon.com/images/I/61-egYVRN5L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08L7BFSD1",
+        "name": "Hershey's Hot Chocolate Powder",
+        "brand": "General",
+        "category": "Coffee_Tea",
+        "old_price": 236.0,
+        "new_price": 226.0,
+        "savings": 10.0,
+        "discount_pct": 4.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08L7BFSD1",
+        "image": "https://m.media-amazon.com/images/I/61SWbLUBjIL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0FNQWH9P3",
+        "name": "Vahdam Chamomile Lavender Herbal Infusion Tea",
+        "brand": "General",
+        "category": "Coffee_Tea",
+        "old_price": 180.0,
+        "new_price": 170.0,
+        "savings": 10.0,
+        "discount_pct": 5.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0FNQWH9P3",
+        "image": "https://m.media-amazon.com/images/I/5137KrUSFLL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07YWMQHYJ",
+        "name": "Biotique Shampoo & Conditioner",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 479.0,
+        "new_price": 469.0,
+        "savings": 10.0,
+        "discount_pct": 2.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07YWMQHYJ",
+        "image": "https://m.media-amazon.com/images/I/618zSs5JZfL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09HSDJP51",
+        "name": "Harpic Flushmatic In-Cistern Toilet Cleaner",
+        "brand": "General",
+        "category": "Household_Cleaners",
+        "old_price": 232.0,
+        "new_price": 222.0,
+        "savings": 10.0,
+        "discount_pct": 4.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09HSDJP51",
+        "image": "https://m.media-amazon.com/images/I/51kfc2NZdYL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09DVJ9VN8",
+        "name": "Cinagro Cocopeat Organic Fertilizer",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 189.0,
+        "new_price": 179.0,
+        "savings": 10.0,
+        "discount_pct": 5.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09DVJ9VN8",
+        "image": "https://m.media-amazon.com/images/I/71lxK0SF7bL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BNNZJVBK",
+        "name": "Vanish Oxi Action Liquid Detergent Add On",
+        "brand": "General",
+        "category": "Laundry_Dishcare",
+        "old_price": 248.0,
+        "new_price": 238.0,
+        "savings": 10.0,
+        "discount_pct": 4.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BNNZJVBK",
+        "image": "https://m.media-amazon.com/images/I/61o3Du126AL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CP9NWZJC",
+        "name": "Dettol Icy Cool Bathing Bar",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 236.0,
+        "new_price": 226.0,
+        "savings": 10.0,
+        "discount_pct": 4.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CP9NWZJC",
+        "image": "https://m.media-amazon.com/images/I/71-tpGizo9L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00X9UOCEI",
+        "name": "Nivea Men All-In-1 Oil Control Face Wash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 234.0,
+        "new_price": 224.0,
+        "savings": 10.0,
+        "discount_pct": 4.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00X9UOCEI",
+        "image": "https://m.media-amazon.com/images/I/51POpTT0iIL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DG5ZHWCN",
+        "name": "Lakme Perfect Radiance Facewash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 185.0,
+        "new_price": 175.0,
+        "savings": 10.0,
+        "discount_pct": 5.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DG5ZHWCN",
+        "image": "https://m.media-amazon.com/images/I/41CnvGJADiL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B009W0UTLO",
+        "name": "MTR Idli/Dosa Chilly Chutney Powder",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 138.0,
+        "new_price": 129.0,
+        "savings": 9.0,
+        "discount_pct": 6.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B009W0UTLO",
+        "image": "https://m.media-amazon.com/images/I/815vmeyVaBL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0B7S8FXW5",
         "name": "Mille Foxtail Millet",
         "brand": "General",
@@ -4544,22 +4160,6 @@
         ]
     },
     {
-        "uid": "B07M8VMDDG",
-        "name": "Godrej Yummiez Veg Burger Patty",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 90.0,
-        "new_price": 81.0,
-        "savings": 9.0,
-        "discount_pct": 10.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07M8VMDDG",
-        "image": "https://m.media-amazon.com/images/I/818zEc1n7mL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0DPTG9MXT",
         "name": "Fresh Sweet Lime (Mosambi) - Regular",
         "brand": "General",
@@ -4603,22 +4203,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B00L9262Y6",
         "image": "https://m.media-amazon.com/images/I/71Eqx2wvmkL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CZLKS1VW",
-        "name": "Tata Simply Better Virgin Coconut Oil",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 376.0,
-        "new_price": 367.0,
-        "savings": 9.0,
-        "discount_pct": 2.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CZLKS1VW",
-        "image": "https://m.media-amazon.com/images/I/51F7vQ2MGmL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4688,38 +4272,6 @@
         ]
     },
     {
-        "uid": "B0G4WQX1WR",
-        "name": "Garnier Bright Complete Vitamin C Face Wash",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 209.0,
-        "new_price": 200.0,
-        "savings": 9.0,
-        "discount_pct": 4.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0G4WQX1WR",
-        "image": "https://m.media-amazon.com/images/I/51O4CZnsiZL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01N9ZX851",
-        "name": "Nivea Men Protect & Care Deodorant Spray",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 195.0,
-        "new_price": 186.0,
-        "savings": 9.0,
-        "discount_pct": 4.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01N9ZX851",
-        "image": "https://m.media-amazon.com/images/I/41-ldQiQ-uL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B075KC6SLD",
         "name": "Impower Sirona Defence Pepper Spray",
         "brand": "General",
@@ -4731,22 +4283,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B075KC6SLD",
         "image": "https://m.media-amazon.com/images/I/61kqjJ9kCoL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B013OU6U4C",
-        "name": "Air Wick Refill & Machine (Auto Spray)",
-        "brand": "General",
-        "category": "Home_Utilities",
-        "old_price": 389.0,
-        "new_price": 380.0,
-        "savings": 9.0,
-        "discount_pct": 2.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B013OU6U4C",
-        "image": "https://m.media-amazon.com/images/I/61xTWqeRqgL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -4768,65 +4304,65 @@
         ]
     },
     {
-        "uid": "B08JR551Q6",
-        "name": "Biotique Vitamin C Moisture Treatment",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 139.0,
-        "new_price": 130.0,
-        "savings": 9.0,
-        "discount_pct": 6.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08JR551Q6",
-        "image": "https://m.media-amazon.com/images/I/61ncEIxMEAL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00L924JZK",
-        "name": "24 Mantra Organic Sonamasuri Brown Rice",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 109.0,
-        "new_price": 100.0,
-        "savings": 9.0,
-        "discount_pct": 8.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00L924JZK",
-        "image": "https://m.media-amazon.com/images/I/81NhVoPCNQL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01MYGECX5",
-        "name": "Nivea Men Silver Protect Deodorant Roll-On",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 144.0,
-        "new_price": 136.0,
-        "savings": 8.0,
-        "discount_pct": 5.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01MYGECX5",
-        "image": "https://m.media-amazon.com/images/I/51kERVrK2sL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B006G84KR4",
-        "name": "Himalaya Anti-Dandruff Hair Cream",
+        "uid": "B07BZN59BS",
+        "name": "Rey Naturals 100% Pure Castor Oil",
         "brand": "General",
         "category": "Hair_Care",
-        "old_price": 78.0,
-        "new_price": 70.0,
-        "savings": 8.0,
-        "discount_pct": 10.3,
+        "old_price": 229.0,
+        "new_price": 220.0,
+        "savings": 9.0,
+        "discount_pct": 3.9,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B006G84KR4",
-        "image": "https://m.media-amazon.com/images/I/515NRJUmEhL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B07BZN59BS",
+        "image": "https://m.media-amazon.com/images/I/51OB10oJFxL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08BK6Z6KK",
+        "name": "Orika Hyderabadi Biryani Seasoning",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 93.0,
+        "new_price": 84.0,
+        "savings": 9.0,
+        "discount_pct": 9.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08BK6Z6KK",
+        "image": "https://m.media-amazon.com/images/I/51qZegTFYAL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B098LR2L3K",
+        "name": "Fiama Radiant Glow Shower Gel",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 259.0,
+        "new_price": 250.0,
+        "savings": 9.0,
+        "discount_pct": 3.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B098LR2L3K",
+        "image": "https://m.media-amazon.com/images/I/51xcCUoVmgL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0097FVTW2",
+        "name": "OGX Renewing Argan Oil of Morocco Repairing Shampoo",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 668.0,
+        "new_price": 660.0,
+        "savings": 8.0,
+        "discount_pct": 1.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0097FVTW2",
+        "image": "https://m.media-amazon.com/images/I/51gn9MXRDZL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5008,6 +4544,70 @@
         ]
     },
     {
+        "uid": "B0DKHST3Z9",
+        "name": "Streax High Gloss Gel Hair Colour",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 159.0,
+        "new_price": 151.0,
+        "savings": 8.0,
+        "discount_pct": 5.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DKHST3Z9",
+        "image": "https://m.media-amazon.com/images/I/617BQszUIgL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CKTPC9BJ",
+        "name": "Himalaya Turmeric Face Cream",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 159.0,
+        "new_price": 151.0,
+        "savings": 8.0,
+        "discount_pct": 5.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CKTPC9BJ",
+        "image": "https://m.media-amazon.com/images/I/513v2LdQ7AL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0F29NG6XC",
+        "name": "Dabur Real Activ Cranberry Burst Fruit Drink",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 130.0,
+        "new_price": 122.0,
+        "savings": 8.0,
+        "discount_pct": 6.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F29NG6XC",
+        "image": "https://m.media-amazon.com/images/I/61MqZMCdzZL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0B4GYZ4FR",
+        "name": "Fair And Handsome Radiance Face Wash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 140.0,
+        "new_price": 132.0,
+        "savings": 8.0,
+        "discount_pct": 5.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0B4GYZ4FR",
+        "image": "https://m.media-amazon.com/images/I/61kF5W9lV8L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0BHHY75T6",
         "name": "Surf Excel Matic Liquid Detergent Front Load",
         "brand": "General",
@@ -5035,22 +4635,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B077XDK8HT",
         "image": "https://m.media-amazon.com/images/I/61SgI9W-TVL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07BG7LB95",
-        "name": "Fresh Methi/Fenugreek Leaves - Without Roots (Cleaned)",
-        "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 55.0,
-        "new_price": 48.0,
-        "savings": 7.0,
-        "discount_pct": 12.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG7LB95",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/top_ASINs/Phase2/B07BG7LB95._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5088,22 +4672,6 @@
         ]
     },
     {
-        "uid": "B01C571752",
-        "name": "Lakme Perfect Radiance Day Creme",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 249.0,
-        "new_price": 242.0,
-        "savings": 7.0,
-        "discount_pct": 2.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01C571752",
-        "image": "https://m.media-amazon.com/images/I/51nw5tpxApL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B09J1F7N62",
         "name": "Britannia Treat Vanilla Wafers",
         "brand": "General",
@@ -5120,17 +4688,113 @@
         ]
     },
     {
-        "uid": "B01IA42TBU",
-        "name": "Godrej Yummiez Chicken Breakfast Sausage",
+        "uid": "B00Q31WLQG",
+        "name": "Engage XX1 Cologne Spray",
         "brand": "General",
-        "category": "Chicken_Meat_Fish",
-        "old_price": 155.0,
-        "new_price": 149.0,
-        "savings": 6.0,
-        "discount_pct": 3.9,
+        "category": "Makeup_Beauty",
+        "old_price": 193.0,
+        "new_price": 186.0,
+        "savings": 7.0,
+        "discount_pct": 3.6,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01IA42TBU",
-        "image": "https://m.media-amazon.com/images/I/71a6YJ2Yh1L._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B00Q31WLQG",
+        "image": "https://m.media-amazon.com/images/I/61E+brIOHoL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08HDFY1NF",
+        "name": "Fresh Peeled Sambar Onion",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 76.0,
+        "new_price": 69.0,
+        "savings": 7.0,
+        "discount_pct": 9.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08HDFY1NF",
+        "image": "https://m.media-amazon.com/images/I/51Ci3TrbOlL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0B3N4XMJ6",
+        "name": "MasterChow Sichuan Chilli Oil",
+        "brand": "General",
+        "category": "Pastes_Sauces",
+        "old_price": 206.0,
+        "new_price": 199.0,
+        "savings": 7.0,
+        "discount_pct": 3.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0B3N4XMJ6",
+        "image": "https://m.media-amazon.com/images/I/619UWcz0m2L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08BK7CSSR",
+        "name": "Orika African Peri Peri Seasoning",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 93.0,
+        "new_price": 86.0,
+        "savings": 7.0,
+        "discount_pct": 7.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08BK7CSSR",
+        "image": "https://m.media-amazon.com/images/I/61tjhPxk2IL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09MK2Y2MD",
+        "name": "Organic Tattva Organic Ready Amla Powder",
+        "brand": "General",
+        "category": "Nutritional_Supplements",
+        "old_price": 115.0,
+        "new_price": 108.0,
+        "savings": 7.0,
+        "discount_pct": 6.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09MK2Y2MD",
+        "image": "https://m.media-amazon.com/images/I/71-Xhca6dOL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CHW4CKJF",
+        "name": "Pond's Hydra Light Gel Facewash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 156.0,
+        "new_price": 149.0,
+        "savings": 7.0,
+        "discount_pct": 4.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CHW4CKJF",
+        "image": "https://m.media-amazon.com/images/I/51rJjXN-YQL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01N3C4SYM",
+        "name": "Yardley London Morning Dew Fragrant Talc",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 220.0,
+        "new_price": 213.0,
+        "savings": 7.0,
+        "discount_pct": 3.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01N3C4SYM",
+        "image": "https://m.media-amazon.com/images/I/710733ttVLL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5312,22 +4976,6 @@
         ]
     },
     {
-        "uid": "B08S51KLZ5",
-        "name": "Dove Serum Bathing Bar",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 239.0,
-        "new_price": 233.0,
-        "savings": 6.0,
-        "discount_pct": 2.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08S51KLZ5",
-        "image": "https://m.media-amazon.com/images/I/51j1wlSkDjL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07L5NVDXV",
         "name": "Yummiez Chicken Breakfast Salami",
         "brand": "General",
@@ -5355,22 +5003,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B00XJELL5C",
         "image": "https://m.media-amazon.com/images/I/71OHjU9KxdL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00AP7YFFY",
-        "name": "Tata Tea Agni",
-        "brand": "General",
-        "category": "Coffee_Tea",
-        "old_price": 130.0,
-        "new_price": 124.0,
-        "savings": 6.0,
-        "discount_pct": 4.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00AP7YFFY",
-        "image": "https://m.media-amazon.com/images/I/61zF9qL2FcL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5472,33 +5104,81 @@
         ]
     },
     {
-        "uid": "B0CFLFYC93",
-        "name": "Colgate Gentle Sensitive Care Toothbrush",
+        "uid": "B0DP5FFTDJ",
+        "name": "Fresh Nagpur Brinjal",
         "brand": "General",
-        "category": "Oral_Care",
-        "old_price": 119.0,
-        "new_price": 114.0,
-        "savings": 5.0,
-        "discount_pct": 4.2,
+        "category": "Fresh_Vegetables",
+        "old_price": 26.0,
+        "new_price": 20.0,
+        "savings": 6.0,
+        "discount_pct": 23.1,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CFLFYC93",
-        "image": "https://m.media-amazon.com/images/I/71ei8lg5vyL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B0DP5FFTDJ",
+        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Set5/B0DP5FFTDJ._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
     },
     {
-        "uid": "B07227PB7C",
-        "name": "Colin Glass & Multisurface Cleaner",
+        "uid": "B07D84KTDX",
+        "name": "Fresh Shelled Sweet Corn",
         "brand": "General",
-        "category": "Household_Cleaners",
-        "old_price": 175.0,
-        "new_price": 170.0,
-        "savings": 5.0,
-        "discount_pct": 2.9,
+        "category": "Fresh_Vegetables",
+        "old_price": 48.0,
+        "new_price": 42.0,
+        "savings": 6.0,
+        "discount_pct": 12.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07227PB7C",
-        "image": "https://m.media-amazon.com/images/I/61wt6ncqelL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B07D84KTDX",
+        "image": "https://m.media-amazon.com/images/I/31pkLKYXqKL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08YP621XD",
+        "name": "Fresh Diced Bhindi (Lady Finger)",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 55.0,
+        "new_price": 49.0,
+        "savings": 6.0,
+        "discount_pct": 10.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08YP621XD",
+        "image": "https://m.media-amazon.com/images/I/71KAfefYx1L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BHD918S1",
+        "name": "Fresh Brown Chana Sprouts",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 55.0,
+        "new_price": 49.0,
+        "savings": 6.0,
+        "discount_pct": 10.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BHD918S1",
+        "image": "https://m.media-amazon.com/images/I/61G6v9y46BL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0FB3HBYVF",
+        "name": "Yogabar 26g Mango Rizz Protein Shake",
+        "brand": "General",
+        "category": "Dairy_Bread_Eggs",
+        "old_price": 99.0,
+        "new_price": 93.0,
+        "savings": 6.0,
+        "discount_pct": 6.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0FB3HBYVF",
+        "image": "https://m.media-amazon.com/images/I/61VV1TvNE6L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5595,22 +5275,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B00LK2L19Q",
         "image": "https://m.media-amazon.com/images/I/71eWDPMrwpL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B014DF2UYG",
-        "name": "Gits Dal Makhani",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 108.0,
-        "new_price": 103.0,
-        "savings": 5.0,
-        "discount_pct": 4.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B014DF2UYG",
-        "image": "https://m.media-amazon.com/images/I/61qMaUzs+eL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5744,38 +5408,6 @@
         ]
     },
     {
-        "uid": "B00L924LJO",
-        "name": "24 Mantra Organic Sonamasuri Brown Rice",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 383.0,
-        "new_price": 378.0,
-        "savings": 5.0,
-        "discount_pct": 1.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00L924LJO",
-        "image": "https://m.media-amazon.com/images/I/81ydsN8clzL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00M57T02U",
-        "name": "Organic Tattva Organic Sonamasuri Brown Rice",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 107.0,
-        "new_price": 102.0,
-        "savings": 5.0,
-        "discount_pct": 4.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00M57T02U",
-        "image": "https://m.media-amazon.com/images/I/61v88n1C0BL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0GFDVRK7D",
         "name": "VS Mani & Co Chilli Potato Hot Chips",
         "brand": "General",
@@ -5851,22 +5483,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B077S4V3V9",
         "image": "https://m.media-amazon.com/images/I/71zRgmoMoqL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B00T7GCGKU",
-        "name": "Kissan Fresh Tomato Ketchup Bottle",
-        "brand": "General",
-        "category": "Pastes_Sauces",
-        "old_price": 149.0,
-        "new_price": 144.0,
-        "savings": 5.0,
-        "discount_pct": 3.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00T7GCGKU",
-        "image": "https://m.media-amazon.com/images/I/51cDqJi8dJL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -5968,6 +5584,102 @@
         ]
     },
     {
+        "uid": "B0F9X1BZBQ",
+        "name": "Lia Aroma Tag - Citrus Sunrise",
+        "brand": "General",
+        "category": "Vehicle_Accessories",
+        "old_price": 99.0,
+        "new_price": 94.0,
+        "savings": 5.0,
+        "discount_pct": 5.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F9X1BZBQ",
+        "image": "https://m.media-amazon.com/images/I/814Fq+KORRL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BX4284KB",
+        "name": "DeHaat Honest Farms Kabuli Chana",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 160.0,
+        "new_price": 155.0,
+        "savings": 5.0,
+        "discount_pct": 3.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BX4284KB",
+        "image": "https://m.media-amazon.com/images/I/51aGc6Y3-7L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09JLLHYGT",
+        "name": "Parodontax Expert Gum Care Toothpaste",
+        "brand": "General",
+        "category": "Oral_Care",
+        "old_price": 182.0,
+        "new_price": 177.0,
+        "savings": 5.0,
+        "discount_pct": 2.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09JLLHYGT",
+        "image": "https://m.media-amazon.com/images/I/61v9VxmwqfL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00THFKF5O",
+        "name": "Aquafina Drinking Water Bottle",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 32.0,
+        "new_price": 27.0,
+        "savings": 5.0,
+        "discount_pct": 15.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00THFKF5O",
+        "image": "https://m.media-amazon.com/images/I/81Th2waxaCL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0F291H449",
+        "name": "The Health Factory Sourdough Classic Bread",
+        "brand": "General",
+        "category": "Dairy_Bread_Eggs",
+        "old_price": 120.0,
+        "new_price": 115.0,
+        "savings": 5.0,
+        "discount_pct": 4.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0F291H449",
+        "image": "https://m.media-amazon.com/images/I/610xadnthdL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B006LXDQRY",
+        "name": "Neutrogena Deep Clean Facial Cleanse",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 430.0,
+        "new_price": 425.0,
+        "savings": 5.0,
+        "discount_pct": 1.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B006LXDQRY",
+        "image": "https://m.media-amazon.com/images/I/41cB3gU9HvL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B01JZNURQO",
         "name": "Godrej Yummiez Chicken Pepper & Herb Salami",
         "brand": "General",
@@ -5984,22 +5696,6 @@
         ]
     },
     {
-        "uid": "B0B2D8Q1D6",
-        "name": "Abhi Eggs Vitamin D3 Eggs",
-        "brand": "General",
-        "category": "Dairy_Bread_Eggs",
-        "old_price": 85.0,
-        "new_price": 81.0,
-        "savings": 4.0,
-        "discount_pct": 4.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0B2D8Q1D6",
-        "image": "https://m.media-amazon.com/images/I/51CRTMKhwRL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07DWBPDMJ",
         "name": "KLF Coconad Coconut Milk",
         "brand": "General",
@@ -6011,22 +5707,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07DWBPDMJ",
         "image": "https://m.media-amazon.com/images/I/61h2inKVeaL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07BG65QLK",
-        "name": "Fresh Banana Stem",
-        "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 43.0,
-        "new_price": 39.0,
-        "savings": 4.0,
-        "discount_pct": 9.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG65QLK",
-        "image": "https://m.media-amazon.com/images/I/41cpIgTBeLL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6080,22 +5760,6 @@
         ]
     },
     {
-        "uid": "B097YNR28R",
-        "name": "Sensodyne Sensitivity Protection Toothpaste",
-        "brand": "General",
-        "category": "Oral_Care",
-        "old_price": 541.0,
-        "new_price": 537.0,
-        "savings": 4.0,
-        "discount_pct": 0.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B097YNR28R",
-        "image": "https://m.media-amazon.com/images/I/61+mj-7y2CL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07RZ7RPRD",
         "name": "MyFitness Smooth Chocolate Peanut Butter",
         "brand": "General",
@@ -6107,38 +5771,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07RZ7RPRD",
         "image": "https://m.media-amazon.com/images/I/616HBXgRNUL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0FKMNKY5C",
-        "name": "Minus 30 Espresso Mini Ice Cream",
-        "brand": "General",
-        "category": "Chocolates_Ice_cream",
-        "old_price": 113.0,
-        "new_price": 109.0,
-        "savings": 4.0,
-        "discount_pct": 3.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FKMNKY5C",
-        "image": "https://m.media-amazon.com/images/I/51+Md7p-czL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09BDJM4DQ",
-        "name": "Amul Happy Treats Aloo Tikki",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 89.0,
-        "new_price": 85.0,
-        "savings": 4.0,
-        "discount_pct": 4.5,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09BDJM4DQ",
-        "image": "https://m.media-amazon.com/images/I/617dcgNVSwL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6171,38 +5803,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07DCLTKXJ",
         "image": "https://m.media-amazon.com/images/I/71a6Mh2uCjL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0C7QXLHLR",
-        "name": "BRB Rice Chips Classic Salted",
-        "brand": "General",
-        "category": "Chips_Munchies",
-        "old_price": 24.0,
-        "new_price": 20.0,
-        "savings": 4.0,
-        "discount_pct": 16.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0C7QXLHLR",
-        "image": "https://m.media-amazon.com/images/I/71L0BbRaSKL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0F4WTQPWP",
-        "name": "Sid's Farm Cow Ghee",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 447.0,
-        "new_price": 443.0,
-        "savings": 4.0,
-        "discount_pct": 0.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0F4WTQPWP",
-        "image": "https://m.media-amazon.com/images/I/51K8XOP68hL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6320,6 +5920,150 @@
         ]
     },
     {
+        "uid": "B082STCPHN",
+        "name": "Himalaya Protein Hair Cream",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 129.0,
+        "new_price": 125.0,
+        "savings": 4.0,
+        "discount_pct": 3.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B082STCPHN",
+        "image": "https://m.media-amazon.com/images/I/51RbtUekuAL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B075332XK6",
+        "name": "Tata Sampann Yellow Moong Dal (Split)",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 99.0,
+        "new_price": 95.0,
+        "savings": 4.0,
+        "discount_pct": 4.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B075332XK6",
+        "image": "https://m.media-amazon.com/images/I/71rbT8ZnRyL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00M70ZTI4",
+        "name": "Phalada Pure & Sure Organic Ragi Flour",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 125.0,
+        "new_price": 121.0,
+        "savings": 4.0,
+        "discount_pct": 3.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00M70ZTI4",
+        "image": "https://m.media-amazon.com/images/I/61Ak07Zxc7L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CT5Y61WC",
+        "name": "Kapiva Pure Foods Organic Honey",
+        "brand": "General",
+        "category": "Breakfast_Foods",
+        "old_price": 399.0,
+        "new_price": 395.0,
+        "savings": 4.0,
+        "discount_pct": 1.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CT5Y61WC",
+        "image": "https://m.media-amazon.com/images/I/61CfpyPTXaL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DBWGRFSC",
+        "name": "Sanfe Cucumber Facial Mask",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 45.0,
+        "new_price": 41.0,
+        "savings": 4.0,
+        "discount_pct": 8.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DBWGRFSC",
+        "image": "https://m.media-amazon.com/images/I/61bRZfeftwL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07TQDMRL2",
+        "name": "Iris Rose Potpourri",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 143.0,
+        "new_price": 139.0,
+        "savings": 4.0,
+        "discount_pct": 2.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07TQDMRL2",
+        "image": "https://m.media-amazon.com/images/I/61YpcDJndOL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07TM3VDKP",
+        "name": "Iris Jasmine Potpourri",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 143.0,
+        "new_price": 139.0,
+        "savings": 4.0,
+        "discount_pct": 2.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07TM3VDKP",
+        "image": "https://m.media-amazon.com/images/I/61IWFa6cpGL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CQM3WGNV",
+        "name": "Dettol Cologne Fresh Bathing Bar",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 137.0,
+        "new_price": 133.0,
+        "savings": 4.0,
+        "discount_pct": 2.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CQM3WGNV",
+        "image": "https://m.media-amazon.com/images/I/61jXVC7IU0L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00R65D20W",
+        "name": "Gits Rajma Masala & Basmati Rice Combo",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 163.0,
+        "new_price": 159.0,
+        "savings": 4.0,
+        "discount_pct": 2.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00R65D20W",
+        "image": "https://m.media-amazon.com/images/I/61pOwvpdykL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B079GVF4P8",
         "name": "Epigamia Vanilla Bean Greek Yogurt",
         "brand": "General",
@@ -6336,17 +6080,17 @@
         ]
     },
     {
-        "uid": "B08L4LPCZ8",
-        "name": "Coca-Cola Original Taste Soft Drink",
+        "uid": "B00L924JZK",
+        "name": "24 Mantra Organic Sonamasuri Brown Rice",
         "brand": "General",
-        "category": "Drinks_Juices",
-        "old_price": 149.0,
-        "new_price": 146.0,
+        "category": "Rice_Atta_Dal",
+        "old_price": 100.0,
+        "new_price": 97.0,
         "savings": 3.0,
-        "discount_pct": 2.0,
+        "discount_pct": 3.0,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08L4LPCZ8",
-        "image": "https://m.media-amazon.com/images/I/81zlIBMkYiL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B00L924JZK",
+        "image": "https://m.media-amazon.com/images/I/81NhVoPCNQL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6379,22 +6123,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0DW98BL3X",
         "image": "https://m.media-amazon.com/images/I/61GkEEeL9iL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0CJ9FN3FP",
-        "name": "Dermatouch Salicylic Acid 2% Face Wash",
-        "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 180.0,
-        "new_price": 177.0,
-        "savings": 3.0,
-        "discount_pct": 1.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CJ9FN3FP",
-        "image": "https://m.media-amazon.com/images/I/71KWPR5DocL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6512,22 +6240,6 @@
         ]
     },
     {
-        "uid": "B0746KBJ46",
-        "name": "Wingreens Farms Garlic Dip",
-        "brand": "General",
-        "category": "Pastes_Sauces",
-        "old_price": 125.0,
-        "new_price": 122.0,
-        "savings": 3.0,
-        "discount_pct": 2.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0746KBJ46",
-        "image": "https://m.media-amazon.com/images/I/61AVUImJ0XL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0DZX8YPDD",
         "name": "Sleepy Owl French Vanilla Instant Coffee Sachets",
         "brand": "General",
@@ -6555,22 +6267,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B01M12M26K",
         "image": "https://m.media-amazon.com/images/I/81kx2IPueEL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0GQ9S6TPY",
-        "name": "Mogu Mogu Melon With Nata De Coco Juice Drink",
-        "brand": "General",
-        "category": "Drinks_Juices",
-        "old_price": 68.0,
-        "new_price": 65.0,
-        "savings": 3.0,
-        "discount_pct": 4.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0GQ9S6TPY",
-        "image": "https://m.media-amazon.com/images/I/81DnfB1MUiL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6640,6 +6336,134 @@
         ]
     },
     {
+        "uid": "B07BG6X1TT",
+        "name": "Fresh Premium Sweet Tamarind",
+        "brand": "General",
+        "category": "Fresh_Fruits",
+        "old_price": 144.0,
+        "new_price": 141.0,
+        "savings": 3.0,
+        "discount_pct": 2.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07BG6X1TT",
+        "image": "https://m.media-amazon.com/images/I/51hYPNLG8kL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01C8FM764",
+        "name": "Beardo Beard & Hair Growth Oil",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 455.0,
+        "new_price": 452.0,
+        "savings": 3.0,
+        "discount_pct": 0.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01C8FM764",
+        "image": "https://m.media-amazon.com/images/I/81DycYsQi0L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09Y68FF45",
+        "name": "Tata Soulfull Masala Oats+ With Millets",
+        "brand": "General",
+        "category": "Breakfast_Foods",
+        "old_price": 18.0,
+        "new_price": 15.0,
+        "savings": 3.0,
+        "discount_pct": 16.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09Y68FF45",
+        "image": "https://m.media-amazon.com/images/I/618FloubvUL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09HSF3M7J",
+        "name": "Harpic Flushmatic In-Cistern Toilet Cleaner",
+        "brand": "General",
+        "category": "Household_Cleaners",
+        "old_price": 165.0,
+        "new_price": 162.0,
+        "savings": 3.0,
+        "discount_pct": 1.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09HSF3M7J",
+        "image": "https://m.media-amazon.com/images/I/61e+3yDPUmL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01A0PQC4M",
+        "name": "GUBB Slant Tip Tweezer",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 135.0,
+        "new_price": 132.0,
+        "savings": 3.0,
+        "discount_pct": 2.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01A0PQC4M",
+        "image": "https://m.media-amazon.com/images/I/51MNsu+3ifL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CVN9RX3Z",
+        "name": "Mother Sparsh Kids Natural Blueberry Toothpaste",
+        "brand": "General",
+        "category": "Oral_Care",
+        "old_price": 159.0,
+        "new_price": 156.0,
+        "savings": 3.0,
+        "discount_pct": 1.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CVN9RX3Z",
+        "image": "https://m.media-amazon.com/images/I/71ol+uHcaHL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0015YJUSS",
+        "name": "Gits Instant Upma Mix",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 66.0,
+        "new_price": 63.0,
+        "savings": 3.0,
+        "discount_pct": 4.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0015YJUSS",
+        "image": "https://m.media-amazon.com/images/I/71CdZmr57QL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08L4LPCZ8",
+        "name": "Coca-Cola Original Taste Soft Drink",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 146.0,
+        "new_price": 144.0,
+        "savings": 2.0,
+        "discount_pct": 1.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08L4LPCZ8",
+        "image": "https://m.media-amazon.com/images/I/81zlIBMkYiL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0FDB1YPYC",
         "name": "Dr. Reddy's Venusia Baby Mild Bathing Bar",
         "brand": "General",
@@ -6688,22 +6512,6 @@
         ]
     },
     {
-        "uid": "B00P4EYXF0",
-        "name": "Saffola Active Multi-Source Edible Oil Jar",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 850.0,
-        "new_price": 848.0,
-        "savings": 2.0,
-        "discount_pct": 0.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00P4EYXF0",
-        "image": "https://m.media-amazon.com/images/I/616rRJHD95L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B00L9271I2",
         "name": "24 Mantra Organic Brown Sugar",
         "brand": "General",
@@ -6715,38 +6523,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B00L9271I2",
         "image": "https://m.media-amazon.com/images/I/71HiLMwNq3L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07Y3DPD17",
-        "name": "Swiss Beauty Bold Matt Lip Liner",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 65.0,
-        "new_price": 63.0,
-        "savings": 2.0,
-        "discount_pct": 3.1,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07Y3DPD17",
-        "image": "https://m.media-amazon.com/images/I/51asZBikaOL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0DZ6VKFL6",
-        "name": "The Baker's Dozen Banana Muffin",
-        "brand": "General",
-        "category": "Biscuits_Cookies",
-        "old_price": 36.0,
-        "new_price": 34.0,
-        "savings": 2.0,
-        "discount_pct": 5.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DZ6VKFL6",
-        "image": "https://m.media-amazon.com/images/I/61iXLLFNh2L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6779,22 +6555,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B0DW8MTFGQ",
         "image": "https://m.media-amazon.com/images/I/71Z8zdYwLZL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B01468OHAK",
-        "name": "iD Fresh Malabar Parota",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 110.0,
-        "new_price": 108.0,
-        "savings": 2.0,
-        "discount_pct": 1.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B01468OHAK",
-        "image": "https://m.media-amazon.com/images/I/61SgdeZdGGL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -6960,22 +6720,6 @@
         ]
     },
     {
-        "uid": "B079H3CWRG",
-        "name": "Tata Sampann Chilli Powder",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 45.0,
-        "new_price": 43.0,
-        "savings": 2.0,
-        "discount_pct": 4.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B079H3CWRG",
-        "image": "https://m.media-amazon.com/images/I/71i-UwJ-f0L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B079H39G18",
         "name": "Tata Sampann Coriander Powder",
         "brand": "General",
@@ -7019,22 +6763,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07NYYPLHQ",
         "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Photoshoot/2nd_Set/B07NYYPLHQ_2._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07BG51H8W",
-        "name": "Fresh Arvi (Colocasia)",
-        "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 30.0,
-        "new_price": 28.0,
-        "savings": 2.0,
-        "discount_pct": 6.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG51H8W",
-        "image": "https://m.media-amazon.com/images/I/71HFiJBMWNL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -7136,22 +6864,6 @@
         ]
     },
     {
-        "uid": "B00C4X841S",
-        "name": "Britannia Vita Marie Gold",
-        "brand": "General",
-        "category": "Biscuits_Cookies",
-        "old_price": 40.0,
-        "new_price": 38.0,
-        "savings": 2.0,
-        "discount_pct": 5.0,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00C4X841S",
-        "image": "https://m.media-amazon.com/images/I/71PEC456c5L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B0C1NJNRBX",
         "name": "CookieMan Choco Chunk Cookies",
         "brand": "General",
@@ -7248,6 +6960,214 @@
         ]
     },
     {
+        "uid": "B092LXV199",
+        "name": "Dabur Vatika Henna & Amla Shampoo",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 343.0,
+        "new_price": 341.0,
+        "savings": 2.0,
+        "discount_pct": 0.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B092LXV199",
+        "image": "https://m.media-amazon.com/images/I/51yypkLxeSL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00EH99VY6",
+        "name": "Lacto Calamine Kaolin Clay Face Lotion",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 155.0,
+        "new_price": 153.0,
+        "savings": 2.0,
+        "discount_pct": 1.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00EH99VY6",
+        "image": "https://m.media-amazon.com/images/I/51mTJLOIFnL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07CHTPYVX",
+        "name": "IRIS Romance Fragrance Sachet",
+        "brand": "General",
+        "category": "Home_Utilities",
+        "old_price": 57.0,
+        "new_price": 55.0,
+        "savings": 2.0,
+        "discount_pct": 3.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07CHTPYVX",
+        "image": "https://m.media-amazon.com/images/I/719HxGgH4nL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09MJMTKG7",
+        "name": "Fresh Hybrid Tomato",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 34.0,
+        "new_price": 32.0,
+        "savings": 2.0,
+        "discount_pct": 5.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09MJMTKG7",
+        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Phase4/B09MJMTKG7._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0D5HNPC1J",
+        "name": "Fresh Chopped Carrot",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 57.0,
+        "new_price": 55.0,
+        "savings": 2.0,
+        "discount_pct": 3.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0D5HNPC1J",
+        "image": "https://m.media-amazon.com/images/I/51aCKKzij2L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BQZ1DD4H",
+        "name": "Prasuma Chicken Chilli Salami",
+        "brand": "General",
+        "category": "Chicken_Meat_Fish",
+        "old_price": 160.0,
+        "new_price": 158.0,
+        "savings": 2.0,
+        "discount_pct": 1.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BQZ1DD4H",
+        "image": "https://m.media-amazon.com/images/I/61bVzyp5HtL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00GX9TS6O",
+        "name": "Maaza Original Mango Drink",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 64.0,
+        "new_price": 62.0,
+        "savings": 2.0,
+        "discount_pct": 3.1,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00GX9TS6O",
+        "image": "https://m.media-amazon.com/images/I/71qvhmXxQ8L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07D2JPSS2",
+        "name": "Dabur Real Masala Guava Fruit Juice",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 75.0,
+        "new_price": 73.0,
+        "savings": 2.0,
+        "discount_pct": 2.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07D2JPSS2",
+        "image": "https://m.media-amazon.com/images/I/81NkQ7Lba+L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B08R3CS8Y1",
+        "name": "Pintola High Protein Creamy Peanut Butter",
+        "brand": "General",
+        "category": "Pastes_Sauces",
+        "old_price": 315.0,
+        "new_price": 313.0,
+        "savings": 2.0,
+        "discount_pct": 0.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B08R3CS8Y1",
+        "image": "https://m.media-amazon.com/images/I/710a6gG8LnL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00X7RJSW4",
+        "name": "Figaro Extra Virgin Olive Oil",
+        "brand": "General",
+        "category": "Oils_Ghee_Masala",
+        "old_price": 312.0,
+        "new_price": 310.0,
+        "savings": 2.0,
+        "discount_pct": 0.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00X7RJSW4",
+        "image": "https://m.media-amazon.com/images/I/61NelmR7D4L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0DFLZJX6J",
+        "name": "Milky Mist Lactose Free Toned Milk",
+        "brand": "General",
+        "category": "Dairy_Bread_Eggs",
+        "old_price": 35.0,
+        "new_price": 33.0,
+        "savings": 2.0,
+        "discount_pct": 5.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DFLZJX6J",
+        "image": "https://m.media-amazon.com/images/I/61pu0yIx2BL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0D15L4LNX",
+        "name": "Only Earth Belgian Chocolate Oats Drink",
+        "brand": "General",
+        "category": "Dairy_Bread_Eggs",
+        "old_price": 43.0,
+        "new_price": 41.0,
+        "savings": 2.0,
+        "discount_pct": 4.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0D15L4LNX",
+        "image": "https://m.media-amazon.com/images/I/61VbL9yceoL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0GNZ3C99N",
+        "name": "Get-A-Way Mango Duet Ice Cream",
+        "brand": "General",
+        "category": "Ch Chocolates_Ice_cream",
+        "old_price": 37.0,
+        "new_price": 35.0,
+        "savings": 2.0,
+        "discount_pct": 5.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0GNZ3C99N",
+        "image": "https://m.media-amazon.com/images/I/51d11r5IBsL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B0D59M234N",
         "name": "Epigamia Mango Everyday Yogurt",
         "brand": "General",
@@ -7280,17 +7200,33 @@
         ]
     },
     {
-        "uid": "B0FMR7XH7W",
-        "name": "Cetaphil Gentle Exfoliating SA Lotion",
+        "uid": "B00P4EYXF0",
+        "name": "Saffola Active Multi-Source Edible Oil Jar",
         "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 95.0,
-        "new_price": 94.0,
+        "category": "Oils_Ghee_Masala",
+        "old_price": 848.0,
+        "new_price": 847.0,
         "savings": 1.0,
-        "discount_pct": 1.1,
+        "discount_pct": 0.1,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0FMR7XH7W",
-        "image": "https://m.media-amazon.com/images/I/61uwM5vQhaL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B00P4EYXF0",
+        "image": "https://m.media-amazon.com/images/I/616rRJHD95L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07Y3DPD17",
+        "name": "Swiss Beauty Bold Matt Lip Liner",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 63.0,
+        "new_price": 62.0,
+        "savings": 1.0,
+        "discount_pct": 1.6,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07Y3DPD17",
+        "image": "https://m.media-amazon.com/images/I/51asZBikaOL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -7392,22 +7328,6 @@
         ]
     },
     {
-        "uid": "B08XXX1F2L",
-        "name": "ITC Master Chef Crispy French Fries",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 106.0,
-        "new_price": 105.0,
-        "savings": 1.0,
-        "discount_pct": 0.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B08XXX1F2L",
-        "image": "https://m.media-amazon.com/images/I/71tME7mQhwL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B09RMRWHBJ",
         "name": "Britannia Cheese Slices",
         "brand": "General",
@@ -7451,38 +7371,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07JW6ZTXX",
         "image": "https://m.media-amazon.com/images/I/71WjkosR86L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B082KY37BL",
-        "name": "Amul High Aroma Cow Ghee Jar",
-        "brand": "General",
-        "category": "Oils_Ghee_Masala",
-        "old_price": 367.0,
-        "new_price": 366.0,
-        "savings": 1.0,
-        "discount_pct": 0.3,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B082KY37BL",
-        "image": "https://m.media-amazon.com/images/I/81zqSDz8uLL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09VPKXFQ8",
-        "name": "Fresh Diced Sugar Cane",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 35.0,
-        "new_price": 34.0,
-        "savings": 1.0,
-        "discount_pct": 2.9,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09VPKXFQ8",
-        "image": "https://m.media-amazon.com/images/I/51vvmgtg1LL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -7552,22 +7440,6 @@
         ]
     },
     {
-        "uid": "B0CND1VF2W",
-        "name": "WishCare SPF 50 Tinted Ceramide Lip Balm",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 249.0,
-        "new_price": 248.0,
-        "savings": 1.0,
-        "discount_pct": 0.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CND1VF2W",
-        "image": "https://m.media-amazon.com/images/I/51t4TGxF9ML._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B01BBNF6GM",
         "name": "Lakme 9 To 5 CC Cream",
         "brand": "General",
@@ -7616,22 +7488,6 @@
         ]
     },
     {
-        "uid": "B00SH7JJ0A",
-        "name": "Sofit Soya Vanilla Flavour Drink",
-        "brand": "General",
-        "category": "Dairy_Bread_Eggs",
-        "old_price": 128.0,
-        "new_price": 127.0,
-        "savings": 1.0,
-        "discount_pct": 0.8,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B00SH7JJ0A",
-        "image": "https://m.media-amazon.com/images/I/512dN5QFdYL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B00SGUIYCC",
         "name": "Sofit Soya Naturally Sugar Free Drink",
         "brand": "General",
@@ -7659,38 +7515,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07KKFSBY2",
         "image": "https://m.media-amazon.com/images/I/51mBYmqSl6L._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B07BG6X1TT",
-        "name": "Fresh Premium Sweet Tamarind",
-        "brand": "General",
-        "category": "Fresh_Fruits",
-        "old_price": 145.0,
-        "new_price": 144.0,
-        "savings": 1.0,
-        "discount_pct": 0.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07BG6X1TT",
-        "image": "https://m.media-amazon.com/images/I/51hYPNLG8kL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B082NL4SNP",
-        "name": "Re'equil Oil Free Moisturiser",
-        "brand": "General",
-        "category": "Makeup_Beauty",
-        "old_price": 266.0,
-        "new_price": 265.0,
-        "savings": 1.0,
-        "discount_pct": 0.4,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B082NL4SNP",
-        "image": "https://m.media-amazon.com/images/I/41RIIAitj5L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -7792,22 +7616,6 @@
         ]
     },
     {
-        "uid": "B0CGLRKDHT",
-        "name": "Sweet Karam Coffee Madras Mixture",
-        "brand": "General",
-        "category": "Indian_Snacks",
-        "old_price": 63.0,
-        "new_price": 62.0,
-        "savings": 1.0,
-        "discount_pct": 1.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CGLRKDHT",
-        "image": "https://m.media-amazon.com/images/I/81JGwurDMJL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07L8HBXNZ",
         "name": "Fresh Sweet Potato",
         "brand": "General",
@@ -7824,22 +7632,6 @@
         ]
     },
     {
-        "uid": "B0DP5FFTDJ",
-        "name": "Fresh Nagpur Brinjal",
-        "brand": "General",
-        "category": "Fresh_Vegetables",
-        "old_price": 27.0,
-        "new_price": 26.0,
-        "savings": 1.0,
-        "discount_pct": 3.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0DP5FFTDJ",
-        "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Set5/B0DP5FFTDJ._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B07BG68J66",
         "name": "Fresh Bajji Chilli",
         "brand": "General",
@@ -7851,22 +7643,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B07BG68J66",
         "image": "https://m.media-amazon.com/images/G/31/img24/Tez/F_V/Photoshoot/Set_1/B07BG68J66_2._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B0D86WGZQ3",
-        "name": "Pintola High Protein Muesli",
-        "brand": "General",
-        "category": "Breakfast_Foods",
-        "old_price": 641.0,
-        "new_price": 640.0,
-        "savings": 1.0,
-        "discount_pct": 0.2,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0D86WGZQ3",
-        "image": "https://m.media-amazon.com/images/I/717yV6aU5ML._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -7899,22 +7675,6 @@
         "stock": "In Stock",
         "url": "https://www.amazon.in/dp/B01G6IWQWO",
         "image": "https://m.media-amazon.com/images/I/614Vy2M-YUL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
-        "uid": "B09WN98NG8",
-        "name": "Daawat Hyderabadi Biryani Kit",
-        "brand": "General",
-        "category": "Ready_To_Eat_Cook",
-        "old_price": 149.0,
-        "new_price": 148.0,
-        "savings": 1.0,
-        "discount_pct": 0.7,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B09WN98NG8",
-        "image": "https://m.media-amazon.com/images/I/71LhRLzhHQL._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
@@ -8000,22 +7760,6 @@
         ]
     },
     {
-        "uid": "B0CLTWNX1R",
-        "name": "Sugar.fit Sugar Control Atta",
-        "brand": "General",
-        "category": "Rice_Atta_Dal",
-        "old_price": 179.0,
-        "new_price": 178.0,
-        "savings": 1.0,
-        "discount_pct": 0.6,
-        "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B0CLTWNX1R",
-        "image": "https://m.media-amazon.com/images/I/71Jy5pqiYrL._SL1000_.jpg",
-        "locations": [
-            "AMAZON_TEZ_INDIA"
-        ]
-    },
-    {
         "uid": "B01LY9YQHO",
         "name": "Gowardhan Pure Cow Ghee Jar",
         "brand": "General",
@@ -8048,6 +7792,262 @@
         ]
     },
     {
+        "uid": "B0DKTH7MPN",
+        "name": "Paradyes Timeless Hair Tint Hair Colour",
+        "brand": "General",
+        "category": "Hair_Care",
+        "old_price": 297.0,
+        "new_price": 296.0,
+        "savings": 1.0,
+        "discount_pct": 0.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0DKTH7MPN",
+        "image": "https://m.media-amazon.com/images/I/61mXfdOnexL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B077X8CRZG",
+        "name": "Tata Sampann Toor Dal/Arhar Dal (Split)",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 100.0,
+        "new_price": 99.0,
+        "savings": 1.0,
+        "discount_pct": 1.0,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B077X8CRZG",
+        "image": "https://m.media-amazon.com/images/I/613WJTB5ICL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00L925P12",
+        "name": "24 Mantra Organic Tur Dal/Arhar Dal (Split)",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 110.0,
+        "new_price": 109.0,
+        "savings": 1.0,
+        "discount_pct": 0.9,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00L925P12",
+        "image": "https://m.media-amazon.com/images/I/718WxhErRRL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B075754F8F",
+        "name": "India Gate Mogra Pure Basmati Rice",
+        "brand": "General",
+        "category": "Rice_Atta_Dal",
+        "old_price": 374.0,
+        "new_price": 373.0,
+        "savings": 1.0,
+        "discount_pct": 0.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B075754F8F",
+        "image": "https://m.media-amazon.com/images/I/71ITugomvFL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07QK29V9G",
+        "name": "Dettol Lime Fresh Disinfectant Liquid",
+        "brand": "General",
+        "category": "Household_Cleaners",
+        "old_price": 432.0,
+        "new_price": 431.0,
+        "savings": 1.0,
+        "discount_pct": 0.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07QK29V9G",
+        "image": "https://m.media-amazon.com/images/I/51ZjDUzqAwL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00DRE0TDY",
+        "name": "Everyuth Naturals Exfoliating Scrub",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 228.0,
+        "new_price": 227.0,
+        "savings": 1.0,
+        "discount_pct": 0.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00DRE0TDY",
+        "image": "https://m.media-amazon.com/images/I/51EeOO4ftqL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0BV24P1S1",
+        "name": "Pond's Sun Miracle SPF 55 Light Sunscreen",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 150.0,
+        "new_price": 149.0,
+        "savings": 1.0,
+        "discount_pct": 0.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0BV24P1S1",
+        "image": "https://m.media-amazon.com/images/I/51b+HEqCkBL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07NBLWN5G",
+        "name": "Swiss Beauty Liquid Concealer",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 217.0,
+        "new_price": 216.0,
+        "savings": 1.0,
+        "discount_pct": 0.5,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07NBLWN5G",
+        "image": "https://m.media-amazon.com/images/I/51XwTvwzT7L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09PGBPCPY",
+        "name": "Swiss Beauty Eyebrow Definer Pencil",
+        "brand": "General",
+        "category": "Makeup_Beauty",
+        "old_price": 127.0,
+        "new_price": 126.0,
+        "savings": 1.0,
+        "discount_pct": 0.8,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09PGBPCPY",
+        "image": "https://m.media-amazon.com/images/I/51k9FNDlbyL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0D92CKTJJ",
+        "name": "Fresh Cut Cowpea Beans",
+        "brand": "General",
+        "category": "Fresh_Vegetables",
+        "old_price": 59.0,
+        "new_price": 58.0,
+        "savings": 1.0,
+        "discount_pct": 1.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0D92CKTJJ",
+        "image": "https://m.media-amazon.com/images/I/515IvTVGTfL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B01HBQ8SUE",
+        "name": "Hershey's Genuine Chocolate Flavor Syrup",
+        "brand": "General",
+        "category": "Drinks_Juices",
+        "old_price": 70.0,
+        "new_price": 69.0,
+        "savings": 1.0,
+        "discount_pct": 1.4,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B01HBQ8SUE",
+        "image": "https://m.media-amazon.com/images/I/71S21vuR4EL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B006KGVL5G",
+        "name": "Horlicks Women's Plus Nutrition Drink Mix",
+        "brand": "General",
+        "category": "Nutritional_Supplements",
+        "old_price": 329.0,
+        "new_price": 328.0,
+        "savings": 1.0,
+        "discount_pct": 0.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B006KGVL5G",
+        "image": "https://m.media-amazon.com/images/I/51avCF4GYDL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B0CQ298XJM",
+        "name": "Chemist At Play Brightening Body Wash",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 315.0,
+        "new_price": 314.0,
+        "savings": 1.0,
+        "discount_pct": 0.3,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B0CQ298XJM",
+        "image": "https://m.media-amazon.com/images/I/51pKoP7eqBL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B00CBRHUEO",
+        "name": "Parachute Advansed Soft Touch Body Lotion",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 80.0,
+        "new_price": 79.0,
+        "savings": 1.0,
+        "discount_pct": 1.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B00CBRHUEO",
+        "image": "https://m.media-amazon.com/images/I/51og-CB60IL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B09Y5BZ55X",
+        "name": "Nivea Pearl & Beauty Deodorant Roll-On",
+        "brand": "General",
+        "category": "Bath_Body",
+        "old_price": 150.0,
+        "new_price": 149.0,
+        "savings": 1.0,
+        "discount_pct": 0.7,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B09Y5BZ55X",
+        "image": "https://m.media-amazon.com/images/I/515YI5zKs-L._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07K9SMF4L",
+        "name": "Azah Rash-Free Sanitary Pads - XL",
+        "brand": "General",
+        "category": "Feminine_Hygiene",
+        "old_price": 439.0,
+        "new_price": 438.0,
+        "savings": 1.0,
+        "discount_pct": 0.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07K9SMF4L",
+        "image": "https://m.media-amazon.com/images/I/718Vr1rOGVL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
         "uid": "B07MN5PNBY",
         "name": "The Ethical Egg Co Free Range Eggs",
         "brand": "General",
@@ -8064,17 +8064,33 @@
         ]
     },
     {
-        "uid": "B07C5R51Q9",
-        "name": "CeraVe Hydrating Cleanser",
+        "uid": "B07G11FV4S",
+        "name": "Mccain Cheese Pizza Samosa",
         "brand": "General",
-        "category": "Bath_Body",
-        "old_price": 719.1,
-        "new_price": 719.0,
-        "savings": 0.1,
-        "discount_pct": 0.0,
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 148.0,
+        "new_price": 147.25,
+        "savings": 0.75,
+        "discount_pct": 0.5,
         "stock": "In Stock",
-        "url": "https://www.amazon.in/dp/B07C5R51Q9",
-        "image": "https://m.media-amazon.com/images/I/61V-ae6NZOL._SL1000_.jpg",
+        "url": "https://www.amazon.in/dp/B07G11FV4S",
+        "image": "https://m.media-amazon.com/images/I/81k1Bt-81aL._SL1000_.jpg",
+        "locations": [
+            "AMAZON_TEZ_INDIA"
+        ]
+    },
+    {
+        "uid": "B07G12569S",
+        "name": "Mccain French Fries Regular Pack",
+        "brand": "General",
+        "category": "Ready_To_Eat_Cook",
+        "old_price": 119.0,
+        "new_price": 118.75,
+        "savings": 0.25,
+        "discount_pct": 0.2,
+        "stock": "In Stock",
+        "url": "https://www.amazon.in/dp/B07G12569S",
+        "image": "https://m.media-amazon.com/images/I/81HB2Q0Jc0L._SL1000_.jpg",
         "locations": [
             "AMAZON_TEZ_INDIA"
         ]
