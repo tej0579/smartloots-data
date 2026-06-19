@@ -1,5 +1,21 @@
 [
     {
+        "uid": "7729793",
+        "name": "Parachute Advansed Radiant Shine Hair Serum 45 ml",
+        "brand": "parachute",
+        "category": "hair_care",
+        "old_price": 94.0,
+        "new_price": 14.0,
+        "savings": 80.0,
+        "discount_pct": 85.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parachute-advansed-radiant-shine-hair-serum-45-ml-mgqjnd-7729793",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947508261.jpg.cb17227058.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7505415",
         "name": "Cadbury Chocobakes Choco Chip Cookies 167 g",
         "brand": "cadbury",
@@ -1114,6 +1130,57 @@
         ]
     },
     {
+        "uid": "109123451",
+        "name": "Alan's Argentinian Grilled Cheese & Herb Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-argentinian-grilled-cheese-herb-potato-chips-80-g-mq9fkp-109123451",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077491.jpg.a34f1a319f.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "109123126",
+        "name": "Alan's Spanish Style Spicy Tomato & Herb Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-spanish-style-spicy-tomato-herb-potato-chips-80-g-mq9fi5-109123126",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077521.jpg.82f5974382.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "109123585",
+        "name": "Alan's Portuguese Piri Piri Salsa Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-portuguese-piri-piri-salsa-potato-chips-80-g-mq9fls-109123585",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077551.jpg.cfa50019ca.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "107470075",
         "name": "Sofy Anti Bacteria Period Panty M-L 6 N",
         "brand": "sofy",
@@ -1608,24 +1675,6 @@
         ]
     },
     {
-        "uid": "7503758",
-        "name": "Suhana Paneer Butter Masala Mix 50 g",
-        "brand": "Suhana",
-        "category": "masala_spices_mukhwas",
-        "old_price": 41.0,
-        "new_price": 31.0,
-        "savings": 10.0,
-        "discount_pct": 24.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/suhana-paneer-butter-masala-mix-50-g-mffms8-7503758",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-paneer-butter-masala-mix-50-g-0-20211019.jpg.ee0d320a2a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "72684237",
         "name": "Nivea Derma Control Even Tone Vitamin C Roll On 50 ml",
         "brand": "nivea",
@@ -1678,24 +1727,6 @@
         ]
     },
     {
-        "uid": "7521339",
-        "name": "Suhana Chicken Biryani Spice Mix 50 g",
-        "brand": "Suhana",
-        "category": "masala_spices_mukhwas",
-        "old_price": 42.0,
-        "new_price": 32.0,
-        "savings": 10.0,
-        "discount_pct": 23.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/suhana-chicken-biryani-spice-mix-50-g-mffn0a-7521339",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912811101.jpg.661011c1a3.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7521595",
         "name": "Mango Dussheri 1 kg",
         "brand": "Private Label",
@@ -1739,6 +1770,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/clinic-plus-fenugreek-protein-hibiscus-strength-smooth-shampoo-355-ml-mffne5-7550342",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946092521.jpg.7d5d8349c6.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7542163",
+        "name": "Knorr Classic Mixed Vegetable Soup 40 g",
+        "brand": "Knorr",
+        "category": "ready_to_cook_eat",
+        "old_price": 47.0,
+        "new_price": 37.0,
+        "savings": 10.0,
+        "discount_pct": 21.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/knorr-classic-mixed-vegetable-soup-40-g-mffn9x-7542163",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902115151.jpg.bd7e0d4927.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -1910,6 +1957,22 @@
         ]
     },
     {
+        "uid": "7528298",
+        "name": "Agrawal's 420 Kranti Punjabi Masala Papad 200 g",
+        "brand": "Agrawal's 420",
+        "category": "ready_to_cook_eat",
+        "old_price": 50.0,
+        "new_price": 40.0,
+        "savings": 10.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/agrawals-420-kranti-punjabi-masala-papad-200-g-mffn3m-7528298",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/agrawal-s-420-kranti-punjabi-masala-papad-200-g-0-20210813.jpg.f0ba2f785a.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "74947657",
         "name": "Colgate PerioGard Gum Expert Ultra Soft Toothbrush (2 Pcs)",
         "brand": "Colgate",
@@ -1940,6 +2003,38 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7531578",
+        "name": "VLCC Hair Fall Control Shampoo 350 ml (Buy 1 Get 1 Free)",
+        "brand": "vlcc",
+        "category": "hair_care",
+        "old_price": 399.0,
+        "new_price": 328.0,
+        "savings": 71.0,
+        "discount_pct": 17.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-hair-fall-repair-shampoo-350-ml-buy-1-get-1-free-mffn52-7531578",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/vlcc-hair-fall-repair-shampoo-350-ml-0-20210804.jpg.b698e30e26.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7522593",
+        "name": "VLCC Anti Tan Facial Kit 60 g with White & Bright Glow Gel Creme",
+        "brand": "vlcc",
+        "category": "skin_care",
+        "old_price": 267.0,
+        "new_price": 220.0,
+        "savings": 47.0,
+        "discount_pct": 17.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-anti-tan-facial-kit-60-g-with-white-bright-glow-gel-creme-mffn0v-7522593",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/vlcc-anti-tan-facial-kit-60-g-with-white-bright-glow-gel-creme-0-20210225.jpg.52953f3881.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -1975,6 +2070,22 @@
         ]
     },
     {
+        "uid": "7513009",
+        "name": "Kellogg's Corn Flakes 1.15 kg",
+        "brand": "Kellogg's",
+        "category": "breakfast_cereals",
+        "old_price": 410.0,
+        "new_price": 340.0,
+        "savings": 70.0,
+        "discount_pct": 17.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kelloggs-corn-flakes-12-kg-mffmwf-7513009",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915864261.jpg.79c93e6cfe.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "78611802",
         "name": "Aveeno Baby Daily Moisture Wash & Shampoo 354 ml",
         "brand": "Aveeno",
@@ -1991,6 +2102,23 @@
         ]
     },
     {
+        "uid": "7501746",
+        "name": "Women's Horlicks Plus Caramel Drink Mix 400 g",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 379.0,
+        "new_price": 319.0,
+        "savings": 60.0,
+        "discount_pct": 15.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/womens-horlicks-plus-caramel-drink-mix-400-g-mffmr5-7501746",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907667491.jpg.d92625c847.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "24065607",
         "name": "Bumtum Premium Ultrasoft Daiper Pants (S) 78 count (4-8 kg)",
         "brand": "BUMTUM",
@@ -2002,22 +2130,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/bumtum-premium-ultrasoft-daiper-pants-s-78-count-4-8-kg-mieeva-24065607",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936607991.jpg.f20dafc2cf.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7501746",
-        "name": "Women's Horlicks Plus Caramel Drink Mix 400 g",
-        "brand": "horlicks",
-        "category": "drinks_juices",
-        "old_price": 371.0,
-        "new_price": 319.0,
-        "savings": 52.0,
-        "discount_pct": 14.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/womens-horlicks-plus-caramel-drink-mix-400-g-mffmr5-7501746",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907667491.jpg.d92625c847.jpg",
         "locations": [
             "INDORE"
         ]
@@ -2205,6 +2317,38 @@
         ]
     },
     {
+        "uid": "7534506",
+        "name": "Pampers Premium Care Pants Medium 54 pcs (7 - 12 kg)",
+        "brand": "pampers",
+        "category": "diapers_wipes",
+        "old_price": 1014.0,
+        "new_price": 914.0,
+        "savings": 100.0,
+        "discount_pct": 9.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-medium-54-pcs-7-12-kg-mffn6e-7534506",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4914338571.jpg.ba45317a78.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7516738",
+        "name": "Pampers Premium Care Pants Large 44 pcs (9 - 14 kg)",
+        "brand": "pampers",
+        "category": "diapers_wipes",
+        "old_price": 1029.0,
+        "new_price": 929.0,
+        "savings": 100.0,
+        "discount_pct": 9.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-large-44-pcs-9-14-kg-mffmy6-7516738",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914338491.jpg.513df946a0.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7552276",
         "name": "MamyPoko Extra Absorb Large Pants (Pack of 78)",
         "brand": "mamypoko",
@@ -2237,6 +2381,22 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7505664",
+        "name": "Dove Anti Dandruff Solutions Care Shampoo 650 ml",
+        "brand": "dove",
+        "category": "hair_care",
+        "old_price": 515.0,
+        "new_price": 470.0,
+        "savings": 45.0,
+        "discount_pct": 8.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dove-anti-dandruff-solutions-care-shampoo-650-ml-mffmsy-7505664",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916945881.jpg.aa97286fd6.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
