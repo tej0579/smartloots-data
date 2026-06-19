@@ -764,6 +764,22 @@
         ]
     },
     {
+        "uid": "7532404",
+        "name": "Fresh Jamun Punnet 200 g",
+        "brand": "Private Label",
+        "category": "fresh_fruits",
+        "old_price": 49.0,
+        "new_price": 26.0,
+        "savings": 23.0,
+        "discount_pct": 46.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/fresh-jamun-punnet-approx-100-g-125-g-mffn5g-7532404",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900027341.jpg.0857454b13.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "108842501",
         "name": "Home One Mutipurpose Mesh Strainer 22 cm",
         "brand": "home one",
@@ -882,39 +898,6 @@
         ]
     },
     {
-        "uid": "7532404",
-        "name": "Fresh Jamun Punnet 200 g",
-        "brand": "Private Label",
-        "category": "fresh_fruits",
-        "old_price": 49.0,
-        "new_price": 29.0,
-        "savings": 20.0,
-        "discount_pct": 40.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fresh-jamun-punnet-approx-100-g-125-g-mffn5g-7532404",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900027341.jpg.0857454b13.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7508866",
-        "name": "Dove Nutritive Solutions Daily Shine Shampoo 75 ml",
-        "brand": "dove",
-        "category": "hair_care",
-        "old_price": 96.0,
-        "new_price": 57.0,
-        "savings": 39.0,
-        "discount_pct": 40.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dove-nutritive-solutions-daily-shine-nutritive-serum-shampoo-75-ml-mffmui-7508866",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900592571.jpg.73f6d4b16c.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7508028",
         "name": "Biotique Advanced Ayurveda Fresh Neem Pimple Control Face Wash 150 ml",
         "brand": "biotique",
@@ -928,6 +911,60 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928482481.jpg.6cae0b6501.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "31048519",
+        "name": "Suhana Shahi Paneer Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 42.0,
+        "new_price": 25.0,
+        "savings": 17.0,
+        "discount_pct": 40.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-shahi-paneer-mix-50-g-milckz-31048519",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-shahi-paneer-mix-50-g-0-20210216.jpg.d97cc2f1bc.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "31047237",
+        "name": "Suhana Mutton Gravy Mix Masala 80 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 47.0,
+        "new_price": 28.0,
+        "savings": 19.0,
+        "discount_pct": 40.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-mutton-gravy-mix-masala-80-g-milckn-31047237",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-mutton-gravy-mix-masala-80-g-0-20200901.jpg.cee8258b5d.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7524631",
+        "name": "Suhana Chicken Gravy Mix 80 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 47.0,
+        "new_price": 28.0,
+        "savings": 19.0,
+        "discount_pct": 40.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-chicken-gravy-mix-80-g-mffn1s-7524631",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910713581.jpg.2fc305f1dc.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -977,6 +1014,23 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7509364",
+        "name": "Suhana Paneer Tikka Masala Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 40.0,
+        "new_price": 25.0,
+        "savings": 15.0,
+        "discount_pct": 37.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-paneer-tikka-masala-mix-50-g-mffmuq-7509364",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-paneer-tikka-masala-mix-50-g-0-20210222.jpg.483a893cf3.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -1404,6 +1458,22 @@
         ]
     },
     {
+        "uid": "7558418",
+        "name": "VLCC SPF 60 Water & Sweat Resistant De Tan Sun Screen 100 g",
+        "brand": "vlcc",
+        "category": "skin_care",
+        "old_price": 649.0,
+        "new_price": 486.0,
+        "savings": 163.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-spf-60-water-sweat-resistant-de-tan-sun-screen-with-niacinamide-ceramide-np-100-g-mfgyp8-7558418",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914401781.jpg.5458c6481c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "102240234",
         "name": "Parle Bigger Melody Chocolate 276 g",
         "brand": "parle",
@@ -1538,19 +1608,21 @@
         ]
     },
     {
-        "uid": "7534172",
-        "name": "Pineapple Mini (Approx. 550 g - 700 g)",
-        "brand": "reliance",
-        "category": "fresh_fruits",
-        "old_price": 65.0,
-        "new_price": 49.0,
-        "savings": 16.0,
-        "discount_pct": 24.6,
+        "uid": "7503758",
+        "name": "Suhana Paneer Butter Masala Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 41.0,
+        "new_price": 31.0,
+        "savings": 10.0,
+        "discount_pct": 24.4,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pineapple-mini-approx-550-g-700-g-mffn68-7534172",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900068271.jpg.663d1de36b.jpg",
+        "url": "https://store1.jiomartjcp.com/product/suhana-paneer-butter-masala-mix-50-g-mffms8-7503758",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-paneer-butter-masala-mix-50-g-0-20211019.jpg.ee0d320a2a.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -1570,19 +1642,57 @@
         ]
     },
     {
-        "uid": "7530694",
-        "name": "Tata Grand Classic Coffee 100 g",
-        "brand": "TATA GRAND",
-        "category": "tea_coffee",
-        "old_price": 289.0,
-        "new_price": 220.0,
-        "savings": 69.0,
-        "discount_pct": 23.9,
+        "uid": "7505126",
+        "name": "Suhana Mutter Paneer Spice Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 42.0,
+        "new_price": 32.0,
+        "savings": 10.0,
+        "discount_pct": 23.8,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tata-grand-classic-coffee-100-g-mffn4o-7530694",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936575061.jpg.6ce518a7c9.jpg",
+        "url": "https://store1.jiomartjcp.com/product/suhana-mutter-paneer-spice-mix-50-g-mffmsq-7505126",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-mutter-paneer-spice-mix-50-g-0-20200910.jpg.28877f7ff6.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "31046102",
+        "name": "Suhana Paneer Makhanwala Spice Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 42.0,
+        "new_price": 32.0,
+        "savings": 10.0,
+        "discount_pct": 23.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-paneer-makhanwala-spice-mix-50-g-milckb-31046102",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-paneer-makhanwala-spice-mix-50-g-0-20200911.jpg.2549f5aa31.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7521339",
+        "name": "Suhana Chicken Biryani Spice Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 42.0,
+        "new_price": 32.0,
+        "savings": 10.0,
+        "discount_pct": 23.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-chicken-biryani-spice-mix-50-g-mffn0a-7521339",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912811101.jpg.661011c1a3.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -1618,22 +1728,6 @@
         ]
     },
     {
-        "uid": "7523884",
-        "name": "Nivea Frangipani & Oil Shower Gel 125 ml",
-        "brand": "nivea",
-        "category": "bath_hand_wash",
-        "old_price": 111.0,
-        "new_price": 86.0,
-        "savings": 25.0,
-        "discount_pct": 22.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-frangipani-oil-shower-gel-125-ml-mffn1g-7523884",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/nivea-frangipani-oil-shower-gel-125-ml-0-20210819.jpg.d13b1699f7.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7550342",
         "name": "Clinic Plus Fenugreek Protein & Hibiscus Strength & Smooth Shampoo 355 ml",
         "brand": "clinic plus",
@@ -1650,19 +1744,20 @@
         ]
     },
     {
-        "uid": "7542163",
-        "name": "Knorr Classic Mixed Vegetable Soup 40 g",
-        "brand": "Knorr",
-        "category": "ready_to_cook_eat",
-        "old_price": 47.0,
-        "new_price": 37.0,
-        "savings": 10.0,
-        "discount_pct": 21.3,
+        "uid": "31045335",
+        "name": "Suhana Palak Paneer Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 39.0,
+        "new_price": 31.0,
+        "savings": 8.0,
+        "discount_pct": 20.5,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/knorr-classic-mixed-vegetable-soup-40-g-mffn9x-7542163",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902115151.jpg.bd7e0d4927.jpg",
+        "url": "https://store1.jiomartjcp.com/product/suhana-palak-paneer-mix-50-g-milck2-31045335",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-palak-paneer-mix-50-g-0-20201024.jpg.989ba2aae8.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA"
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -1696,6 +1791,57 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7511500",
+        "name": "Daawat Hyderabadi Biryani Kit 334 g",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 149.0,
+        "new_price": 119.0,
+        "savings": 30.0,
+        "discount_pct": 20.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-hyderabadi-biryani-kit-334-g-mffmvq-7511500",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928642171.jpg.809911fc0c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7511913",
+        "name": "Daawat Lucknowi Biryani Kit 334 g",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 149.0,
+        "new_price": 119.0,
+        "savings": 30.0,
+        "discount_pct": 20.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-lucknowi-biryani-kit-334-g-mffmvx-7511913",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928642161.jpg.331581c974.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7505883",
+        "name": "Daawat Kolkata Biryani Kit 334 g",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 149.0,
+        "new_price": 119.0,
+        "savings": 30.0,
+        "discount_pct": 20.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-kolkata-biryani-kit-334-g-mffmt1-7505883",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928642151.jpg.f3067f0933.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -1744,6 +1890,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947753271.jpg.ae5242d4b3.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "31046028",
+        "name": "Suhana Butter Chicken Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 40.0,
+        "new_price": 32.0,
+        "savings": 8.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-butter-chicken-mix-50-g-milcka-31046028",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004905776701.jpg.a6b15f66d2.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -1844,6 +2007,22 @@
         ]
     },
     {
+        "uid": "7501746",
+        "name": "Women's Horlicks Plus Caramel Drink Mix 400 g",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 371.0,
+        "new_price": 319.0,
+        "savings": 52.0,
+        "discount_pct": 14.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/womens-horlicks-plus-caramel-drink-mix-400-g-mffmr5-7501746",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907667491.jpg.d92625c847.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7729759",
         "name": "Lux International Bouncy & Bright Soap 130 g (Pack of 4)",
         "brand": "Lux",
@@ -1907,6 +2086,39 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290271.jpg.c081e548f1.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7552630",
+        "name": "Horlicks Chocolate Delight Flavour Nutritional Drink Powder 1 kg",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 414.0,
+        "new_price": 369.0,
+        "savings": 45.0,
+        "discount_pct": 10.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/horlicks-chocolate-delight-1-kg-mffnfd-7552630",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923910401.jpg.35869dfa39.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7525730",
+        "name": "Kohinoor Mini Mogra Basmati Rice 10 kg",
+        "brand": "kohinoor",
+        "category": "rice",
+        "old_price": 549.0,
+        "new_price": 489.0,
+        "savings": 60.0,
+        "discount_pct": 10.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kohinoor-mini-mogra-basmati-rice-10-kg-mffn2c-7525730",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936946541.jpg.9501f23a74.jpg",
+        "locations": [
+            "INDORE"
         ]
     },
     {
@@ -2006,6 +2218,41 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095931.jpg.0e570e688f.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "63179299",
+        "name": "Daawat Devaaya Premium Rice 5 kg",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 549.0,
+        "new_price": 499.0,
+        "savings": 50.0,
+        "discount_pct": 9.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-devaaya-premium-rice-5-kg-mjb97e-63179299",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900056401.jpg.da7e72d975.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7533979",
+        "name": "Dhara Lite N Fine Refined Soyabean Oil 15 L",
+        "brand": "Dhara",
+        "category": "edible_oils",
+        "old_price": 2499.0,
+        "new_price": 2399.0,
+        "savings": 100.0,
+        "discount_pct": 4.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dhara-lite-n-fine-refined-soyabean-oil-15-l-mffn65-7533979",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913899661.jpg.a0e57ec728.jpg",
+        "locations": [
+            "INDORE"
         ]
     }
 ]
