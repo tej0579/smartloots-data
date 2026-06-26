@@ -68,6 +68,22 @@
         ]
     },
     {
+        "uid": "7539784",
+        "name": "Haldirams Nagpur Deshi Ghee 1 L",
+        "brand": "Haldiram's Nagpur",
+        "category": "ghee",
+        "old_price": 1533.0,
+        "new_price": 569.0,
+        "savings": 964.0,
+        "discount_pct": 62.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/haldirams-nagpur-deshi-ghee-1-l-mo7cn0",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943749091.jpg.a50d391796.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "101952472",
         "name": "Colgate Sensitive Anticavity Toothpaste 80 g",
         "brand": "Colgate",
@@ -81,6 +97,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947512111.jpg.44e90fa2ec.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "24070014",
+        "name": "Kwality Walls Cornetto Disc Oreo Ice Cream Cone 110 ml",
+        "brand": "KWALITY WALLS",
+        "category": "ice_cream_frozen",
+        "old_price": 149.0,
+        "new_price": 63.0,
+        "savings": 86.0,
+        "discount_pct": 57.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kwality-walls-cornetto-disc-oreo-ice-cream-cone-110-ml-mief61-24070014",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/kw-cornetto-oreo-1200x1200px-02.jpg.71315ba0e6.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "VIKARABAD"
         ]
     },
     {
@@ -1099,6 +1132,22 @@
         ]
     },
     {
+        "uid": "72689501",
+        "name": "Nivea Derma Control Even Tone Vitamin C Deodorant 150 ml",
+        "brand": "nivea",
+        "category": "deo_fragrances",
+        "old_price": 345.0,
+        "new_price": 220.0,
+        "savings": 125.0,
+        "discount_pct": 36.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nivea-derma-control-even-tone-vitamin-c-deodorant-150-ml-mky181-72689501",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947512051.jpg.c2062d8060.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "101522164",
         "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 40)",
         "brand": "stayfree",
@@ -1230,24 +1279,6 @@
         ]
     },
     {
-        "uid": "7529500",
-        "name": "Hyfun Burger Patty 360 g",
-        "brand": "Hyfun",
-        "category": "ice_cream_frozen",
-        "old_price": 98.0,
-        "new_price": 65.0,
-        "savings": 33.0,
-        "discount_pct": 33.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/hyfun-burger-patty-360-g-mffn44-7529500",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400261.jpg.c731a78f85.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7553077",
         "name": "Alpino Chocolate Peanut Butter Smooth 400 g",
         "brand": "Alpino",
@@ -1262,23 +1293,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7525545",
-        "name": "Hyfun Jalapeno Cheesy Pops 250 g",
-        "brand": "Hyfun",
-        "category": "ice_cream_frozen",
-        "old_price": 149.0,
-        "new_price": 99.0,
-        "savings": 50.0,
-        "discount_pct": 33.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/hyfun-jalapeno-cheesy-pops-250-g-mffn28-7525545",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400271.jpg.aa8beac17f.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -1368,58 +1382,6 @@
         ]
     },
     {
-        "uid": "7522234",
-        "name": "Hyfun Aloo Tikki 400 g",
-        "brand": "Hyfun",
-        "category": "ice_cream_frozen",
-        "old_price": 99.0,
-        "new_price": 66.0,
-        "savings": 33.0,
-        "discount_pct": 33.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/hyfun-aloo-tikki-400-g-mffn0p-7522234",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400251.jpg.02c3d2cfbc.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7535194",
-        "name": "Hyfun French Fries 425 g",
-        "brand": "Hyfun",
-        "category": "ice_cream_frozen",
-        "old_price": 93.0,
-        "new_price": 62.0,
-        "savings": 31.0,
-        "discount_pct": 33.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/hyfun-french-fries-425-g-mffn6p-7535194",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400231.jpg.4fe18298be.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "72689501",
-        "name": "Nivea Derma Control Even Tone Vitamin C Deodorant 150 ml",
-        "brand": "nivea",
-        "category": "deo_fragrances",
-        "old_price": 345.0,
-        "new_price": 235.0,
-        "savings": 110.0,
-        "discount_pct": 31.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-derma-control-even-tone-vitamin-c-deodorant-150-ml-mky181-72689501",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947512051.jpg.c2062d8060.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "72689502",
         "name": "Nivea Derma Control Defend Pro-Vitamin B5 Deodorant 150 ml",
         "brand": "nivea",
@@ -1500,24 +1462,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7545679",
-        "name": "Trimurti Kings Sweet Corn Frozen  500 g",
-        "brand": "Trimurti Kings",
-        "category": "ice_cream_frozen",
-        "old_price": 73.0,
-        "new_price": 51.0,
-        "savings": 22.0,
-        "discount_pct": 30.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/trimurti-kings-sweet-corn-frozen-500-g-mffnbj-7545679",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004904491851.jpg.ca47e9af4d.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -1816,23 +1760,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7529983",
-        "name": "Bella Vita Luxury Man Perfume Gift Set (4 x 20 ml)",
-        "brand": "bella vita luxury",
-        "category": "deo_fragrances",
-        "old_price": 434.0,
-        "new_price": 324.0,
-        "savings": 110.0,
-        "discount_pct": 25.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bella-vita-luxury-man-perfume-gift-set-4-x-20-ml-mffn4d-7529983",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924945771.jpg.1ddc783a01.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -2216,6 +2143,23 @@
         ]
     },
     {
+        "uid": "101522139",
+        "name": "Quaker Rolled Oats 1.2 kg",
+        "brand": "quaker",
+        "category": "breakfast_cereals",
+        "old_price": 202.0,
+        "new_price": 160.0,
+        "savings": 42.0,
+        "discount_pct": 20.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/quaker-rolled-oats-1-2-kg-mpe06s-101522139",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947679791.jpg.ffff5a0411.jpg",
+        "locations": [
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7534469",
         "name": "Park Avenue Signature Collection Neo Perfume Spray for Men 220 ml",
         "brand": "Park Avenue",
@@ -2278,22 +2222,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936611451.jpg.3e43407083.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7528298",
-        "name": "Agrawal's 420 Kranti Punjabi Masala Papad 200 g",
-        "brand": "Agrawal's 420",
-        "category": "ready_to_cook_eat",
-        "old_price": 50.0,
-        "new_price": 40.0,
-        "savings": 10.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/agrawals-420-kranti-punjabi-masala-papad-200-g-mffn3m-7528298",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/agrawal-s-420-kranti-punjabi-masala-papad-200-g-0-20210813.jpg.f0ba2f785a.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -2396,23 +2324,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943001871.jpg.98c4d3cc4f.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "101522139",
-        "name": "Quaker Rolled Oats 1.2 kg",
-        "brand": "quaker",
-        "category": "breakfast_cereals",
-        "old_price": 252.0,
-        "new_price": 202.0,
-        "savings": 50.0,
-        "discount_pct": 19.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/quaker-rolled-oats-1-2-kg-mpe06s-101522139",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947679791.jpg.ffff5a0411.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
         ]
     },
     {
@@ -2563,19 +2474,19 @@
         ]
     },
     {
-        "uid": "7513009",
-        "name": "Kellogg's Corn Flakes 1.15 kg",
-        "brand": "Kellogg's",
-        "category": "breakfast_cereals",
-        "old_price": 410.0,
-        "new_price": 340.0,
-        "savings": 70.0,
-        "discount_pct": 17.1,
+        "uid": "7519366",
+        "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo 650 ml",
+        "brand": "Head & Shoulders",
+        "category": "hair_care",
+        "old_price": 658.0,
+        "new_price": 549.0,
+        "savings": 109.0,
+        "discount_pct": 16.6,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kelloggs-corn-flakes-12-kg-mffmwf-7513009",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915864261.jpg.79c93e6cfe.jpg",
+        "url": "https://store1.jiomartjcp.com/product/head-shoulders-smooth-silky-anti-dandruff-shampoo-650-ml-mffmzm-7519366",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290451.jpg.c5b06e228a.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2689,23 +2600,7 @@
         "url": "https://store1.jiomartjcp.com/product/fiama-japanese-hokkaido-berry-celebration-moisturizing-bar-soap-125-g-pack-of-5-mffndf-7548586",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944099011.jpg.f71f047bed.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7535836",
-        "name": "Tresemme Smooth & Shine Shampoo 580 ml",
-        "brand": "Tresemme",
-        "category": "hair_care",
-        "old_price": 460.0,
-        "new_price": 405.0,
-        "savings": 55.0,
-        "discount_pct": 12.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tresemme-smooth-shine-shampoo-580-ml-mffn6z-7535836",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/tresemme-smooth-shine-shampoo-580-ml-0-20210518.jpg.35bdbfede7.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
+            "INDORE"
         ]
     },
     {
@@ -2777,22 +2672,6 @@
         ]
     },
     {
-        "uid": "7503871",
-        "name": "Nescafe Sunrise Instant Coffee 190 g",
-        "brand": "Sunrise",
-        "category": "tea_coffee",
-        "old_price": 415.0,
-        "new_price": 370.0,
-        "savings": 45.0,
-        "discount_pct": 10.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nescafe-sunrise-instant-coffee-190-g-mffms9-7503871",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900013181.jpg.5521a10525.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7541862",
         "name": "Dettol Lime Fresh Disinfectant Liquid 1 L",
         "brand": "Dettol",
@@ -2836,22 +2715,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/aveeno-baby-soothing-relief-moisture-cream-227-g-mo765e-81189564",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914338181.jpg.4d7542d27b.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7610257",
-        "name": "Mamy Poko Pants M Size 7-12 kg ((90 Packs)",
-        "brand": "mamypoko",
-        "category": "diapers_wipes",
-        "old_price": 689.0,
-        "new_price": 620.0,
-        "savings": 69.0,
-        "discount_pct": 10.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamy-poko-pants-m-size-7-12-kg-90-packs-mfpifu-7610257",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092981.jpg.64bf72cbfe.jpg",
         "locations": [
             "INDORE"
         ]
@@ -2904,6 +2767,22 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7529485",
+        "name": "MamyPoko Pants Extra Absorb XL (64 counts)",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 1069.0,
+        "new_price": 972.0,
+        "savings": 97.0,
+        "discount_pct": 9.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-pants-extra-absorb-xl-64-counts-mffn45-7529485",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095941.jpg.26308a08c2.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -2966,6 +2845,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/good-life-walnut-kernels-500-g-mffmzw-7520523",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912032351.jpg.f92c7d291b.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7513751",
+        "name": "MamyPoko Extra Absorb New Born Pants 74 pcs (Up to 5 kg)",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 729.0,
+        "new_price": 670.0,
+        "savings": 59.0,
+        "discount_pct": 8.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-extra-absorb-new-born-pants-74-pcs-up-to-5-kg-mffmws-7513751",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916937361.jpg.58febdd874.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
