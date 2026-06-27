@@ -916,22 +916,6 @@
         ]
     },
     {
-        "uid": "7542067",
-        "name": "Baker's Choice Freshly Baked Rusk 200 g (Pack)",
-        "brand": "Baker's Choice",
-        "category": "cakes_rusk_more",
-        "old_price": 45.0,
-        "new_price": 24.0,
-        "savings": 21.0,
-        "discount_pct": 46.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bakers-choice-freshly-baked-rusk-200-g-pack-mffn9v-7542067",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/baker-s-choice-freshly-baked-rusk-200-g-0-20211115.jpg.ace3bcb71a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "108842501",
         "name": "Home One Mutipurpose Mesh Strainer 22 cm",
         "brand": "home one",
@@ -1160,6 +1144,7 @@
         "url": "https://store1.jiomartjcp.com/product/tomato-country-1-kg-mffmyp-7517858",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900000911.jpg.49fddfe2db.jpg",
         "locations": [
+            "VIKARABAD",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -1324,22 +1309,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7539204",
-        "name": "Whisper Bindazzz Nights Sanitary Napkin with Wings (XXL+) 16 pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 345.0,
-        "new_price": 228.0,
-        "savings": 117.0,
-        "discount_pct": 33.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-sanitary-napkin-with-wings-xxl-16-pads-mffn8j-7539204",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919473701.jpg.f6e80d9104.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -1594,23 +1563,6 @@
         ]
     },
     {
-        "uid": "7517751",
-        "name": "Sensodyne Sensitive (Soft) Toothbrush (Pack of 4)",
-        "brand": "Sensodyne",
-        "category": "oral_care",
-        "old_price": 139.0,
-        "new_price": 98.0,
-        "savings": 41.0,
-        "discount_pct": 29.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sensodyne-sensitive-soft-toothbrush-pack-of-4-mffmyn-7517751",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915551901.jpg.d266d080cf.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "101522162",
         "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 18)",
         "brand": "stayfree",
@@ -1624,24 +1576,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947888231.jpg.4586cbd6a9.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "24072460",
-        "name": "Kwality Wall's Choco Brownie Fudge Ice Cream 700 ml",
-        "brand": "KWALITY WALLS",
-        "category": "ice_cream_frozen",
-        "old_price": 280.0,
-        "new_price": 198.0,
-        "savings": 82.0,
-        "discount_pct": 29.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kwality-walls-choco-brownie-fudge-ice-cream-700-ml-miefbu-24072460",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/kwalitywallschocobrowniefrudgetub700ml-02.jpg.d505a085fb.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -1812,24 +1746,6 @@
         ]
     },
     {
-        "uid": "7511672",
-        "name": "Whisper Thick Bindazzz Nights Sanitary Napkin with Wings (XXXL) 10 pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 340.0,
-        "new_price": 248.0,
-        "savings": 92.0,
-        "discount_pct": 27.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-thick-bindazzz-nights-sanitary-napkin-with-wings-xxxl-10-pads-mffmvt-7511672",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915810591.jpg.3d3ca78ebf.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7512096",
         "name": "Medimix Ayurvedic Natural Glycerine Soap with Lakshadi Oil 125 g",
         "brand": "Medimix",
@@ -1843,23 +1759,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/medimix-ayurvedic-natural-glycerine-soap-with-lakshadi-oil-125-g-0-20210831.jpg.91a2d97853.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7523240",
-        "name": "Gillette Mach3 Shaving Cartridge 4 pcs",
-        "brand": "gillette",
-        "category": "mens_grooming",
-        "old_price": 627.0,
-        "new_price": 462.0,
-        "savings": 165.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/gillette-mach3-shaving-cartridge-4-pcs-mffn15-7523240",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900128371.jpg.20a8a8567a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
         ]
     },
     {
@@ -2027,22 +1926,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/kesarbhogmanual700mlcarton-02.jpg.f517df7f3f.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "80619365",
-        "name": "Kwality Wall's Shahi Rabdi Kulfi Ice Cream 500 ml",
-        "brand": "KWALITY WALLS",
-        "category": "ice_cream_frozen",
-        "old_price": 121.0,
-        "new_price": 90.0,
-        "savings": 31.0,
-        "discount_pct": 25.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kw-rabdi-kulfi-500ml-pp-mo2ulg-80619365",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/rabdikulfi500mlpartypack-02.jpg.f5f1eb0317.jpg",
-        "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -2397,6 +2280,22 @@
         ]
     },
     {
+        "uid": "35767197",
+        "name": "Tomato Hybrid 1 kg pack",
+        "brand": "reliance",
+        "category": "fresh_vegetables",
+        "old_price": 78.0,
+        "new_price": 59.0,
+        "savings": 19.0,
+        "discount_pct": 24.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tomato-hybrid-mix1gg-35767197",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900019531.jpg.819199a071.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "72684237",
         "name": "Nivea Derma Control Even Tone Vitamin C Roll On 50 ml",
         "brand": "nivea",
@@ -2426,22 +2325,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/indica-easy-shampoo-based-ammonia-free-hair-colour-natural-black-1-25-ml-0-20210818.jpg.89671d5522.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7524155",
-        "name": "Parle Monaco Classic Regular Biscuits 696 g",
-        "brand": "parle",
-        "category": "biscuits_cookies",
-        "old_price": 125.0,
-        "new_price": 95.0,
-        "savings": 30.0,
-        "discount_pct": 24.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-monaco-classic-regular-biscuits-696-g-mffn1k-7524155",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925788331.jpg.bfb250d96c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2491,7 +2374,24 @@
         "url": "https://store1.jiomartjcp.com/product/pampers-all-round-protection-pants-l-36-count-9-14-kg-mffmqy-7501468",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/2.jpg.3ecfd8712e.jpg",
         "locations": [
-            "INDORE"
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7503662",
+        "name": "Fiama Lemongrass & Jojoba Gel Bar 125 g (Pack of 3)",
+        "brand": "Fiama",
+        "category": "bath_hand_wash",
+        "old_price": 162.0,
+        "new_price": 126.0,
+        "savings": 36.0,
+        "discount_pct": 22.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/fiama-lemongrass-jojoba-gel-bar-125-g-pack-of-3-mffms8-7503662",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908046361.jpg.08eeaa593a.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2546,55 +2446,6 @@
         ]
     },
     {
-        "uid": "7536741",
-        "name": "Sweet Corn 1 pc (Approx 250 g - 450 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 19.0,
-        "new_price": 15.0,
-        "savings": 4.0,
-        "discount_pct": 21.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sweet-corn-1-pc-approx-250-g-450-g-mffn7e-7536741",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900012661.jpg.6138526484.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "75837485",
-        "name": "Shree Gita Ultra Lite Refined Cottonseed Oil 13 kg",
-        "brand": "SHREE GITA",
-        "category": "edible_oils",
-        "old_price": 2951.0,
-        "new_price": 2331.0,
-        "savings": 620.0,
-        "discount_pct": 21.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/shree-gita-ultra-lite-refined-cottonseed-oil-13-kg-mndzc3-75837485",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947753271.jpg.ae5242d4b3.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7512286",
-        "name": "Parachute Advansed Coconut Hair Oil 280 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 195.0,
-        "new_price": 154.0,
-        "savings": 41.0,
-        "discount_pct": 21.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-advansed-coconut-hair-oil-280-ml-mffmw3-7512286",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/parachute-advansed-coconut-hair-oil-280-ml-0-20210420.jpg.68b2280723.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "72256873",
         "name": "Bazana California Almonds 200 g",
         "brand": "Bazana",
@@ -2644,55 +2495,6 @@
         ]
     },
     {
-        "uid": "101522139",
-        "name": "Quaker Rolled Oats 1.2 kg",
-        "brand": "quaker",
-        "category": "breakfast_cereals",
-        "old_price": 202.0,
-        "new_price": 160.0,
-        "savings": 42.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/quaker-rolled-oats-1-2-kg-mpe06s-101522139",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947679791.jpg.ffff5a0411.jpg",
-        "locations": [
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7533843",
-        "name": "Cabbage per pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 24.0,
-        "new_price": 19.0,
-        "savings": 5.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-per-pc-approx-600-g-1000-g-mffn63-7533843",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900035381.jpg.55602ceaee.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "35767197",
-        "name": "Tomato Hybrid 1 kg pack",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 78.0,
-        "new_price": 62.0,
-        "savings": 16.0,
-        "discount_pct": 20.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tomato-hybrid-mix1gg-35767197",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900019531.jpg.819199a071.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7534469",
         "name": "Park Avenue Signature Collection Neo Perfume Spray for Men 220 ml",
         "brand": "Park Avenue",
@@ -2706,22 +2508,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913786411.jpg.2e98ed65d3.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7509415",
-        "name": "Cadbury Chocobakes Choc Layered Cake 114 g (Pack of 6)",
-        "brand": "cadbury",
-        "category": "biscuits_cookies",
-        "old_price": 74.0,
-        "new_price": 59.0,
-        "savings": 15.0,
-        "discount_pct": 20.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cadbury-chocobakes-choc-layered-cake-114-g-pack-of-6-mffmur-7509415",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4918953131.jpg.6a61180876.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2774,6 +2560,7 @@
         "url": "https://store1.jiomartjcp.com/product/daawat-kolkata-biryani-kit-334-g-mffmt1-7505883",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928642151.jpg.f3067f0933.jpg",
         "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -2912,22 +2699,6 @@
         ]
     },
     {
-        "uid": "7501827",
-        "name": "Britannia Nutri Choice Hi-Fibre Digestive Biscuits 960 g",
-        "brand": "britannia",
-        "category": "biscuits_cookies",
-        "old_price": 170.0,
-        "new_price": 136.0,
-        "savings": 34.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/britannia-nutri-choice-hi-fibre-digestive-biscuits-960-g-mffmr7-7501827",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913734881.jpg.7e83264c87.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7502128",
         "name": "Park Avenue Signature Collection Voyage Perfume Spray 220 ml",
         "brand": "Park Avenue",
@@ -3007,6 +2778,23 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7544501",
+        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 650 ml",
+        "brand": "Head & Shoulders",
+        "category": "hair_care",
+        "old_price": 549.0,
+        "new_price": 450.0,
+        "savings": 99.0,
+        "discount_pct": 18.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-mffnaz-7544501",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290441.jpg.90e03f9184.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -3155,6 +2943,22 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7534200",
+        "name": "Saffola Active Honey 1 kg",
+        "brand": "saffola",
+        "category": "spread_sauces_ketchup",
+        "old_price": 350.0,
+        "new_price": 299.0,
+        "savings": 51.0,
+        "discount_pct": 14.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/saffola-active-honey-1-kg-mffn69-7534200",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916956061.jpg.2524155b04.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3324,6 +3128,23 @@
         ]
     },
     {
+        "uid": "7558257",
+        "name": "MamyPoko Pants All Night Absorb Diapers L, Pack of 78 (9-14 kg)",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 689.0,
+        "new_price": 620.0,
+        "savings": 69.0,
+        "discount_pct": 10.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-pants-all-night-absorb-diapers-l-pack-of-78-9-14-kg-mfgtyz-7558257",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092991.jpg.223168f5e4.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7534952",
         "name": "India Gate Mini Mogra-II Basmati Rice 10 kg",
         "brand": "india gate",
@@ -3371,6 +3192,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095941.jpg.26308a08c2.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7542511",
+        "name": "Mamypoko Extra Absorb Medium Pants 90 pcs",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 1069.0,
+        "new_price": 972.0,
+        "savings": 97.0,
+        "discount_pct": 9.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-extra-absorb-medium-pants-90-pcs-mffna3-7542511",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095921.jpg.986e9a4ba6.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
