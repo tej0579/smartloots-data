@@ -54,9 +54,9 @@
         "brand": "Haldiram's Nagpur",
         "category": "ghee",
         "old_price": 1533.0,
-        "new_price": 569.0,
-        "savings": 964.0,
-        "discount_pct": 62.9,
+        "new_price": 555.0,
+        "savings": 978.0,
+        "discount_pct": 63.8,
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/haldirams-nagpur-deshi-ghee-1-l-mo7cn0",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943749091.jpg.a50d391796.jpg",
@@ -1149,23 +1149,6 @@
         ]
     },
     {
-        "uid": "7530156",
-        "name": "Drumstick Bundle 250 g",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 40.0,
-        "new_price": 25.0,
-        "savings": 15.0,
-        "discount_pct": 37.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/drumstick-bundle-250-g-mffn4g-7530156",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/5900029251.jpg.336770d218.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "72689501",
         "name": "Nivea Derma Control Even Tone Vitamin C Deodorant 150 ml",
         "brand": "nivea",
@@ -1448,6 +1431,25 @@
         ]
     },
     {
+        "uid": "75682202",
+        "name": "Real Active Coconut Water 1 L",
+        "brand": "Real Activ",
+        "category": "drinks_juices",
+        "old_price": 133.0,
+        "new_price": 89.0,
+        "savings": 44.0,
+        "discount_pct": 33.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/real-active-coconut-water-1-l-mn8utw-75682202",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/packagingmayvarynew-03.jpg1.jpg.54dc90d18c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7546826",
         "name": "Kissan Creamy Peanut Butter 350 g",
         "brand": "kissan",
@@ -1477,23 +1479,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913612271.jpg.384fec8946.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7527655",
-        "name": "Everyday Premium Soft Milk Bread 400 g",
-        "brand": "Everyday",
-        "category": "breads_chapatis",
-        "old_price": 42.0,
-        "new_price": 29.0,
-        "savings": 13.0,
-        "discount_pct": 31.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/everyday-premium-soft-milk-bread-400-g-mffn3b-7527655",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942377661.jpg.9a957ceb79.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -1575,25 +1560,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946089251.jpg.00eb867371.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "75682202",
-        "name": "Real Active Coconut Water 1 L",
-        "brand": "Real Activ",
-        "category": "drinks_juices",
-        "old_price": 133.0,
-        "new_price": 94.0,
-        "savings": 39.0,
-        "discount_pct": 29.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-active-coconut-water-1-l-mn8utw-75682202",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/packagingmayvarynew-03.jpg1.jpg.54dc90d18c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -1742,6 +1708,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/snicker-bounty-combi-pack-307-g-ml0t3w-72826278",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943583501.jpg.576b3c03f4.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7517858",
+        "name": "Tomato Country 1 kg",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 26.0,
+        "new_price": 19.0,
+        "savings": 7.0,
+        "discount_pct": 26.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tomato-country-1-kg-mffmyp-7517858",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900000911.jpg.49fddfe2db.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -2242,6 +2224,22 @@
         ]
     },
     {
+        "uid": "7512286",
+        "name": "Parachute Advansed Coconut Hair Oil 280 ml",
+        "brand": "parachute",
+        "category": "hair_care",
+        "old_price": 195.0,
+        "new_price": 154.0,
+        "savings": 41.0,
+        "discount_pct": 21.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parachute-advansed-coconut-hair-oil-280-ml-mffmw3-7512286",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/parachute-advansed-coconut-hair-oil-280-ml-0-20210420.jpg.68b2280723.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "72256873",
         "name": "Bazana California Almonds 200 g",
         "brand": "Bazana",
@@ -2539,24 +2537,6 @@
         ]
     },
     {
-        "uid": "7544501",
-        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 650 ml",
-        "brand": "Head & Shoulders",
-        "category": "hair_care",
-        "old_price": 549.0,
-        "new_price": 450.0,
-        "savings": 99.0,
-        "discount_pct": 18.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-mffnaz-7544501",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290441.jpg.90e03f9184.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7544287",
         "name": "L'Oreal Paris Total Repair 5 Advanced Hair Conditioner 175 ml",
         "brand": "L'Oreal Paris",
@@ -2702,6 +2682,22 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "24045038",
+        "name": "Bumtum Premium Ultrasoft Daiper Pants (M) 72 count (7-12 kg)",
+        "brand": "BUMTUM",
+        "category": "diapers_wipes",
+        "old_price": 549.0,
+        "new_price": 467.0,
+        "savings": 82.0,
+        "discount_pct": 14.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/bumtum-premium-ultrasoft-daiper-pants-m-72-count-7-12-kg-miediz-24045038",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936608011.jpg.b802f97544.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
