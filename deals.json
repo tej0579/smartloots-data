@@ -1,135 +1,5 @@
 [
     {
-        "uid": "7744429",
-        "name": "Telugu Foods Swetha Bhel Mix 60 g",
-        "brand": "Telugu Foods",
-        "category": "chips_namkeens",
-        "old_price": 999.0,
-        "new_price": 24.0,
-        "savings": 975.0,
-        "discount_pct": 97.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/telugu-foods-swetha-bhel-mix-60-g-mhc35i-7744429",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945697731.jpg.bffa8cb68c.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7729793",
-        "name": "Parachute Advansed Radiant Shine Hair Serum 45 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 94.0,
-        "new_price": 14.0,
-        "savings": 80.0,
-        "discount_pct": 85.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-advansed-radiant-shine-hair-serum-45-ml-mgqjnd-7729793",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947508261.jpg.cb17227058.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7541229",
-        "name": "Sofy Bodyfit Slim Sanitary Napkin (XL) 18 pads (Pack of 3)",
-        "brand": "sofy",
-        "category": "feminine_hygiene",
-        "old_price": 816.0,
-        "new_price": 249.0,
-        "savings": 567.0,
-        "discount_pct": 69.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sofy-bodyfit-slim-sanitary-napkin-xl-18-pads-pack-of-3-mffn9i-7541229",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004917111871.jpg.7e7f0b6fa0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7539784",
-        "name": "Haldirams Nagpur Deshi Ghee 1 L",
-        "brand": "Haldiram's Nagpur",
-        "category": "ghee",
-        "old_price": 1533.0,
-        "new_price": 555.0,
-        "savings": 978.0,
-        "discount_pct": 63.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/haldirams-nagpur-deshi-ghee-1-l-mo7cn0",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943749091.jpg.a50d391796.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "18116743",
-        "name": "Skore Finger Shaped Massager TeasHer 1 N",
-        "brand": "skore",
-        "category": "health_and_wellness",
-        "old_price": 1237.0,
-        "new_price": 478.0,
-        "savings": 759.0,
-        "discount_pct": 61.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/skore-teasher-rechargeable-finger-vibrator-mi7dil-18116743",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092751.jpg.cbdac751a5.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "18087232",
-        "name": "Skore Hard Rock Gel For Men 30 ml",
-        "brand": "skore",
-        "category": "health_and_wellness",
-        "old_price": 375.0,
-        "new_price": 145.0,
-        "savings": 230.0,
-        "discount_pct": 61.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/skore-hard-rock-gel-for-men-30-ml-mi78b7-18087232",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092661.jpg.aa77a74591.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "78723422",
-        "name": "Parachute Advanced Rosemary Enriched Coconut Hair Oil 100 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 119.0,
-        "new_price": 49.0,
-        "savings": 70.0,
-        "discount_pct": 58.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-advanced-rosemary-enriched-coconut-hair-oil-100-ml-mntj3r-78723422",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947887841.jpg.dd82ede71f.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "24070014",
-        "name": "Kwality Walls Cornetto Disc Oreo Ice Cream Cone 110 ml",
-        "brand": "KWALITY WALLS",
-        "category": "ice_cream_frozen",
-        "old_price": 149.0,
-        "new_price": 63.0,
-        "savings": 86.0,
-        "discount_pct": 57.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kwality-walls-cornetto-disc-oreo-ice-cream-cone-110-ml-mief61-24070014",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/kw-cornetto-oreo-1200x1200px-02.jpg.71315ba0e6.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "81191181",
         "name": "Kelloggs Multigrain plus Corn Flakes 450 g",
         "brand": "Kellogg's",
@@ -165,38 +35,37 @@
         ]
     },
     {
-        "uid": "7551539",
-        "name": "Best farms Premium Cashews 500 g",
-        "brand": "Best Farms",
-        "category": "dry_fruits_nuts",
-        "old_price": 1350.0,
-        "new_price": 609.0,
-        "savings": 741.0,
-        "discount_pct": 54.9,
+        "uid": "7551572",
+        "name": "Vatika Health Heena & Amla Shampoo by Dabur 340 ml",
+        "brand": "Vatika",
+        "category": "hair_care",
+        "old_price": 272.0,
+        "new_price": 127.0,
+        "savings": 145.0,
+        "discount_pct": 53.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/best-farms-premium-cashews-500-g-mffnen-7551539",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944086401.jpg.6a744ebc3f.jpg",
+        "url": "https://store1.jiomartjcp.com/product/vatika-health-heena-amla-shampoo-by-dabur-340-ml-mffneo-7551572",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/61-ygyutlql.sl1500.jpg.25f5e7fe47.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
     {
-        "uid": "7549328",
-        "name": "Best Farms Premium Cashews 100 g",
-        "brand": "Best Farms",
-        "category": "dry_fruits_nuts",
-        "old_price": 275.0,
-        "new_price": 125.0,
-        "savings": 150.0,
-        "discount_pct": 54.5,
+        "uid": "101408037",
+        "name": "Funfoods Veg Mayo Tandoori 80 g",
+        "brand": "Funfoods",
+        "category": "spread_sauces_ketchup",
+        "old_price": 49.0,
+        "new_price": 24.0,
+        "savings": 25.0,
+        "discount_pct": 51.0,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/best-farms-premium-cashews-100-g-mffndr-7549328",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944086391.jpg.4c0659c4a1.jpg",
+        "url": "https://store1.jiomartjcp.com/product/funfoods-veg-mayo-tandoori-80g-mpcpkh-101408037",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/494767926-1.jpg.390c1ab5c6.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
+            "INDORE"
         ]
     },
     {
@@ -214,6 +83,23 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "101408038",
+        "name": "Funfoods Korean Style Spicy Veg Mayo 80 g",
+        "brand": "Funfoods",
+        "category": "spread_sauces_ketchup",
+        "old_price": 49.0,
+        "new_price": 24.0,
+        "savings": 25.0,
+        "discount_pct": 51.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/funfoods-korean-style-spicy-veg-mayo-80g-mpcpl4-101408038",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/494767922-1.jpg.55bc327f74.jpg",
+        "locations": [
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -528,6 +414,39 @@
         ]
     },
     {
+        "uid": "87530460",
+        "name": "B Natural 33% Less Added Sugar Apple Drink 1 L",
+        "brand": "B Natural",
+        "category": "drinks_juices",
+        "old_price": 160.0,
+        "new_price": 80.0,
+        "savings": 80.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/b-natural-33-less-added-sugar-apple-drink-1-l-mowxc9-87530460",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947679751.jpg.aac130f671.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "107410418",
+        "name": "Sri Sri Till Laddu 180 g",
+        "brand": "Sri Sri",
+        "category": "indian_sweets",
+        "old_price": 100.0,
+        "new_price": 50.0,
+        "savings": 50.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sri-sri-till-laddu-180-g-mpqw50-107410418",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914325751.jpg.389444f5f1.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7504068",
         "name": "Lux International Smooth & Radiant Bar Soap 80 g",
         "brand": "Lux",
@@ -587,6 +506,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/zhakaas-red-chilli-rice-papad-100-g-mffmr2-7501622",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913900241.jpg.199da8f1bd.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "80054292",
+        "name": "Britannia Fudge It Veg Brownie 120 g",
+        "brand": "britannia",
+        "category": "cakes_rusk_more",
+        "old_price": 120.0,
+        "new_price": 60.0,
+        "savings": 60.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/britannia-fudge-it-veg-brownie-120-g-mo1hsp-80054292",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946147151.jpg.84c7876947.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
@@ -656,20 +591,19 @@
         ]
     },
     {
-        "uid": "7526622",
-        "name": "MTR Instant Gulab Jamun Ready Mix 175g (Buy 1 at 50% OFF)",
-        "brand": "MTR",
-        "category": "ready_to_cook_eat",
-        "old_price": 128.0,
-        "new_price": 67.0,
-        "savings": 61.0,
-        "discount_pct": 47.7,
+        "uid": "7542674",
+        "name": "Mamaearth Charcoal Moisturizing Body Wash 275 ml",
+        "brand": "mamaearth",
+        "category": "bath_hand_wash",
+        "old_price": 284.0,
+        "new_price": 149.0,
+        "savings": 135.0,
+        "discount_pct": 47.5,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mtr-instant-gulab-jamun-ready-mix-175-g-buy-1-at-50-mffn2t-7526622",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/gulabjamun11-175g-front1.jpg.ad2410b91d.jpg",
+        "url": "https://store1.jiomartjcp.com/product/mamaearth-charcoal-moisturizing-body-wash-275-ml-mffna5-7542674",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944098331.jpg.9e4fd30f9f.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -686,71 +620,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945793961.jpg.b5b27e8e68.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7545036",
-        "name": "Mamaearth Sun Protection SPF 50 PA+++ Ultra Light Indian Sunscreen 80 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 474.0,
-        "new_price": 249.0,
-        "savings": 225.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-sun-protection-spf-50-pa-ultra-light-indian-sunscreen-80-ml-mffnb8-7545036",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919382901.jpg.b35220b6ca.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "69020511",
-        "name": "Mamaearth Tea Tree & Neem Oil Control Face Wash 150 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 398.0,
-        "new_price": 209.0,
-        "savings": 189.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-tea-tree-neem-oil-control-face-wash-150-ml-mjnhvt-69020511",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945793991.jpg.a51924e9c0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7502554",
-        "name": "Mamaearth Vitamin C Face Wash 250 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 474.0,
-        "new_price": 249.0,
-        "savings": 225.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-vitamin-c-face-wash-250-ml-mffmrn-7502554",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925067011.jpg.0e94424363.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7500313",
-        "name": "Mamaearth Ubtan Sunscreen Body Lotion 300 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 379.0,
-        "new_price": 199.0,
-        "savings": 180.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-ubtan-sunscreen-body-lotion-300-ml-mffi22-7500313",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004931114421.jpg.b797173cbb.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -803,6 +672,23 @@
         ]
     },
     {
+        "uid": "7513038",
+        "name": "Cornitos Sizzlin Jalapeno Nacho Crisps 77 g",
+        "brand": "Cornitos",
+        "category": "chips_namkeens",
+        "old_price": 57.0,
+        "new_price": 30.0,
+        "savings": 27.0,
+        "discount_pct": 47.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cornitos-sizzlin-jalapeno-nacho-crisps-77-g-mffmwg-7513038",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936351311.jpg.f167bccac1.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7547498",
         "name": "Babylo Baby Wipes 30 pcs",
         "brand": "BABYLO",
@@ -819,122 +705,36 @@
         ]
     },
     {
-        "uid": "7538826",
-        "name": "Mamaearth Turmeric & Saffron Ubtan Face Wash 150 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 426.0,
-        "new_price": 224.0,
-        "savings": 202.0,
+        "uid": "7546513",
+        "name": "Goodricke Super Cup Leaf Tea 1 kg (Pouch)",
+        "brand": "goodricke",
+        "category": "tea_coffee",
+        "old_price": 418.0,
+        "new_price": 220.0,
+        "savings": 198.0,
         "discount_pct": 47.4,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-turmeric-saffron-ubtan-face-wash-150-ml-mffn8c-7538826",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936958671.jpg.62feeb4cde.jpg",
+        "url": "https://store1.jiomartjcp.com/product/goodricke-super-cup-leaf-tea-1-kg-pouch-mffnbz-7546513",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915861551.jpg.beea03514d.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7551784",
-        "name": "Clean N Clear Vitamin C Face Wash 240 ml",
-        "brand": "Clean & Clear",
-        "category": "skin_care",
-        "old_price": 559.0,
-        "new_price": 294.0,
-        "savings": 265.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clean-n-clear-vitamin-c-face-wash-240-ml-mffneu-7551784",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944964281.jpg.8ee4f2df86.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7549121",
-        "name": "Mamaearth Rice Face Wash 150 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 426.0,
-        "new_price": 224.0,
-        "savings": 202.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-rice-face-wash-150-ml-mffndo-7549121",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943372721.jpg.53ffcafaf9.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7550027",
-        "name": "Mamaearth Ubtan Moisturizing Body Lotion 400 ml",
-        "brand": "mamaearth",
-        "category": "bath_hand_wash",
-        "old_price": 521.0,
-        "new_price": 274.0,
-        "savings": 247.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-ubtan-moisturizing-body-lotion-400-ml-mffne1-7550027",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944916851.jpg.639d3baf25.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
     {
-        "uid": "7657635",
-        "name": "Mamaearth Rice Water Hyderating Body Lotion 400 ml",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 521.0,
-        "new_price": 274.0,
-        "savings": 247.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-rice-water-hyderating-body-lotion-400-ml-mg6kj1-7657635",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944916861.jpg.20bb8b0f80.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7526902",
-        "name": "Mamaearth Beetroot Moisturising Cream 200 g",
-        "brand": "mamaearth",
-        "category": "skin_care",
-        "old_price": 521.0,
-        "new_price": 274.0,
-        "savings": 247.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamaearth-beetroot-moisturising-cream-200-g-mffn2y-7526902",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944098451.jpg.bf7eba9560.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7552603",
-        "name": "Clean N Clear Aloe Vera Face Wash 240 ml",
-        "brand": "Clean & Clear",
-        "category": "skin_care",
-        "old_price": 446.0,
-        "new_price": 235.0,
-        "savings": 211.0,
+        "uid": "7539412",
+        "name": "Nyle Naturals Silky and Smooth Anti Hairfall Shampoo 800 ml",
+        "brand": "nyle",
+        "category": "hair_care",
+        "old_price": 598.0,
+        "new_price": 315.0,
+        "savings": 283.0,
         "discount_pct": 47.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clean-n-clear-aloe-vera-face-wash-240-ml-mffnfb-7552603",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944964271.jpg.d7d94c80f2.jpg",
+        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-silky-and-smooth-anti-hairfall-shampoo-800-ml-mffn8m-7539412",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900032121.jpg.123d1df903.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -950,9 +750,24 @@
         "url": "https://store1.jiomartjcp.com/product/parle-20-20-gold-choco-chip-cookies-400-g-mffn8f-7538982",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924906901.jpg.6cc898be4d.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7542067",
+        "name": "Baker's Choice Freshly Baked Rusk 200 g (Pack)",
+        "brand": "Baker's Choice",
+        "category": "cakes_rusk_more",
+        "old_price": 45.0,
+        "new_price": 24.0,
+        "savings": 21.0,
+        "discount_pct": 46.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/bakers-choice-freshly-baked-rusk-200-g-pack-mffn9v-7542067",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/baker-s-choice-freshly-baked-rusk-200-g-0-20211115.jpg.ace3bcb71a.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -972,6 +787,22 @@
         ]
     },
     {
+        "uid": "7537669",
+        "name": "Modern Sunbake Rusk 728 g",
+        "brand": "modern",
+        "category": "cakes_rusk_more",
+        "old_price": 158.0,
+        "new_price": 85.0,
+        "savings": 73.0,
+        "discount_pct": 46.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/modern-sunbake-rusk-728-g-mffn7t-7537669",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942307291.jpg.c74ac1902c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7515993",
         "name": "Spring Onion 1 bunch (Approx 180 g - 250 g)",
         "brand": "Private Label",
@@ -985,6 +816,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900005341.jpg.1b2b00de73.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7525963",
+        "name": "Eastern Biryani Masala 100 g",
+        "brand": "eastern",
+        "category": "masala_spices_mukhwas",
+        "old_price": 84.0,
+        "new_price": 47.0,
+        "savings": 37.0,
+        "discount_pct": 44.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/eastern-biryani-masala-100-g-mffn2g-7525963",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900161921.jpg.25c069fa52.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -1018,24 +866,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947510501.jpg.9fe9a597bf.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7507903",
-        "name": "Pears Soft & Fresh Glow Original Glycerine Bathing Soap (6N x 125 g)",
-        "brand": "Pears",
-        "category": "bath_hand_wash",
-        "old_price": 489.0,
-        "new_price": 278.0,
-        "savings": 211.0,
-        "discount_pct": 43.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pears-soft-and-fresh-pure-glycerin-and-mint-extracts-bathing-soap-125-g-pack-of-6-mffmu0-7507903",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926515421.jpg.d02dda0ac0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -1107,6 +937,22 @@
         ]
     },
     {
+        "uid": "7537767",
+        "name": "India Gate Classic Hyderabadi Briyani Masala 70 g",
+        "brand": "india gate",
+        "category": "masala_spices_mukhwas",
+        "old_price": 49.0,
+        "new_price": 29.0,
+        "savings": 20.0,
+        "discount_pct": 40.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/india-gate-classic-hyderabadi-briyani-masala-70-g-mffn7v-7537767",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943744851.jpg.066b685ab3.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7505126",
         "name": "Suhana Mutter Paneer Spice Mix 50 g",
         "brand": "Suhana",
@@ -1140,22 +986,6 @@
         ]
     },
     {
-        "uid": "7548833",
-        "name": "Good Life Black Dry Dates - 200 g",
-        "brand": "Good Life",
-        "category": "dry_fruits_nuts",
-        "old_price": 115.0,
-        "new_price": 69.0,
-        "savings": 46.0,
-        "discount_pct": 40.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/good-life-black-dry-dates-200-g-mffndk-7548833",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914183701.jpg.23e29496e4.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "89568284",
         "name": "B. Fit Adult Pant XLarge 10 x 12 N",
         "brand": "Friends",
@@ -1169,25 +999,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/b-fitpantxl1.jpg.b970f9cf27.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7514089",
-        "name": "Himalaya Extra Soft & Gentle Baby Cream 200 ml",
-        "brand": "himalaya",
-        "category": "bath_hygiene_grooming",
-        "old_price": 328.0,
-        "new_price": 200.0,
-        "savings": 128.0,
-        "discount_pct": 39.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/himalaya-extra-soft-gentle-baby-cream-200-ml-mffmwy-7514089",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-baby-cream-with-olive-oil-and-country-mallow-200-ml-0-20210607.jpg.13a2ad2219.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -1234,6 +1045,25 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/good-life-bay-leaf-25-g-milck5-31045513",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-bay-leaf-25-g-0-20220107.jpg.cadea4e817.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7514089",
+        "name": "Himalaya Extra Soft & Gentle Baby Cream 200 ml",
+        "brand": "himalaya",
+        "category": "bath_hygiene_grooming",
+        "old_price": 328.0,
+        "new_price": 205.0,
+        "savings": 123.0,
+        "discount_pct": 37.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-extra-soft-gentle-baby-cream-200-ml-mffmwy-7514089",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-baby-cream-with-olive-oil-and-country-mallow-200-ml-0-20210607.jpg.13a2ad2219.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
@@ -1291,6 +1121,22 @@
         ]
     },
     {
+        "uid": "7514011",
+        "name": "India Gate Classic Lucknowi Briyani Masala 70 g",
+        "brand": "india gate",
+        "category": "masala_spices_mukhwas",
+        "old_price": 46.0,
+        "new_price": 29.0,
+        "savings": 17.0,
+        "discount_pct": 37.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/india-gate-classic-lucknowi-briyani-masala-70-g-mffmww-7514011",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943744861.jpg.02ffe9d80a.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7544782",
         "name": "Himalaya Baby Lotion 400 ml",
         "brand": "himalaya",
@@ -1325,6 +1171,23 @@
         ]
     },
     {
+        "uid": "7519565",
+        "name": "Ching's Secret Chilli Vinegar 170 ml",
+        "brand": "Ching's Secret",
+        "category": "spread_sauces_ketchup",
+        "old_price": 47.0,
+        "new_price": 30.0,
+        "savings": 17.0,
+        "discount_pct": 36.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/chings-secret-chilli-vinegar-170-ml-mffmzo-7519565",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ching-s-secret-chilli-vinegar-170-ml-0-20210811.jpg.adc1358707.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7523780",
         "name": "Colgate Sensitive Everyday Protection Toothpaste (2N x 80 g)",
         "brand": "Colgate",
@@ -1342,22 +1205,6 @@
         ]
     },
     {
-        "uid": "7545235",
-        "name": "Clinic Plus+ Strong & Long Health Shampoo 80 ml",
-        "brand": "clinic plus",
-        "category": "hair_care",
-        "old_price": 72.0,
-        "new_price": 46.0,
-        "savings": 26.0,
-        "discount_pct": 36.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-80-ml-mffnbb-7545235",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/clinic-plus-strong-long-health-shampoo-80-ml-0-20210518.jpg.da7379e81a.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "101522164",
         "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 40)",
         "brand": "stayfree",
@@ -1371,6 +1218,24 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947888241.jpg.89f7bab53b.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7507903",
+        "name": "Pears Soft & Fresh Glow Original Glycerine Bathing Soap (6N x 125 g)",
+        "brand": "Pears",
+        "category": "bath_hand_wash",
+        "old_price": 489.0,
+        "new_price": 314.0,
+        "savings": 175.0,
+        "discount_pct": 35.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pears-soft-and-fresh-pure-glycerin-and-mint-extracts-bathing-soap-125-g-pack-of-6-mffmu0-7507903",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926515421.jpg.d02dda0ac0.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
         ]
     },
     {
@@ -1492,56 +1357,6 @@
         ]
     },
     {
-        "uid": "7548521",
-        "name": "Good Life Flax Seeds 200 g",
-        "brand": "Good Life",
-        "category": "masala_spices_mukhwas",
-        "old_price": 75.0,
-        "new_price": 49.0,
-        "savings": 26.0,
-        "discount_pct": 34.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/good-life-flax-seeds-200-g-mffnde-7548521",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942605231.jpg.18c5f9ea3f.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7541944",
-        "name": "Nyle Naturals Advanced Damage Repair Paraben Free Shampoo 800 ml",
-        "brand": "nyle",
-        "category": "hair_care",
-        "old_price": 598.0,
-        "new_price": 391.0,
-        "savings": 207.0,
-        "discount_pct": 34.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-advanced-damage-repair-paraben-free-shampoo-800-ml-mffn9t-7541944",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900032111.jpg.7cdbb7e89f.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7539412",
-        "name": "Nyle Naturals Silky and Smooth Anti Hairfall Shampoo 800 ml",
-        "brand": "nyle",
-        "category": "hair_care",
-        "old_price": 598.0,
-        "new_price": 391.0,
-        "savings": 207.0,
-        "discount_pct": 34.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nyle-naturals-silky-and-smooth-anti-hairfall-shampoo-800-ml-mffn8m-7539412",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900032121.jpg.123d1df903.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "24060234",
         "name": "Kwality Wall's Butterscotch Ice Cream Tub 700 ml",
         "brand": "Kwality Wall's",
@@ -1554,8 +1369,58 @@
         "url": "https://store1.jiomartjcp.com/product/kwality-walls-slow-churned-butterscotch-ice-cream-700-ml-mieei9-24060234",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/icehakz6gwaxfyaw02.jpg.dc22c8369d.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "109123451",
+        "name": "Alan's Argentinian Grilled Cheese & Herb Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-argentinian-grilled-cheese-herb-potato-chips-80-g-mq9fkp-109123451",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077491.jpg.a34f1a319f.jpg",
+        "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "AHMEDABAD_GHATLODIYA"
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "109123126",
+        "name": "Alan's Spanish Style Spicy Tomato & Herb Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-spanish-style-spicy-tomato-herb-potato-chips-80-g-mq9fi5-109123126",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077521.jpg.82f5974382.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "109123585",
+        "name": "Alan's Portuguese Piri Piri Salsa Potato Chips 80 g",
+        "brand": "ALAN'S",
+        "category": "chips_namkeens",
+        "old_price": 50.0,
+        "new_price": 33.0,
+        "savings": 17.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/alan-s-portuguese-piri-piri-salsa-potato-chips-80-g-mq9fls-109123585",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077551.jpg.cfa50019ca.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -1637,24 +1502,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4945787821.jpg.5391128903.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "79913802",
-        "name": "Clean & Clear Foaming Face Wash 240 ml",
-        "brand": "Clean & Clear",
-        "category": "skin_care",
-        "old_price": 404.0,
-        "new_price": 269.0,
-        "savings": 135.0,
-        "discount_pct": 33.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clean-clear-foaming-face-wash-240-ml-mnzl6a-79913802",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919612401.jpg.c5f2d6bc02.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -1779,22 +1626,6 @@
         ]
     },
     {
-        "uid": "7517751",
-        "name": "Sensodyne Sensitive (Soft) Toothbrush (Pack of 4)",
-        "brand": "Sensodyne",
-        "category": "oral_care",
-        "old_price": 152.0,
-        "new_price": 102.0,
-        "savings": 50.0,
-        "discount_pct": 32.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sensodyne-sensitive-soft-toothbrush-pack-of-4-mffmyn-7517751",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915551901.jpg.d266d080cf.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7524097",
         "name": "Liril Lime & Tea Tree Oil Soap 125 g (Pack of 6)",
         "brand": "liril",
@@ -1845,22 +1676,6 @@
         ]
     },
     {
-        "uid": "7504239",
-        "name": "Vaseline Intensive Care Deep Moisture Body Lotion 400 ml",
-        "brand": "vaseline",
-        "category": "skin_care",
-        "old_price": 489.0,
-        "new_price": 335.0,
-        "savings": 154.0,
-        "discount_pct": 31.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vaseline-intensive-care-deep-moisture-lotion-400-ml-mffmsf-7504239",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004904155341.jpg.8ca245f814.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7524758",
         "name": "VLCC Ayurvedic Haldi & Chandan Skin Brightening Face Wash 100 ml",
         "brand": "vlcc",
@@ -1895,6 +1710,38 @@
         ]
     },
     {
+        "uid": "7544414",
+        "name": "Pond's Men Energy Bright Face Wash with Coffee Bean Extract 100 g",
+        "brand": "Pond's",
+        "category": "skin_care",
+        "old_price": 208.0,
+        "new_price": 144.0,
+        "savings": 64.0,
+        "discount_pct": 30.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/ponds-men-energy-bright-face-wash-with-coffee-bean-extract-100-g-mffnay-7544414",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911602091.jpg.c6df04f24f.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7515674",
+        "name": "Pond's Men Pollution Out Face Wash 100 g",
+        "brand": "Pond's",
+        "category": "skin_care",
+        "old_price": 208.0,
+        "new_price": 144.0,
+        "savings": 64.0,
+        "discount_pct": 30.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/ponds-men-pollution-out-face-wash-100-g-mffmxo-7515674",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912297171.jpg.4739ab9718.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "126143072",
         "name": "Vatika Bio Infusions Moisture Bomb Shampoo 400 ml",
         "brand": "Vatika",
@@ -1907,56 +1754,6 @@
         "url": "https://store1.jiomartjcp.com/product/vatika-bio-infusions-moisture-bomb-shampoo-400-ml-mqtjiv-126143072",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4947887981.jpg.fc373ba71b.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7526525",
-        "name": "Fresh Date 1 kg",
-        "brand": "Private Label",
-        "category": "fresh_fruits",
-        "old_price": 158.0,
-        "new_price": 110.0,
-        "savings": 48.0,
-        "discount_pct": 30.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fresh-date-1-kg-mffn2r-7526525",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900000771.jpg.d6eb39a317.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7513038",
-        "name": "Cornitos Sizzlin Jalapeno Nacho Crisps 77 g",
-        "brand": "Cornitos",
-        "category": "chips_namkeens",
-        "old_price": 43.0,
-        "new_price": 30.0,
-        "savings": 13.0,
-        "discount_pct": 30.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cornitos-sizzlin-jalapeno-nacho-crisps-77-g-mffmwg-7513038",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936351311.jpg.f167bccac1.jpg",
-        "locations": [
-            "INDORE",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7528952",
-        "name": "Cornitos Sweet Chili Nacho Crisps 77 g",
-        "brand": "Cornitos",
-        "category": "chips_namkeens",
-        "old_price": 43.0,
-        "new_price": 30.0,
-        "savings": 13.0,
-        "discount_pct": 30.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cornitos-sweet-chili-nacho-crisps-77-g-mffn3x-7528952",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936351301.jpg.566eef5f33.jpg",
-        "locations": [
-            "INDORE",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -2128,6 +1925,25 @@
         ]
     },
     {
+        "uid": "7504255",
+        "name": "McCain Veggie Fingers 400 g",
+        "brand": "mccain",
+        "category": "ice_cream_frozen",
+        "old_price": 149.0,
+        "new_price": 105.0,
+        "savings": 44.0,
+        "discount_pct": 29.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mccain-veggie-fingers-400-g-mffmsf-7504255",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911601221.jpg.8124fe1497.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7501188",
         "name": "Colgate ProClinical 150 Charcoal Battery Powered Toothbrush",
         "brand": "Colgate",
@@ -2144,23 +1960,6 @@
         ]
     },
     {
-        "uid": "7550472",
-        "name": "Parle Kismi Gold 245.5 g",
-        "brand": "parle",
-        "category": "chocolates_candies",
-        "old_price": 44.0,
-        "new_price": 31.0,
-        "savings": 13.0,
-        "discount_pct": 29.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-kismi-gold-2455-g-mffne7-7550472",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942552821.jpg.0fb97db6d1.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "101522162",
         "name": "Stayfree Secure Xpert XL Sanitary Napkin (Pack of 18)",
         "brand": "stayfree",
@@ -2174,24 +1973,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947888231.jpg.4586cbd6a9.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7522157",
-        "name": "Dettol Lime Fresh (Lime Cool) Bathing Soap Bar 100 g (Pack of 4)",
-        "brand": "Dettol",
-        "category": "bath_hand_wash",
-        "old_price": 140.0,
-        "new_price": 99.0,
-        "savings": 41.0,
-        "discount_pct": 29.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dettol-lime-cool-soap-4x100-g-mffn0o-7522157",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.7ac120151c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
         ]
     },
     {
@@ -2242,22 +2023,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946090591.jpg.de57cc6600.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7548431",
-        "name": "Whisper Ultra Soft XL Wings 44 pcs",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 451.0,
-        "new_price": 320.0,
-        "savings": 131.0,
-        "discount_pct": 29.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-ultra-soft-xl-wings-44-pcs-mffndc-7548431",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943368271.jpg.0064624803.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -2512,6 +2277,22 @@
         ]
     },
     {
+        "uid": "7542181",
+        "name": "Park Avenue Original Collection Good Morning Wake Up Fragrance Body Spray 220 ml",
+        "brand": "Park Avenue",
+        "category": "deo_fragrances",
+        "old_price": 190.0,
+        "new_price": 139.0,
+        "savings": 51.0,
+        "discount_pct": 26.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/park-avenue-orignal-collection-good-morning-wake-up-fragrance-body-spray-for-men-250-ml-mffn9x-7542181",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910665161.jpg.09fbfa5c18.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7534242",
         "name": "Jabsons Sesame/Til Gud Laddu 210 g",
         "brand": "Jabsons",
@@ -2559,297 +2340,6 @@
             "AHMEDABAD_GHATLODIYA",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7549189",
-        "name": "Nongshim Shin Red Super Spicy Instant Noodles Cup 68 g",
-        "brand": "nongshim",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 132.0,
-        "new_price": 97.0,
-        "savings": 35.0,
-        "discount_pct": 26.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nongshim-shin-red-super-spicy-instant-noodles-cup-68-g-mffndp-7549189",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923699591.jpg.f486e5322d.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7509367",
-        "name": "Real Thai Sriracha Extra Hot Chilli Sauce 270 g",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 223.0,
-        "new_price": 164.0,
-        "savings": 59.0,
-        "discount_pct": 26.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sriracha-extra-hot-chilli-sauce-270-g-mffmuq-7509367",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914609031.jpg.3c80ae6820.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7546956",
-        "name": "Lays Assorted Large Pack 2+1 Combo 240 g",
-        "brand": "Lay's",
-        "category": "chips_namkeens",
-        "old_price": 136.0,
-        "new_price": 100.0,
-        "savings": 36.0,
-        "discount_pct": 26.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lays-assorted-large-pack-21-combo-246-g-mffnc9-7546956",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4916970071.jpg.8d8bd47485.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7511164",
-        "name": "Real Thai Rice Stick Pad Thai Noodles 375 g",
-        "brand": "Real Thai",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 261.0,
-        "new_price": 192.0,
-        "savings": 69.0,
-        "discount_pct": 26.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-rice-stick-pad-thai-noodles-375-g-mffmvk-7511164",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-rice-stick-pad-thai-noodles-375-g-0-20210111.jpg.0a84fcebd3.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7502360",
-        "name": "Real Thai Sriracha Super Extra Hot Chilli Sauce 250 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 242.0,
-        "new_price": 178.0,
-        "savings": 64.0,
-        "discount_pct": 26.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sriracha-super-extra-hot-chilli-sauce-250-ml-mffmrj-7502360",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924899411.jpg.0c47eae2df.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7532450",
-        "name": "Real Thai Glass Noodles 300 g",
-        "brand": "Real Thai",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 308.0,
-        "new_price": 227.0,
-        "savings": 81.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-glass-noodles-300-g-mffn5g-7532450",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924899422.jpg.42436d843f.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7537055",
-        "name": "Real Thai Sriracha Hot Chilli Garlic Sauce 250 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 228.0,
-        "new_price": 168.0,
-        "savings": 60.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sriracha-hot-chilli-garlic-sauce-250-ml-mffn7j-7537055",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924899401.jpg.b02507bb98.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7525395",
-        "name": "Real Thai Black Pepper Wok Sauce 150 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 213.0,
-        "new_price": 157.0,
-        "savings": 56.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-black-pepper-wok-sauce-150-ml-mffn26-7525395",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-black-pepper-wok-sauce-150-ml-0-20210927.jpg.cd02abd434.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7529480",
-        "name": "Real Thai Sweet Chilli Sauce 235 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 190.0,
-        "new_price": 140.0,
-        "savings": 50.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sweet-chilli-sauce-235-ml-mffn44-7529480",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914609071.jpg.4f8264f176.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7508481",
-        "name": "Real Thai Sweet Chilli Sauce 180 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 232.0,
-        "new_price": 171.0,
-        "savings": 61.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sweet-chilli-sauce-180-ml-mffmua-7508481",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-sweet-chilli-sauce-180-ml-0-20210129.jpg.3358e3e72b.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7501481",
-        "name": "Real Thai Rice Plain Stick 375 g (3 mm)",
-        "brand": "Real Thai",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 256.0,
-        "new_price": 189.0,
-        "savings": 67.0,
-        "discount_pct": 26.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-rice-plain-stick-375-g-3-mm-mffmqz-7501481",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-rice-stick-3-mm-375-g-0-20210111.jpg.811c57bef5.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7517189",
-        "name": "Real Thai Rice Plain Stick 375 g (5 mm)",
-        "brand": "Real Thai",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 256.0,
-        "new_price": 189.0,
-        "savings": 67.0,
-        "discount_pct": 26.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-rice-plain-stick-375-g-5-mm-mffmye-7517189",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-rice-stick-5-mm-375-g-0-20210927.jpg.a320bc6fe1.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7510898",
-        "name": "Real Thai Rice Plain Vermicelli 375 g",
-        "brand": "Real Thai",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 256.0,
-        "new_price": 189.0,
-        "savings": 67.0,
-        "discount_pct": 26.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-rice-plain-vermicelli-375-g-mffmvf-7510898",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-rice-vermicelli-375-g-0-20210129.jpg.e7734d993b.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7538850",
-        "name": "Real Thai Ready To Eat Jasmine Rice 250 g",
-        "brand": "Real Thai",
-        "category": "ready_to_cook_eat",
-        "old_price": 313.0,
-        "new_price": 231.0,
-        "savings": 82.0,
-        "discount_pct": 26.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-ready-to-eat-jasmine-rice-250-g-mffn8c-7538850",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-ready-to-eat-jasmine-rice-250-g-0-20210927.jpg.f8cc2f90a7.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7522212",
-        "name": "Real Thai Tom Kha Paste 227 g",
-        "brand": "Real Thai",
-        "category": "masala_spices_mukhwas",
-        "old_price": 218.0,
-        "new_price": 161.0,
-        "savings": 57.0,
-        "discount_pct": 26.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-tom-kha-paste-227-g-mffn0o-7522212",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/real-thai-tom-kha-paste-227-g-0-20201211.jpg.19d89b5c87.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7503895",
-        "name": "Real Thai Tom Yum Soup Paste 227 g",
-        "brand": "Real Thai",
-        "category": "ready_to_cook_eat",
-        "old_price": 218.0,
-        "new_price": 161.0,
-        "savings": 57.0,
-        "discount_pct": 26.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-tom-yum-soup-paste-227-g-mffmsa-7503895",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908105561.jpg.650b5cd4af.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7543057",
-        "name": "Real Thai Sriracha Chilli Sauce 240 ml",
-        "brand": "Real Thai",
-        "category": "spread_sauces_ketchup",
-        "old_price": 199.0,
-        "new_price": 147.0,
-        "savings": 52.0,
-        "discount_pct": 26.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-thai-sriracha-chilli-sauce-240-ml-mffnac-7543057",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914609021.jpg.9c4a8c8c3a.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7530694",
-        "name": "Tata Grand Classic Coffee 100 g",
-        "brand": "TATA GRAND",
-        "category": "tea_coffee",
-        "old_price": 230.0,
-        "new_price": 170.0,
-        "savings": 60.0,
-        "discount_pct": 26.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tata-grand-classic-coffee-100-g-mffn4o-7530694",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936575061.jpg.6ce518a7c9.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -2904,38 +2394,6 @@
         ]
     },
     {
-        "uid": "7549052",
-        "name": "Dabur Honey 1.2 kg",
-        "brand": "Dabur",
-        "category": "spread_sauces_ketchup",
-        "old_price": 390.0,
-        "new_price": 291.0,
-        "savings": 99.0,
-        "discount_pct": 25.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dabur-honey-12-kg-mffndl-7549052",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945034261.jpg.0e8042b301.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "71915899",
-        "name": "The Derma Co 1% Hyaluronic Sunscreen Aqua Gel 50 g",
-        "brand": "the derma co",
-        "category": "skin_care",
-        "old_price": 474.0,
-        "new_price": 354.0,
-        "savings": 120.0,
-        "discount_pct": 25.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/the-derma-co-1-hyaluronic-sunscreen-aqua-gel-50-g-mkatzw-71915899",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936821461.jpg.c8a0956f67.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7504307",
         "name": "McCain Chilli Garlic Potato Bites 420 g",
         "brand": "mccain",
@@ -2983,6 +2441,24 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947512041.jpg.53724df735.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "102240234",
+        "name": "Parle Bigger Melody Chocolate 276 g",
+        "brand": "parle",
+        "category": "chocolates_candies",
+        "old_price": 100.0,
+        "new_price": 75.0,
+        "savings": 25.0,
+        "discount_pct": 25.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parle-bigger-melody-chocolate-276g-mpgkbe-102240234",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4948096711.jpg.8840b741d0.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -3047,6 +2523,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/sun-crush-indian-mixed-fruit-750-ml-mlqne6-73394481",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945904141.jpg.38de6b3148.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "107489514",
+        "name": "Chef's Basket Pasta & Pizza Sauce 200 g",
+        "brand": "CHEFS BASKET",
+        "category": "spread_sauces_ketchup",
+        "old_price": 60.0,
+        "new_price": 45.0,
+        "savings": 15.0,
+        "discount_pct": 25.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/chef-s-basket-pasta-pizza-sauce-200-g-mpwi6s-107489514",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947411611.jpg.01649f669b.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -3164,6 +2656,23 @@
         ]
     },
     {
+        "uid": "7535375",
+        "name": "Suhana Biryani Masala 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 60.0,
+        "new_price": 45.0,
+        "savings": 15.0,
+        "discount_pct": 25.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-biryani-masala-50-g-mffn6s-7535375",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004904276861.jpg.e32960146c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7503305",
         "name": "Eastern Coriander Powder 500 g",
         "brand": "eastern",
@@ -3193,6 +2702,40 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900721311.jpg.22dea17ff3.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7505784",
+        "name": "Cornitos Cheese And Herbs Nacho Crisps 77 g",
+        "brand": "Cornitos",
+        "category": "chips_namkeens",
+        "old_price": 57.0,
+        "new_price": 43.0,
+        "savings": 14.0,
+        "discount_pct": 24.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cornitos-cheese-and-herbs-nacho-crisps-77-g-mffmt0-7505784",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936351291.jpg.4a59eb1d33.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7528952",
+        "name": "Cornitos Sweet Chili Nacho Crisps 77 g",
+        "brand": "Cornitos",
+        "category": "chips_namkeens",
+        "old_price": 57.0,
+        "new_price": 43.0,
+        "savings": 14.0,
+        "discount_pct": 24.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cornitos-sweet-chili-nacho-crisps-77-g-mffn3x-7528952",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936351301.jpg.566eef5f33.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -3241,23 +2784,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900019531.jpg.819199a071.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7515593",
-        "name": "Heritage Total Curd 500 g (Pouch)",
-        "brand": "Heritage",
-        "category": "milk_milk_products",
-        "old_price": 45.0,
-        "new_price": 34.0,
-        "savings": 11.0,
-        "discount_pct": 24.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/heritage-total-curd-500-g-pouch-mffmxn-7515593",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/heritage-curd-500-g-pouch-0-20211025.jpg.b6b320d840.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -3445,22 +2971,6 @@
         ]
     },
     {
-        "uid": "7507440",
-        "name": "Knorr Classic Hot & Sour Vegetable Soup 41 g",
-        "brand": "Knorr",
-        "category": "ready_to_cook_eat",
-        "old_price": 38.0,
-        "new_price": 29.0,
-        "savings": 9.0,
-        "discount_pct": 23.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/knorr-classic-hot-sour-vegetable-soup-41-g-mffmts-7507440",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902115161.jpg.1a30b38745.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "31047585",
         "name": "Goldiee Kasuri Methi 50 g",
         "brand": "Goldiee",
@@ -3477,35 +2987,18 @@
         ]
     },
     {
-        "uid": "7542876",
-        "name": "Lakme Peach Milk Soft Creme 100 g",
-        "brand": "lakme",
-        "category": "skin_care",
-        "old_price": 298.0,
-        "new_price": 228.0,
-        "savings": 70.0,
+        "uid": "24074150",
+        "name": "Goldiee Hyderabadi Biryani/Pulav Masala 50 g",
+        "brand": "Goldiee",
+        "category": "masala_spices_mukhwas",
+        "old_price": 34.0,
+        "new_price": 26.0,
+        "savings": 8.0,
         "discount_pct": 23.5,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-peach-milk-soft-creme-100-g-mffna9-7542876",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928480211.jpg.91a8717db5.jpg",
+        "url": "https://store1.jiomartjcp.com/product/goldiee-hyderabadi-biryanipulav-masala-50-g-mieffk-24074150",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916525071.jpg.0c0a8256a2.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7544414",
-        "name": "Pond's Men Energy Bright Face Wash with Coffee Bean Extract 100 g",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 188.0,
-        "new_price": 144.0,
-        "savings": 44.0,
-        "discount_pct": 23.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ponds-men-energy-bright-face-wash-with-coffee-bean-extract-100-g-mffnay-7544414",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911602091.jpg.c6df04f24f.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -3580,35 +3073,18 @@
         ]
     },
     {
-        "uid": "71646400",
-        "name": "Aqualogica SPF50+ Detan Dewy Sunscreen 50 g",
-        "brand": "Aqualogica",
-        "category": "skin_care",
-        "old_price": 379.0,
-        "new_price": 291.0,
-        "savings": 88.0,
-        "discount_pct": 23.2,
+        "uid": "7530694",
+        "name": "Tata Grand Classic Coffee 100 g",
+        "brand": "TATA GRAND",
+        "category": "tea_coffee",
+        "old_price": 299.0,
+        "new_price": 230.0,
+        "savings": 69.0,
+        "discount_pct": 23.1,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/aqualogica-spf50-detan-dewy-sunscreen-50-g-mk5c9s-71646400",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938433541.jpg.0be8ef95bb.jpg",
+        "url": "https://store1.jiomartjcp.com/product/tata-grand-classic-coffee-100-g-mffn4o-7530694",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936575061.jpg.6ce518a7c9.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "24072460",
-        "name": "Kwality Wall's Choco Brownie Fudge Ice Cream 700 ml",
-        "brand": "KWALITY WALLS",
-        "category": "ice_cream_frozen",
-        "old_price": 280.0,
-        "new_price": 215.0,
-        "savings": 65.0,
-        "discount_pct": 23.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kwality-walls-choco-brownie-fudge-ice-cream-700-ml-miefbu-24072460",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/kwalitywallschocobrowniefrudgetub700ml-02.jpg.d505a085fb.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -3629,21 +3105,19 @@
         ]
     },
     {
-        "uid": "7597291",
-        "name": "Indica Easy Shampoo Based Ammonia Free Hair Colour, Natural Black (1) 25 ml",
-        "brand": "Indica",
-        "category": "hair_care",
-        "old_price": 39.0,
-        "new_price": 30.0,
-        "savings": 9.0,
-        "discount_pct": 23.1,
+        "uid": "7729759",
+        "name": "Lux International Bouncy & Bright Soap 130 g (Pack of 4)",
+        "brand": "Lux",
+        "category": "bath_hand_wash",
+        "old_price": 344.0,
+        "new_price": 267.0,
+        "savings": 77.0,
+        "discount_pct": 22.4,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/indica-easy-shampoo-based-ammonia-free-hair-colour-natural-black-1-25-ml-mfpi9o-7597291",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/indica-easy-shampoo-based-ammonia-free-hair-colour-natural-black-1-25-ml-0-20210818.jpg.89671d5522.jpg",
+        "url": "https://store1.jiomartjcp.com/product/lux-international-bouncy-bright-soap-130-g-pack-of-4-mgqglk-7729759",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945787521.jpg.604ecf6028.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3661,38 +3135,6 @@
         "locations": [
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "72955444",
-        "name": "Stayfree Tampons By Ob Super 10 N",
-        "brand": "stayfree",
-        "category": "feminine_hygiene",
-        "old_price": 165.0,
-        "new_price": 128.0,
-        "savings": 37.0,
-        "discount_pct": 22.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/stayfree-tampons-by-ob-super-10-n-mlars5-72955444",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944099131.jpg.2d58e02e3a.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7505862",
-        "name": "Nivea Men Dark Spot Reduction Facewash 100 g",
-        "brand": "nivea",
-        "category": "skin_care",
-        "old_price": 224.0,
-        "new_price": 174.0,
-        "savings": 50.0,
-        "discount_pct": 22.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-men-dark-spot-reduction-facewash-100-g-mffmt1-7505862",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004901548591.jpg.643e32840e.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3730,22 +3172,6 @@
         ]
     },
     {
-        "uid": "7549561",
-        "name": "Dabur Gulabari White Rose Soap 150 g",
-        "brand": "Dabur",
-        "category": "bath_hand_wash",
-        "old_price": 45.0,
-        "new_price": 35.0,
-        "savings": 10.0,
-        "discount_pct": 22.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dabur-gulabari-white-rose-soap-150-g-mffndu-7549561",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943372821.jpg.24fd7aa7a3.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "49846241",
         "name": "Glow & Lovely Ayurvedic Cream 50 g",
         "brand": "glow  lovely",
@@ -3759,6 +3185,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919002851.jpg.666d0d2bd7.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7521339",
+        "name": "Suhana Chicken Biryani Spice Mix 50 g",
+        "brand": "Suhana",
+        "category": "masala_spices_mukhwas",
+        "old_price": 42.0,
+        "new_price": 33.0,
+        "savings": 9.0,
+        "discount_pct": 21.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/suhana-chicken-biryani-spice-mix-50-g-mffn0a-7521339",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912811101.jpg.661011c1a3.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -3815,6 +3258,24 @@
         ]
     },
     {
+        "uid": "7516907",
+        "name": "Denver Hamilton Pride Deodorant Body Spray for Men 180 ml",
+        "brand": "Denver",
+        "category": "deo_fragrances",
+        "old_price": 189.0,
+        "new_price": 149.0,
+        "savings": 40.0,
+        "discount_pct": 21.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-pride-deodorant-body-spray-for-men-200-ml-mffmy9-7516907",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914317761.jpg.1d1033400e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7501407",
         "name": "Cadbury Gems Surprise Ball with Toy 14.69  g",
         "brand": "cadbury",
@@ -3865,22 +3326,6 @@
         ]
     },
     {
-        "uid": "7508452",
-        "name": "Himalaya Extra Moisturising Baby Soap 125 g",
-        "brand": "himalaya",
-        "category": "bath_hygiene_grooming",
-        "old_price": 95.0,
-        "new_price": 75.0,
-        "savings": 20.0,
-        "discount_pct": 21.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/himalaya-extra-moisturising-baby-soap-125-g-mffmua-7508452",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-extra-moisturising-baby-soap-125-g-0-20201020.jpg.1d8e8f4c50.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "72256873",
         "name": "Bazana California Almonds 200 g",
         "brand": "Bazana",
@@ -3911,55 +3356,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7502009",
-        "name": "Parle 2 In 1 Bigger Eclairs Toffee 201.96 g",
-        "brand": "parle",
-        "category": "chocolates_candies",
-        "old_price": 48.0,
-        "new_price": 38.0,
-        "savings": 10.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-2-in-1-bigger-eclairs-toffee-20196-g-mffmrb-7502009",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916421521.jpg.496224bbfa.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7539155",
-        "name": "Nestle Kitkat Duo 28.5 g",
-        "brand": "Kitkat",
-        "category": "chocolates_candies",
-        "old_price": 24.0,
-        "new_price": 19.0,
-        "savings": 5.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nestle-kitkat-duo-285-g-mffn8i-7539155",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943587921.jpg.af8b95a558.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7539816",
-        "name": "7 Up Nimbooz Lemon Flavor Drink 350 ml",
-        "brand": "7 Up",
-        "category": "drinks_juices",
-        "old_price": 24.0,
-        "new_price": 19.0,
-        "savings": 5.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/7-up-nimbooz-lemon-flavor-drink-350-ml-mffn8t-7539816",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004905218261.jpg.0459a4e831.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4009,56 +3405,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7510417",
-        "name": "Vicks VapoRub Cough & Cold Relief Balm 25 ml",
-        "brand": "Vicks",
-        "category": "health_and_wellness",
-        "old_price": 103.0,
-        "new_price": 82.0,
-        "savings": 21.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vicks-vaporub-cough-cold-relief-balm-25-ml-mffmv8-7510417",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4900206381.jpg.a0a34e9b5c.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7604863",
-        "name": "Biotique Herbcolor Conditioning Color, Natural Black (1) 50 g + 110 ml",
-        "brand": "biotique",
-        "category": "hair_care",
-        "old_price": 187.0,
-        "new_price": 149.0,
-        "savings": 38.0,
-        "discount_pct": 20.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/biotique-herbcolor-conditioning-color-natural-black-1-50-g-110-ml-mfpid5-7604863",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/biotique-herbcolor-conditioning-color-natural-black-1-110-ml-0-20210111.jpg.3676717244.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7513118",
-        "name": "Biotique Herbcolor Conditioning Color, Brown (4N) 110 ml + 50 g",
-        "brand": "biotique",
-        "category": "skin_care",
-        "old_price": 187.0,
-        "new_price": 149.0,
-        "savings": 38.0,
-        "discount_pct": 20.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/biotique-herbcolor-conditioning-color-brown-4n-110-ml-mffmwh-7513118",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/biotique-herbcolor-conditioning-color-brown-4n-110-ml-0-20210111.jpg.5458d07812.jpg",
-        "locations": [
             "INDORE"
         ]
     },
@@ -4247,54 +3593,6 @@
         ]
     },
     {
-        "uid": "17455717",
-        "name": "Jabsons Party Snacks 140 g",
-        "brand": "Jabsons",
-        "category": "chips_namkeens",
-        "old_price": 75.0,
-        "new_price": 60.0,
-        "savings": 15.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/jabsons-party-snacks-140-g-mhw1om-17455717",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945065201.jpg.5ed38c4333.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7539204",
-        "name": "Whisper Bindazzz Nights Sanitary Napkin with Wings (XXL+) 16 pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 295.0,
-        "new_price": 236.0,
-        "savings": 59.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-sanitary-napkin-with-wings-xxl-16-pads-mffn8j-7539204",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919473701.jpg.f6e80d9104.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7511494",
-        "name": "Parle Grand Londonderry Caramelised Milk Candy 217.8 g",
-        "brand": "parle",
-        "category": "chocolates_candies",
-        "old_price": 45.0,
-        "new_price": 36.0,
-        "savings": 9.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-grand-londonderry-caramelised-milk-candy-2178-g-mffmvq-7511494",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916421461.jpg.5b8d5e8ab7.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7540628",
         "name": "Lakme Eyeconic Insta Cool Black Kajal 0.35 g",
         "brand": "lakme",
@@ -4340,22 +3638,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910461861.jpg.5756190cc6.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7502475",
-        "name": "Good Life Phool Makhana 250 g",
-        "brand": "Good Life",
-        "category": "dry_fruits_nuts",
-        "old_price": 385.0,
-        "new_price": 313.0,
-        "savings": 72.0,
-        "discount_pct": 18.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/good-life-phool-makhana-250-g-mffmrm-7502475",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-phool-makhana-250-g-0-20211028.jpg.ab69704409.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -4507,22 +3789,6 @@
         ]
     },
     {
-        "uid": "7524632",
-        "name": "Marvel Premium Tea 1 kg",
-        "brand": "Marvel",
-        "category": "tea_coffee",
-        "old_price": 348.0,
-        "new_price": 290.0,
-        "savings": 58.0,
-        "discount_pct": 16.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/marvel-premium-tea-1-kg-mffn1s-7524632",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4916964811.jpg.a1aa8172fb.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7533998",
         "name": "Pantene Pro-V Advanced Hair Fall Control Shampoo 650 ml",
         "brand": "Pantene",
@@ -4622,20 +3888,21 @@
         ]
     },
     {
-        "uid": "24050749",
-        "name": "Bumtum Premium Ultrasoft Daiper Pants (L) 62 Count (9-14 kg)",
-        "brand": "BUMTUM",
-        "category": "diapers_wipes",
-        "old_price": 529.0,
-        "new_price": 447.0,
-        "savings": 82.0,
-        "discount_pct": 15.5,
+        "uid": "7523082",
+        "name": "Whisper Bindazzz Nights XXL Sanitary Pads 40 Pads",
+        "brand": "whisper",
+        "category": "feminine_hygiene",
+        "old_price": 484.0,
+        "new_price": 410.0,
+        "savings": 74.0,
+        "discount_pct": 15.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bumtum-premium-ultrasoft-daiper-pants-l-62-count-9-14-kg-miedux-24050749",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936608001.jpg.bb05aec02b.jpg",
+        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-xxl-sanitary-pads-40-pads-mffn13-7523082",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925199031.jpg.bee1bb19d6.jpg",
         "locations": [
-            "INDORE",
-            "HYDERABAD_GUDIMALKAPUR"
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -4657,6 +3924,23 @@
         ]
     },
     {
+        "uid": "7535441",
+        "name": "Head & Shoulders 2-In-1 Smooth & Silky Anti-Dandruff Shampoo + Conditioner 650 ml",
+        "brand": "Head & Shoulders",
+        "category": "hair_care",
+        "old_price": 820.0,
+        "new_price": 698.0,
+        "savings": 122.0,
+        "discount_pct": 14.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/head-shoulders-2-in-1-smooth-silky-anti-dandruff-shampoo-conditioner-650-ml-mffn6t-7535441",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913789281.jpg.e944a9dbe3.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7535366",
         "name": "Lifebuoy Total 10 Soap 125 g (Buy 5 Get 2 Free)",
         "brand": "lifebuoy",
@@ -4670,22 +3954,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915873541.jpg.6c7e7af932.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7532800",
-        "name": "Denver Hamilton EDP Natural Spray for Men 60 ml",
-        "brand": "Denver",
-        "category": "deo_fragrances",
-        "old_price": 335.0,
-        "new_price": 285.0,
-        "savings": 50.0,
-        "discount_pct": 14.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-edp-natural-spray-for-men-60-ml-mffn5m-7532800",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/denver-hamilton-edp-natural-spray-for-men-60-ml-0-20210922.jpg.4fb4b8cbe0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4705,22 +3973,6 @@
         ]
     },
     {
-        "uid": "7509535",
-        "name": "Meera Small Onion Fenugreek Anti Dandruff Shampoo 340 ml",
-        "brand": "Meera",
-        "category": "hair_care",
-        "old_price": 375.0,
-        "new_price": 321.0,
-        "savings": 54.0,
-        "discount_pct": 14.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/meera-small-onion-fenugreek-anti-dandruff-shampoo-340-ml-mffmut-7509535",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916700121.jpg.768a5b0119.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "24059958",
         "name": "M. P. Gold Premium Makhana 250 g",
         "brand": "M.P. Gold",
@@ -4737,19 +3989,21 @@
         ]
     },
     {
-        "uid": "7500268",
-        "name": "Vaseline Healthy Daily Brightening Lotion 400 ml",
-        "brand": "vaseline",
-        "category": "skin_care",
-        "old_price": 328.0,
-        "new_price": 282.0,
-        "savings": 46.0,
+        "uid": "7501746",
+        "name": "Women's Horlicks Plus Caramel Drink Mix 400 g",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 371.0,
+        "new_price": 319.0,
+        "savings": 52.0,
         "discount_pct": 14.0,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vaseline-healthy-bright-daily-brightening-body-lotion-400-ml-mffi21-7500268",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913984711.jpg.110e06569f.jpg",
+        "url": "https://store1.jiomartjcp.com/product/womens-horlicks-plus-caramel-drink-mix-400-g-mffmr5-7501746",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907667491.jpg.d92625c847.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
         ]
     },
     {
@@ -4805,23 +4059,6 @@
         ]
     },
     {
-        "uid": "7501467",
-        "name": "Meera Strong & Healthy Kunkudukai & Badam Shampoo 340 ml",
-        "brand": "Meera",
-        "category": "hair_care",
-        "old_price": 413.0,
-        "new_price": 356.0,
-        "savings": 57.0,
-        "discount_pct": 13.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/meera-strong-healthy-kunkudukai-badam-shampoo-340-ml-mffmqy-7501467",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910397381.jpg.9895e116bf.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7534437",
         "name": "Pond's Bright Beauty Gluta Nicanamide complex 12% Spotless Glow Serum 30 ml",
         "brand": "Pond's",
@@ -4851,22 +4088,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923508011.jpg.07a89b9491.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "71852954",
-        "name": "Aqualogica Glow+ Dewy Papaya & Vitamin C SPF50+ Sunscreen 50 g",
-        "brand": "Aqualogica",
-        "category": "skin_care",
-        "old_price": 426.0,
-        "new_price": 372.0,
-        "savings": 54.0,
-        "discount_pct": 12.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/aqualogica-glow-dewy-papaya-vitamin-c-spf50-sunscreen-50-g-mk6kop-71852954",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936552201.jpg.433126fc4e.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -4938,25 +4159,6 @@
         ]
     },
     {
-        "uid": "7523082",
-        "name": "Whisper Bindazzz Nights XXL Sanitary Pads 40 Pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 460.0,
-        "new_price": 410.0,
-        "savings": 50.0,
-        "discount_pct": 10.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-xxl-sanitary-pads-40-pads-mffn13-7523082",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925199031.jpg.bee1bb19d6.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD",
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7552630",
         "name": "Horlicks Chocolate Delight Flavour Nutritional Drink Powder 1 kg",
         "brand": "horlicks",
@@ -4968,22 +4170,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/horlicks-chocolate-delight-1-kg-mffnfd-7552630",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923910401.jpg.35869dfa39.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7540975",
-        "name": "Dove Nutritive Solutions Intense Repair Shampoo 650 ml",
-        "brand": "dove",
-        "category": "hair_care",
-        "old_price": 541.0,
-        "new_price": 485.0,
-        "savings": 56.0,
-        "discount_pct": 10.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dove-nutritive-solutions-intense-repair-shampoo-650-ml-mffn9e-7540975",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290281.jpg.2b9b582382.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
@@ -5006,6 +4192,23 @@
         ]
     },
     {
+        "uid": "7529485",
+        "name": "MamyPoko Pants Extra Absorb XL (64 counts)",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 972.0,
+        "new_price": 872.0,
+        "savings": 100.0,
+        "discount_pct": 10.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-pants-extra-absorb-xl-64-counts-mffn45-7529485",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095941.jpg.26308a08c2.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7669429",
         "name": "L'Oral Paris Glycolic Gloss High Shine Shampoo 650ml",
         "brand": "L'Oreal Paris",
@@ -5022,19 +4225,19 @@
         ]
     },
     {
-        "uid": "7503928",
-        "name": "Pampers Premium Care Pants Small 70 pcs (4 - 8 kg)",
-        "brand": "pampers",
+        "uid": "7553373",
+        "name": "Mamypoko Small Extra Absorb Pants 105 pcs",
+        "brand": "mamypoko",
         "category": "diapers_wipes",
-        "old_price": 999.0,
-        "new_price": 899.0,
-        "savings": 100.0,
-        "discount_pct": 10.0,
+        "old_price": 1079.0,
+        "new_price": 972.0,
+        "savings": 107.0,
+        "discount_pct": 9.9,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-small-70-pcs-4-8-kg-mffmsa-7503928",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.7290763cff.jpg",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-small-extra-absorb-pants-105-pcs-mffnft-7553373",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095911.jpg.1f8d1eb9b6.jpg",
         "locations": [
-            "INDORE"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -5088,35 +4291,19 @@
         ]
     },
     {
-        "uid": "7610257",
-        "name": "Mamy Poko Pants M Size 7-12 kg ((90 Packs)",
-        "brand": "mamypoko",
-        "category": "diapers_wipes",
-        "old_price": 879.0,
-        "new_price": 810.0,
-        "savings": 69.0,
+        "uid": "7525794",
+        "name": "Horlicks Lite Regular Malt Flavour Cereal Based Beverage 1 kg (Super Saver Pack)",
+        "brand": "horlicks",
+        "category": "drinks_juices",
+        "old_price": 639.0,
+        "new_price": 589.0,
+        "savings": 50.0,
         "discount_pct": 7.8,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamy-poko-pants-m-size-7-12-kg-90-packs-mfpifu-7610257",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092981.jpg.64bf72cbfe.jpg",
+        "url": "https://store1.jiomartjcp.com/product/horlicks-lite-regular-malt-flavour-cereal-based-beverage-1-kg-super-saver-pack-mffn2d-7525794",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938572291.jpg.d9b7490b48.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7527353",
-        "name": "Pampers New Baby All-Round Protection Pants 54 count (Up to 5 kg)",
-        "brand": "pampers",
-        "category": "diapers_wipes",
-        "old_price": 669.0,
-        "new_price": 619.0,
-        "savings": 50.0,
-        "discount_pct": 7.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-new-baby-all-round-protection-pants-54-count-up-to-5-kg-mffn35-7527353",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.b1f6c0254f.jpg",
-        "locations": [
-            "INDORE"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -5153,22 +4340,6 @@
         ]
     },
     {
-        "uid": "7537576",
-        "name": "Mahakosh Refined Soyabean Oil 13 kg",
-        "brand": "Mahakosh",
-        "category": "edible_oils",
-        "old_price": 2445.0,
-        "new_price": 2325.0,
-        "savings": 120.0,
-        "discount_pct": 4.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mahakosh-refined-soyabean-oil-13-kg-mffn7s-7537576",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900316961.jpg.64ca7d8b6f.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7544921",
         "name": "Swadist Refined Soyabean Oil 13 kg",
         "brand": "Swadist",
@@ -5189,15 +4360,32 @@
         "name": "Dhara Lite N Fine Refined Soyabean Oil 15 L",
         "brand": "Dhara",
         "category": "edible_oils",
-        "old_price": 2399.0,
-        "new_price": 2299.0,
+        "old_price": 2499.0,
+        "new_price": 2399.0,
         "savings": 100.0,
-        "discount_pct": 4.2,
+        "discount_pct": 4.0,
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/dhara-lite-n-fine-refined-soyabean-oil-15-l-mffn65-7533979",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913899661.jpg.a0e57ec728.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7511103",
+        "name": "Good Life Daily Rice 26 kg",
+        "brand": "Good Life",
+        "category": "rice",
+        "old_price": 1399.0,
+        "new_price": 1349.0,
+        "savings": 50.0,
+        "discount_pct": 3.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-daily-rice-26-kg-mffmvj-7511103",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942604491.jpg.e03d8d15d7.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     }
 ]
