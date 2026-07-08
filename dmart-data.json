@@ -1080,7 +1080,7 @@
         "new_price": 42.0,
         "savings": 14.0,
         "discount_pct": 25.0,
-        "stock": "Out of Stock",
+        "stock": "In Stock",
         "url": "https://www.dmart.in/product/fresh-tomato-pvegetables40xx20518",
         "image": "https://cdn.dmart.in/images/products/KVEGETABLES500gm41xx230920_5_P.jpg",
         "locations": [
@@ -1904,22 +1904,6 @@
         ]
     },
     {
-        "uid": "dmart_11502",
-        "name": "Kellogg's Chocos Crunchy Bites : 375 g",
-        "brand": "Kellogg's",
-        "category": "breakfast-cereals-aesc-breakfastcereals",
-        "old_price": 196.0,
-        "new_price": 157.0,
-        "savings": 39.0,
-        "discount_pct": 19.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/kelloggs-chocos-crunchy-bites",
-        "image": "https://cdn.dmart.in/images/products/Dec120000143xx15Dec25vvG_4_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_1675024",
         "name": "Tata Sampann Premium Cashews Whole  (Jidi Pappu / Jeedi Pappu) :  200 g",
         "brand": "Tata Sampann",
@@ -2304,22 +2288,6 @@
         ]
     },
     {
-        "uid": "dmart_1648024",
-        "name": "Parry's Sona Masoori Steam Rice Deluxe : 5 kg",
-        "brand": "Parry's",
-        "category": "rice---rice-products-aesc-riceandriceproducts4",
-        "old_price": 409.0,
-        "new_price": 340.0,
-        "savings": 69.0,
-        "discount_pct": 16.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/parrys-sona-masoori-steam-rice-deluxe-pboiledrice4xx111024",
-        "image": "https://cdn.dmart.in/images/products/OCT110004602xx10OCT24_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_620008",
         "name": "Mamy Poko Pants Extra Absorb New Born-1 : 28 U",
         "brand": "Mamy Poko",
@@ -2667,22 +2635,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/star-light-fabric-whitener--pwashcare0star1xx301220",
         "image": "https://cdn.dmart.in/images/products/MAR150002925xx17MAR22_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_437023",
-        "name": "Harpic Bathroom Cleaner Liquid Lemon : 1 L",
-        "brand": "Harpic",
-        "category": "home---kitchen-aesc-homeandkitchencore",
-        "old_price": 212.0,
-        "new_price": 179.0,
-        "savings": 33.0,
-        "discount_pct": 15.6,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/harpic-bathroom-cleaner-lemon",
-        "image": "https://cdn.dmart.in/images/products/JUN150001238xx9JUN26vvG_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -3136,22 +3088,6 @@
         ]
     },
     {
-        "uid": "dmart_543004",
-        "name": "Comfort After Wash Fabric Conditioner - Lily Fresh Pouch : 2 L",
-        "brand": "Comfort",
-        "category": "home---kitchen-aesc-homeandkitchencore",
-        "old_price": 383.0,
-        "new_price": 330.0,
-        "savings": 53.0,
-        "discount_pct": 13.8,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/new-comfort-fabric-conditioner-lily-fresh",
-        "image": "https://cdn.dmart.in/images/products/FEB150001461xx18FEB26vvG2l_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_633507",
         "name": "Organic Tattva Sugar : 1 kg",
         "brand": "Organic Tattva",
@@ -3387,22 +3323,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/hand-brand-plain-vermicelli-pvermicelli0hand11xx170620",
         "image": "https://cdn.dmart.in/images/products/MAR120003493xx19MAR24_6_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_689428",
-        "name": "Wheel Active 2 In 1 Detergent Powder Green 4 Kg",
-        "brand": "Wheel",
-        "category": "detergent---fabric-care-aesc-detergentsandfabriccare",
-        "old_price": 241.0,
-        "new_price": 209.0,
-        "savings": 32.0,
-        "discount_pct": 13.3,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/wheel-activ-lemon-jasmin--500g-pdtargnts0whee5xx270620",
-        "image": "https://cdn.dmart.in/images/products/FEB150002033xx18FEB26vvG4kg_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -3944,7 +3864,7 @@
         "new_price": 174.0,
         "savings": 23.0,
         "discount_pct": 11.7,
-        "stock": "In Stock",
+        "stock": "Out of Stock",
         "url": "https://www.dmart.in/product/closeup-deep-action-red-hot-gel-toothpaste",
         "image": "https://cdn.dmart.in/images/products/FEB140000667xx2FEB26vvG150g_5_P.jpg",
         "locations": [
@@ -4224,6 +4144,22 @@
         ]
     },
     {
+        "uid": "dmart_742565",
+        "name": "Pillsbury Wheat Atta (Godhuma pindi) : 2 kgs",
+        "brand": "Pillsbury",
+        "category": "grocery-aesc-grocerycore",
+        "old_price": 117.0,
+        "new_price": 104.0,
+        "savings": 13.0,
+        "discount_pct": 11.1,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/pillsbury-wheat-atta-patta0gane89xx170620",
+        "image": "https://cdn.dmart.in/images/products/DEC110002516xx31DEC22_5_P.jpg",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
         "uid": "dmart_1673534",
         "name": "True Elements Breakfast Oatmeal With Real Fruits (Ready To Eat) : 1 kg",
         "brand": "True Elements",
@@ -4256,6 +4192,22 @@
         ]
     },
     {
+        "uid": "dmart_824502",
+        "name": "Coca-Cola Bottle : 8x250 ml",
+        "brand": "Coca Cola",
+        "category": "dairy---beverages-aesc-dairyandbeveragescore",
+        "old_price": 146.0,
+        "new_price": 130.0,
+        "savings": 16.0,
+        "discount_pct": 11.0,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/coca-cola-multi-pack-bot-psftdrinks0coke11xx70121",
+        "image": "https://cdn.dmart.in/images/products/AUG130001539xx20AUG25_5_P.jpg",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
         "uid": "dmart_1587532",
         "name": "SignoraWare Slim Glass Small Lunch Box: 600 ml",
         "brand": "Signoraware",
@@ -4283,54 +4235,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/loreal-paris-total-repair-5-shampoo",
         "image": "https://cdn.dmart.in/images/products/JUL140000303xx9JUL22_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_12953",
-        "name": "Surf Excel Easy Wash Detergent Powder : 1.5 kgs",
-        "brand": "Surf Excel",
-        "category": "home---kitchen-aesc-homeandkitchencore",
-        "old_price": 201.0,
-        "new_price": 179.0,
-        "savings": 22.0,
-        "discount_pct": 10.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/surf-excel-easy-wash-detergent-powder",
-        "image": "https://cdn.dmart.in/images/products/DEC150000181xx27DEC24_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_489003",
-        "name": "Daawat Biryani Basmati Rice (Biyyam) : 1 kg",
-        "brand": "Daawat",
-        "category": "rice---rice-products-aesc-riceandriceproducts4",
-        "old_price": 229.0,
-        "new_price": 204.0,
-        "savings": 25.0,
-        "discount_pct": 10.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/daawat-biryani-basmati-rice-price0daaw5xx110519",
-        "image": "https://cdn.dmart.in/images/products/Nov110001191xx3Nov25vvG_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_704001",
-        "name": "Nutella Ferrero Spread With Cocoa : 350 g",
-        "brand": "Nutella",
-        "category": "packaged-food-aesc-packagedfoodcore",
-        "old_price": 349.0,
-        "new_price": 311.0,
-        "savings": 38.0,
-        "discount_pct": 10.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/nutella-hazelnut-spread-with-cocoa-pnutellantla1858xx240119",
-        "image": "https://cdn.dmart.in/images/products/LSPREADS350gmNute10xx030521_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -4891,6 +4795,22 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/thums-up",
         "image": "https://cdn.dmart.in/images/products/DEC130000311xx19DEC22_5_P.jpg",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
+        "uid": "dmart_155501",
+        "name": "Godrej Aer Bathroom Fragrance Pocket : 4 x10 g",
+        "brand": "Godrej Aer",
+        "category": "home-utility-organisers",
+        "old_price": 244.0,
+        "new_price": 221.0,
+        "savings": 23.0,
+        "discount_pct": 9.4,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/godrej-aer-bathroom-fragrance-pocket",
+        "image": "https://cdn.dmart.in/images/products/JUN150000734xx21JUN26vvG_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -6011,22 +5931,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/surf-excel-detergent-bar",
         "image": "https://cdn.dmart.in/images/products/FEB150000205xx18FEB26vvG800gm_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_1648021",
-        "name": "Parry's Toor Dal Unpolished (Kandi Pappu) : 1 kg",
-        "brand": "Parry's",
-        "category": "dals-aesc-dals",
-        "old_price": 162.0,
-        "new_price": 151.0,
-        "savings": 11.0,
-        "discount_pct": 6.8,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/parrys-toor-dal-unpolished-pturdal1xx111024",
-        "image": "https://cdn.dmart.in/images/products/OCT110004599xx10OCT24_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -7264,22 +7168,6 @@
         ]
     },
     {
-        "uid": "dmart_11173",
-        "name": "Aashirvaad Multigrain Atta (Godhuma Pindi) : 5 kgs",
-        "brand": "Aashirvaad",
-        "category": "specials-aesc-specialscore",
-        "old_price": 325.0,
-        "new_price": 309.0,
-        "savings": 16.0,
-        "discount_pct": 4.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/aashirvaad--multigrain--atta",
-        "image": "https://cdn.dmart.in/images/products/MAY110000196XX29MAY26_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_355001",
         "name": "Kalbavi Cashews (Jidi Pappu / Jeedi Pappu) : 500 g",
         "brand": "Kalbavi",
@@ -7368,7 +7256,7 @@
         "new_price": 263.0,
         "savings": 13.0,
         "discount_pct": 4.7,
-        "stock": "Out of Stock",
+        "stock": "In Stock",
         "url": "https://www.dmart.in/product/pears-pure-and-gentle-body-wash",
         "image": "https://cdn.dmart.in/images/products/MAR140004197xx8MAR24_5_P.jpg",
         "locations": [
@@ -7595,22 +7483,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/pears-pure-gentle-bathing-bar",
         "image": "https://cdn.dmart.in/images/products/FEB140000852xx2FEB26vvG125g_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_153001",
-        "name": "Vanish Oxi Action Fabric Liquid Stain Remover : 800 ml",
-        "brand": "Vanish",
-        "category": "detergent---fabric-care-aesc-detergentsandfabriccare",
-        "old_price": 229.0,
-        "new_price": 219.0,
-        "savings": 10.0,
-        "discount_pct": 4.4,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/vanish-liquid-stain-remover",
-        "image": "https://cdn.dmart.in/images/products/KFABRICCARE800mlVNSH3113xx030621_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -8056,7 +7928,7 @@
         "new_price": 240.0,
         "savings": 10.0,
         "discount_pct": 4.0,
-        "stock": "In Stock",
+        "stock": "Out of Stock",
         "url": "https://www.dmart.in/product/apis-himalaya-honey-phoneyapis2xx200218",
         "image": "https://cdn.dmart.in/images/products/JUL120001038xx15JUL25vvF950g_5_P.jpg",
         "locations": [
@@ -8240,6 +8112,22 @@
         ]
     },
     {
+        "uid": "dmart_437006",
+        "name": "Maggi Oats Masala Noodles with Millets : 298 g",
+        "brand": "Maggi",
+        "category": "pasta---noodles-aesc-pastaandnoodles",
+        "old_price": 131.0,
+        "new_price": 126.0,
+        "savings": 5.0,
+        "discount_pct": 3.8,
+        "stock": "In Stock",
+        "url": "https://www.dmart.in/product/maggi-oats-masala-noodles-pnoodles0magg7xx120219",
+        "image": "https://cdn.dmart.in/images/products/FEB120001467xx27FEB26vvG_5_P.jpg",
+        "locations": [
+            "DMART_STORE"
+        ]
+    },
+    {
         "uid": "dmart_409001",
         "name": "Britannia Little Hearts Classic : 70 g",
         "brand": "Britannia Little Hearts",
@@ -8347,22 +8235,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/gb-sona-masoori-premium-karnool-rice-price0013xx231220",
         "image": "https://cdn.dmart.in/images/products/LMASURIRICEGB27xx23122020_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_12567",
-        "name": "Mysore Sandal Soap : 3x150 g",
-        "brand": "Mysore Sandal",
-        "category": "specials-aesc-specialscore",
-        "old_price": 190.0,
-        "new_price": 183.0,
-        "savings": 7.0,
-        "discount_pct": 3.7,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/mysore-sandal-soap",
-        "image": "https://cdn.dmart.in/images/products/MAY140000501xx26MAY22_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -8648,7 +8520,7 @@
         "new_price": 171.0,
         "savings": 6.0,
         "discount_pct": 3.4,
-        "stock": "Out of Stock",
+        "stock": "In Stock",
         "url": "https://www.dmart.in/product/wipro-softouch-2xfr-p-fabcon(200ml)-ppostwshcr0wipr59xx270620",
         "image": "https://cdn.dmart.in/images/products/JUN150002152xx16JUN26vvF_5_P.jpg",
         "locations": [
@@ -8907,22 +8779,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/britannia-toastea-premium-bake-rusk-pkhari-toasts1xx160525",
         "image": "https://cdn.dmart.in/images/products/JUN120008008xx16JUN26vvG_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_583513",
-        "name": "Brooke Bond Taj Mahal Tea : 1 kg",
-        "brand": "Brooke Bond Taj Mahal",
-        "category": "specials-aesc-specialscore",
-        "old_price": 647.0,
-        "new_price": 627.0,
-        "savings": 20.0,
-        "discount_pct": 3.1,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/brooke-bond-taj-mahal-tea",
-        "image": "https://cdn.dmart.in/images/products/JUN130000642xx19JUN26vvG1kg_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -10128,22 +9984,6 @@
         ]
     },
     {
-        "uid": "dmart_94012",
-        "name": "Brooke Bond Red Label Natural Care Tea : 1 kg",
-        "brand": "Brooke Bond Red Label",
-        "category": "specials-aesc-specialscore",
-        "old_price": 459.0,
-        "new_price": 450.0,
-        "savings": 9.0,
-        "discount_pct": 2.0,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/brooke-bond-red-label-natural-care-tea",
-        "image": "https://cdn.dmart.in/images/products/FEB130000348xx29FEB24_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_558002",
         "name": "DMart Premia Kaju  (Jidi Pappu / Jeedi Pappu) :  500 g",
         "brand": "DMart Premia",
@@ -10331,22 +10171,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/bambino-vermicelli-pvermicelli0nirm69xx110420",
         "image": "https://cdn.dmart.in/images/products/LVERMICELLI750mlAaj70xx160721_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_11892",
-        "name": "Bru Instant Coffee : 200 g",
-        "brand": "Bru",
-        "category": "specials-aesc-specialscore",
-        "old_price": 360.0,
-        "new_price": 353.0,
-        "savings": 7.0,
-        "discount_pct": 1.9,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/bru-instant-coffee",
-        "image": "https://cdn.dmart.in/images/products/FEB130000037xx29FEB24_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
@@ -12224,22 +12048,6 @@
         ]
     },
     {
-        "uid": "dmart_857001",
-        "name": "DMart Premia Badam : 1 kg",
-        "brand": "DMart Premia",
-        "category": "grocery-aesc-grocerycore",
-        "old_price": 959.0,
-        "new_price": 954.0,
-        "savings": 5.0,
-        "discount_pct": 0.5,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/premia-badam-american",
-        "image": "https://cdn.dmart.in/images/products/FEB110003152xx26FEB23_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
         "uid": "dmart_916508",
         "name": "Freedom Kachi Ghani Mustard Oil : 1 L",
         "brand": "Freedom",
@@ -12379,22 +12187,6 @@
         "stock": "In Stock",
         "url": "https://www.dmart.in/product/freedom-sunflower-oil-poil0post81xx260320",
         "image": "https://cdn.dmart.in/images/products/JUN110002480xx14JUN23_5_P.jpg",
-        "locations": [
-            "DMART_STORE"
-        ]
-    },
-    {
-        "uid": "dmart_837001",
-        "name": "Wheat Flour Chakki Atta : 10 kgs",
-        "brand": "",
-        "category": "specials-aesc-specialscore",
-        "old_price": 371.0,
-        "new_price": 370.0,
-        "savings": 1.0,
-        "discount_pct": 0.3,
-        "stock": "In Stock",
-        "url": "https://www.dmart.in/product/wheat-flour-chakki-atta-patta003xx080521",
-        "image": "https://cdn.dmart.in/images/products/APR110003081xx10APR23_5_P.jpg",
         "locations": [
             "DMART_STORE"
         ]
