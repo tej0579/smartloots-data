@@ -67,23 +67,6 @@
         ]
     },
     {
-        "uid": "7546658",
-        "name": "Mccain Pepper Crunch French Fries 420 g",
-        "brand": "mccain",
-        "category": "ice_cream_frozen",
-        "old_price": 159.0,
-        "new_price": 49.0,
-        "savings": 110.0,
-        "discount_pct": 69.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mccain-pepper-crunch-french-fries-420-g-mffnc2-7546658",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004937259241.jpg.8006ab3cb1.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "81191181",
         "name": "Kelloggs Multigrain plus Corn Flakes 450 g",
         "brand": "Kellogg's",
@@ -752,7 +735,8 @@
         "url": "https://store1.jiomartjcp.com/product/pasta-zara-fusilli-400-g-mffn3v-7528833",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945033931.jpg.2b7a29a5b9.jpg",
         "locations": [
-            "INDORE"
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -1805,19 +1789,19 @@
         ]
     },
     {
-        "uid": "72824643",
-        "name": "Raw Mango 1 Piece (approx. 200 g)",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 29.0,
-        "new_price": 19.0,
-        "savings": 10.0,
-        "discount_pct": 34.5,
+        "uid": "7545235",
+        "name": "Clinic Plus+ Strong & Long Health Shampoo 80 ml",
+        "brand": "clinic plus",
+        "category": "hair_care",
+        "old_price": 72.0,
+        "new_price": 47.0,
+        "savings": 25.0,
+        "discount_pct": 34.7,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/raw-mango-1-piece-approx-200-g-ml0sf7-72824643",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023901.jpg.c518c9c181.jpg",
+        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-80-ml-mffnbb-7545235",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/clinic-plus-strong-long-health-shampoo-80-ml-0-20210518.jpg.da7379e81a.jpg",
         "locations": [
-            "INDORE"
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2246,6 +2230,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/weikfield-fusilli-pasta-400-g-mffn4c-7529953",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916954231.jpg.1988505337.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7538712",
+        "name": "Whisper Choice Night Sanitary Pads (XXL) 16 Pads",
+        "brand": "whisper",
+        "category": "feminine_hygiene",
+        "old_price": 142.0,
+        "new_price": 99.0,
+        "savings": 43.0,
+        "discount_pct": 30.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/whisper-choice-night-sanitary-pads-xxl-16-pads-mffn8a-7538712",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936212351.jpg.9dc45120c0.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -3113,6 +3113,22 @@
         ]
     },
     {
+        "uid": "7502637",
+        "name": "Pidilite Fevicol MR Squeeze Bottle Glue 120 g",
+        "brand": "Fevicol",
+        "category": "art_craft_hobby",
+        "old_price": 55.0,
+        "new_price": 41.0,
+        "savings": 14.0,
+        "discount_pct": 25.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pidilite-fevicol-mr-squeeze-bottle-glue-120-g-mffmrp-7502637",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900120251.jpg.9cc9028adf.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7526567",
         "name": "Nissin Geki Korean Kimchi Noodles 400 g",
         "brand": "Geki",
@@ -3145,25 +3161,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7519704",
-        "name": "Ponds Bright Beauty Spot-less Glow Face Wash 150 g",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 254.0,
-        "new_price": 190.0,
-        "savings": 64.0,
-        "discount_pct": 25.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ponds-bright-beauty-spot-less-glow-face-wash-150-g-mffmzo-7519704",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914400301.jpg.0c72e6c6fd.jpg",
-        "locations": [
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA",
-            "VIKARABAD",
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3215,24 +3212,6 @@
         ]
     },
     {
-        "uid": "7512706",
-        "name": "Unibic Sugar Free Oatmeal Cookies 67.5 g",
-        "brand": "unibic",
-        "category": "biscuits_cookies",
-        "old_price": 40.0,
-        "new_price": 30.0,
-        "savings": 10.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/unibic-sugar-free-oatmeal-cookies-675-g-mffmwa-7512706",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907942073.jpg.31e8d17138.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "73394495",
         "name": "Sun Crush Indian Mango 750 ml",
         "brand": "SUN CRUSH",
@@ -3262,22 +3241,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945904141.jpg.38de6b3148.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7538881",
-        "name": "Pointed Gourd 250 g",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 24.0,
-        "new_price": 18.0,
-        "savings": 6.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pointed-gourd-250-g-mffn8d-7538881",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900005091.jpg.703c758f0e.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -3458,6 +3421,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/goldiee-chicken-masala-100-g-0-20210512.jpg.80bdf1b084.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7543383",
+        "name": "Love Beauty and Planet Onion Black Seed and Patchouli Hair Conditioner 200 ml",
+        "brand": "Love Beauty And Planet",
+        "category": "hair_care",
+        "old_price": 418.0,
+        "new_price": 315.0,
+        "savings": 103.0,
+        "discount_pct": 24.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-onion-black-seed-and-patchouli-hair-conditioner-200-ml-mffnah-7543383",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988401.jpg.5379c05445.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4407,22 +4386,6 @@
         ]
     },
     {
-        "uid": "7531578",
-        "name": "VLCC Hair Fall Control Shampoo 350 ml (Buy 1 Get 1 Free)",
-        "brand": "vlcc",
-        "category": "hair_care",
-        "old_price": 399.0,
-        "new_price": 328.0,
-        "savings": 71.0,
-        "discount_pct": 17.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vlcc-hair-fall-repair-shampoo-350-ml-buy-1-get-1-free-mffn52-7531578",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/vlcc-hair-fall-repair-shampoo-350-ml-0-20210804.jpg.b698e30e26.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7542876",
         "name": "Lakme Peach Milk Soft Creme 100 g",
         "brand": "lakme",
@@ -4588,22 +4551,6 @@
         ]
     },
     {
-        "uid": "7543383",
-        "name": "Love Beauty and Planet Onion Black Seed and Patchouli Hair Conditioner 200 ml",
-        "brand": "Love Beauty And Planet",
-        "category": "hair_care",
-        "old_price": 418.0,
-        "new_price": 348.0,
-        "savings": 70.0,
-        "discount_pct": 16.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-onion-black-seed-and-patchouli-hair-conditioner-200-ml-mffnah-7543383",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988401.jpg.5379c05445.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7545944",
         "name": "Sofy Antibacterial Hygiene & Herbs Slim Sanitary Napkins (XL) 28 Pads",
         "brand": "sofy",
@@ -4747,25 +4694,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988411.jpg.f3b319b54d.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7534677",
-        "name": "Pond's Super Light Hydrated Glow Gel 200 ml",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 385.0,
-        "new_price": 325.0,
-        "savings": 60.0,
-        "discount_pct": 15.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ponds-super-light-hydrated-glow-gel-200-ml-mffn6g-7534677",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936561101.jpg.8447f1774c.jpg",
-        "locations": [
-            "INDORE",
-            "VIKARABAD",
-            "HYDERABAD_GUDIMALKAPUR",
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
