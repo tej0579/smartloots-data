@@ -119,25 +119,6 @@
         ]
     },
     {
-        "uid": "7533689",
-        "name": "McCain French Fries 420 g",
-        "brand": "mccain",
-        "category": "ice_cream_frozen",
-        "old_price": 109.0,
-        "new_price": 49.0,
-        "savings": 60.0,
-        "discount_pct": 55.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mccain-french-fries-420-g-mffn61-7533689",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900688411.jpg.21f04502ac.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7526827",
         "name": "APIS HIMALAYA HONEY 1kg JAR",
         "brand": "Apis",
@@ -740,6 +721,38 @@
             "AHMEDABAD_GHATLODIYA",
             "INDORE",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7527337",
+        "name": "Pasta Zara Penne Rigate Pasta 400 g",
+        "brand": "pasta zara",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 190.0,
+        "new_price": 99.0,
+        "savings": 91.0,
+        "discount_pct": 47.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pasta-zara-penne-rigate-pasta-400-g-mffn35-7527337",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945033921.jpg.ba6501e930.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7528833",
+        "name": "Pasta Zara Fusilli 400 g",
+        "brand": "pasta zara",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 190.0,
+        "new_price": 99.0,
+        "savings": 91.0,
+        "discount_pct": 47.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/pasta-zara-fusilli-400-g-mffn3v-7528833",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945033931.jpg.2b7a29a5b9.jpg",
+        "locations": [
+            "INDORE"
         ]
     },
     {
@@ -1378,38 +1391,6 @@
         ]
     },
     {
-        "uid": "7527337",
-        "name": "Pasta Zara Penne Rigate Pasta 400 g",
-        "brand": "pasta zara",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 190.0,
-        "new_price": 109.0,
-        "savings": 81.0,
-        "discount_pct": 42.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pasta-zara-penne-rigate-pasta-400-g-mffn35-7527337",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945033921.jpg.ba6501e930.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7528833",
-        "name": "Pasta Zara Fusilli 400 g",
-        "brand": "pasta zara",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 190.0,
-        "new_price": 109.0,
-        "savings": 81.0,
-        "discount_pct": 42.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pasta-zara-fusilli-400-g-mffn3v-7528833",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945033931.jpg.2b7a29a5b9.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7507631",
         "name": "Kurkure Yummy Cheese Puffcorn 52 g",
         "brand": "Kurkure",
@@ -1824,6 +1805,22 @@
         ]
     },
     {
+        "uid": "72824643",
+        "name": "Raw Mango 1 Piece (approx. 200 g)",
+        "brand": "reliance",
+        "category": "fresh_vegetables",
+        "old_price": 29.0,
+        "new_price": 19.0,
+        "savings": 10.0,
+        "discount_pct": 34.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/raw-mango-1-piece-approx-200-g-ml0sf7-72824643",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023901.jpg.c518c9c181.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "72035413",
         "name": "The On1y Piri Piri Cheese Mix 130 g",
         "brand": "On1y",
@@ -2025,23 +2022,6 @@
         ]
     },
     {
-        "uid": "7550920",
-        "name": "Moi Soi Popping Boba Peach Flavored Drink 330 ml",
-        "brand": "moi soi",
-        "category": "drinks_juices",
-        "old_price": 97.0,
-        "new_price": 65.0,
-        "savings": 32.0,
-        "discount_pct": 33.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/moi-soi-popping-boba-peach-flavored-drink-330-ml-mffned-7550920",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943584771.jpg.4b3a324c90.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "24115405",
         "name": "Moi Soi Popping Boba Strawberry Flavor Drink 330 ml",
         "brand": "moi soi",
@@ -2104,22 +2084,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/moi-soi-popping-boba-grape-flavored-drink-330-ml-mffn35-7527328",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943584731.jpg.ccb34429d4.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7549470",
-        "name": "Moi Soi Popping Boba Lychee Flavored Drink 330 ml",
-        "brand": "moi soi",
-        "category": "drinks_juices",
-        "old_price": 112.0,
-        "new_price": 75.0,
-        "savings": 37.0,
-        "discount_pct": 33.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/moi-soi-popping-boba-lychee-flavored-drink-330-ml-mffndt-7549470",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943584741.jpg.3a8f08f523.jpg",
         "locations": [
             "INDORE"
         ]
@@ -2235,24 +2199,6 @@
         "url": "https://store1.jiomartjcp.com/product/ponds-men-pollution-out-face-wash-100-g-mffmxo-7515674",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912297171.jpg.4739ab9718.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7514567",
-        "name": "Weikfield Macaroni Pasta 850 g",
-        "brand": "Weikfield",
-        "category": "noodles_pasta_vermicelli",
-        "old_price": 114.0,
-        "new_price": 79.0,
-        "savings": 35.0,
-        "discount_pct": 30.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/weikfield-macaroni-pasta-850-g-mffmx6-7514567",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914915731.jpg.7899702ef2.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -3083,6 +3029,24 @@
         ]
     },
     {
+        "uid": "7525790",
+        "name": "Biotique Green Apple Shine & Gloss Shampoo & Conditioner 340 ml",
+        "brand": "biotique",
+        "category": "hair_care",
+        "old_price": 337.0,
+        "new_price": 248.0,
+        "savings": 89.0,
+        "discount_pct": 26.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/biotique-green-apple-shine-gloss-shampoo-conditioner-340-ml-mffn2d-7525790",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928482581.jpg.8f047c9b1b.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "75688097",
         "name": "Act II Ready to Eat Salted & Caramel Popcorn 68 g",
         "brand": "act ii",
@@ -3760,6 +3724,22 @@
         ]
     },
     {
+        "uid": "7559776",
+        "name": "Lakme Skin Perfect Collection Peach Milk Creme Moisturiser 200 g",
+        "brand": "lakme",
+        "category": "skin_care",
+        "old_price": 367.0,
+        "new_price": 282.0,
+        "savings": 85.0,
+        "discount_pct": 23.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/lakme-peach-milk-soft-cream-200-g-mflrqj-7559776",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928480201.jpg.c8248e12df.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7511204",
         "name": "Pantene Pro-V Hair Fall Control Shampoo 340 ml",
         "brand": "Pantene",
@@ -3910,23 +3890,6 @@
         ]
     },
     {
-        "uid": "7523128",
-        "name": "Colgate Natural Strawberry Flavour Kids Toothpaste 80 g (3-5Y)",
-        "brand": "Colgate",
-        "category": "bath_hygiene_grooming",
-        "old_price": 235.0,
-        "new_price": 185.0,
-        "savings": 50.0,
-        "discount_pct": 21.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-natural-strawberry-flavour-kids-toothpaste-80-g-3-5-years-mffn13-7523128",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916317701.jpg.1531e05585.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7522653",
         "name": "Cornitos Cheese & Herbs Nacho Crisps 55 g",
         "brand": "Cornitos",
@@ -3941,22 +3904,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7522799",
-        "name": "Brooke Bond Taaza Leaf Tea 250 g",
-        "brand": "Taaza",
-        "category": "tea_coffee",
-        "old_price": 66.0,
-        "new_price": 52.0,
-        "savings": 14.0,
-        "discount_pct": 21.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/brooke-bond-taaza-leaf-tea-250-g-mffn0y-7522799",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900050041.jpg.ad0aebbe12.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -4058,6 +4005,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946077471.jpg.158dc5d109.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "87530336",
+        "name": "Easy Life Yellow Duster 38 x 43 cm (Pack of 6)",
+        "brand": "EASYLIFE",
+        "category": "home_cleaning_tools",
+        "old_price": 19.0,
+        "new_price": 15.0,
+        "savings": 4.0,
+        "discount_pct": 21.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/easy-life-yellow-duster-38-x-43-cm-pack-of-6-mowx9c-87530336",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004921660891.jpg.a7fa970b26.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4260,22 +4223,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/kerala-sandal-premium-soap-125-g-mffnav-7544288",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936611451.jpg.3e43407083.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "74947657",
-        "name": "Colgate PerioGard Gum Expert Ultra Soft Toothbrush (2 Pcs)",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 330.0,
-        "new_price": 264.0,
-        "savings": 66.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-periogard-gum-expert-ultra-soft-toothbrush-2-pcs-mmt3rq-74947657",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947509241.jpg.46e819ec48.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -4641,6 +4588,22 @@
         ]
     },
     {
+        "uid": "7543383",
+        "name": "Love Beauty and Planet Onion Black Seed and Patchouli Hair Conditioner 200 ml",
+        "brand": "Love Beauty And Planet",
+        "category": "hair_care",
+        "old_price": 418.0,
+        "new_price": 348.0,
+        "savings": 70.0,
+        "discount_pct": 16.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-onion-black-seed-and-patchouli-hair-conditioner-200-ml-mffnah-7543383",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988401.jpg.5379c05445.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7545944",
         "name": "Sofy Antibacterial Hygiene & Herbs Slim Sanitary Napkins (XL) 28 Pads",
         "brand": "sofy",
@@ -4707,6 +4670,22 @@
         ]
     },
     {
+        "uid": "7550440",
+        "name": "Love Beauty and Planet Argan Oil and Lavender hair Conditioner 200 ml",
+        "brand": "Love Beauty And Planet",
+        "category": "hair_care",
+        "old_price": 437.0,
+        "new_price": 368.0,
+        "savings": 69.0,
+        "discount_pct": 15.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-argan-oil-and-lavender-hair-conditioner-200-ml-mffne7-7550440",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988421.jpg.91c69138ee.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7551680",
         "name": "Maruti Classic Bold Premium Makhana 250 g",
         "brand": "MARUTI",
@@ -4736,6 +4715,38 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936804631.jpg.bc9ef2778c.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7550471",
+        "name": "Love Beauty And Planet Hair Fall Control Shampoo 200 ml",
+        "brand": "Love Beauty And Planet",
+        "category": "hair_care",
+        "old_price": 356.0,
+        "new_price": 300.0,
+        "savings": 56.0,
+        "discount_pct": 15.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-hair-fall-control-shampoo-200-ml-mffne7-7550471",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988391.jpg.bebe696097.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7551364",
+        "name": "Love Beauty And Planet Argan Oil & Lavender Shampoo 200 ml",
+        "brand": "Love Beauty And Planet",
+        "category": "hair_care",
+        "old_price": 356.0,
+        "new_price": 300.0,
+        "savings": 56.0,
+        "discount_pct": 15.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/love-beauty-and-planet-argan-oil-lavender-shampoo-200-ml-mffnek-7551364",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936988411.jpg.f3b319b54d.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4787,22 +4798,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916148721.jpg.e093f0dbea.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7559776",
-        "name": "Lakme Skin Perfect Collection Peach Milk Creme Moisturiser 200 g",
-        "brand": "lakme",
-        "category": "skin_care",
-        "old_price": 367.0,
-        "new_price": 312.0,
-        "savings": 55.0,
-        "discount_pct": 15.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-peach-milk-soft-cream-200-g-mflrqj-7559776",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928480201.jpg.c8248e12df.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
