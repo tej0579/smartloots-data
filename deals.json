@@ -589,6 +589,22 @@
         ]
     },
     {
+        "uid": "89085239",
+        "name": "Mr Bakewell Lachha Paratha 400 g",
+        "brand": "Mr Bakewell",
+        "category": "ice_cream_frozen",
+        "old_price": 90.0,
+        "new_price": 45.0,
+        "savings": 45.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mr-bakewell-lachha-paratha-400-g-mp6rp7-89085239",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947754751.jpg.87ab3f0969.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7514036",
         "name": "Pond's Bright Beauty Light Cream 1% Niacinamide Body Lotion 400 ml",
         "brand": "Pond's",
@@ -1066,6 +1082,24 @@
         ]
     },
     {
+        "uid": "7509595",
+        "name": "Act II RTE Sour Cream Cheese Popcorn 50 g",
+        "brand": "act ii",
+        "category": "chips_namkeens",
+        "old_price": 38.0,
+        "new_price": 20.0,
+        "savings": 18.0,
+        "discount_pct": 47.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/act-ii-rte-sour-cream-cheese-popcorn-50-g-mffmuu-7509595",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942448611.jpg.4fa064b9c7.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7551851",
         "name": "Keya Italiano Tradizionale Spirali Fusilli Pasta 1 kg",
         "brand": "Keya",
@@ -1346,6 +1380,24 @@
         "url": "https://store1.jiomartjcp.com/product/wai-wai-oriental-hakka-veg-noodles-140-g-mffn1d-7523703",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908189621.jpg.4c2d4a7163.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7520627",
+        "name": "Sunfeast Dark Fantasy Chocolate Creme Biscuit 237 g",
+        "brand": "sunfeast",
+        "category": "biscuits_cookies",
+        "old_price": 92.0,
+        "new_price": 49.0,
+        "savings": 43.0,
+        "discount_pct": 46.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sunfeast-dark-fantasy-creme-made-with-real-chocolate-249-g-mffmzy-7520627",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4936348391.jpg.a49831cf66.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
@@ -2011,38 +2063,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7516738",
-        "name": "Pampers Premium Care Pants Large 44 pcs (9 - 14 kg)",
-        "brand": "pampers",
-        "category": "diapers_wipes",
-        "old_price": 1086.0,
-        "new_price": 699.0,
-        "savings": 387.0,
-        "discount_pct": 35.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-large-44-pcs-9-14-kg-mffmy6-7516738",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914338491.jpg.513df946a0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7525822",
-        "name": "Pampers Premium Care Pants (XL) 36 count (12 - 17 kg)",
-        "brand": "pampers",
-        "category": "diapers_wipes",
-        "old_price": 1086.0,
-        "new_price": 699.0,
-        "savings": 387.0,
-        "discount_pct": 35.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-xl-36-count-12-17-kg-mffn2d-7525822",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914338551.jpg.ea27b1a63f.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3416,22 +3436,6 @@
         ]
     },
     {
-        "uid": "7534506",
-        "name": "Pampers Premium Care Pants Medium 54 pcs (7 - 12 kg)",
-        "brand": "pampers",
-        "category": "diapers_wipes",
-        "old_price": 899.0,
-        "new_price": 649.0,
-        "savings": 250.0,
-        "discount_pct": 27.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pampers-premium-care-pants-medium-54-pcs-7-12-kg-mffn6e-7534506",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4914338571.jpg.ba45317a78.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7529473",
         "name": "Aashirvaad Chaat Masala 100 g",
         "brand": "aashirvaad",
@@ -3588,6 +3592,22 @@
         ]
     },
     {
+        "uid": "7533222",
+        "name": "Mango Langda 1 kg",
+        "brand": "Private Label",
+        "category": "fresh_fruits",
+        "old_price": 149.0,
+        "new_price": 109.0,
+        "savings": 40.0,
+        "discount_pct": 26.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mango-langda-1-kg-mffn5t-7533222",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900006101.jpg.219160af5a.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7534242",
         "name": "Jabsons Sesame/Til Gud Laddu 210 g",
         "brand": "Jabsons",
@@ -3721,24 +3741,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938401701.jpg.8b28eee602.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7509595",
-        "name": "Act II RTE Sour Cream Cheese Popcorn 50 g",
-        "brand": "act ii",
-        "category": "chips_namkeens",
-        "old_price": 38.0,
-        "new_price": 28.0,
-        "savings": 10.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/act-ii-rte-sour-cream-cheese-popcorn-50-g-mffmuu-7509595",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942448611.jpg.4fa064b9c7.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -4861,22 +4863,6 @@
         ]
     },
     {
-        "uid": "7551572",
-        "name": "Vatika Health Heena & Amla Shampoo by Dabur 340 ml",
-        "brand": "Vatika",
-        "category": "hair_care",
-        "old_price": 160.0,
-        "new_price": 127.0,
-        "savings": 33.0,
-        "discount_pct": 20.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vatika-health-heena-amla-shampoo-by-dabur-340-ml-mffneo-7551572",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/61-ygyutlql.sl1500.jpg.25f5e7fe47.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7550666",
         "name": "Dabur Gulabari White Rose Glow Soap 150 g (Pack of 3)",
         "brand": "Dabur",
@@ -4993,22 +4979,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/vip-supreme-men-s-sleeveless-cotton-vest-90-cm-white-pack-of-3-mnwsls-78759885",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000004203981790011.jpg.35fc829ac0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7533222",
-        "name": "Mango Langda 1 kg",
-        "brand": "Private Label",
-        "category": "fresh_fruits",
-        "old_price": 149.0,
-        "new_price": 119.0,
-        "savings": 30.0,
-        "discount_pct": 20.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mango-langda-1-kg-mffn5t-7533222",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900006101.jpg.219160af5a.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -5238,6 +5208,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4915693361.jpg.72c3f85090.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7502475",
+        "name": "Good Life Phool Makhana 250 g",
+        "brand": "Good Life",
+        "category": "dry_fruits_nuts",
+        "old_price": 365.0,
+        "new_price": 299.0,
+        "savings": 66.0,
+        "discount_pct": 18.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-phool-makhana-250-g-mffmrm-7502475",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-phool-makhana-250-g-0-20211028.jpg.ab69704409.jpg",
+        "locations": [
+            "INDORE"
         ]
     },
     {
@@ -5998,22 +5984,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913899661.jpg.a0e57ec728.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7558257",
-        "name": "MamyPoko Pants All Night Absorb Diapers L, Pack of 78 (9-14 kg)",
-        "brand": "mamypoko",
-        "category": "diapers_wipes",
-        "old_price": 879.0,
-        "new_price": 810.0,
-        "savings": 69.0,
-        "discount_pct": 7.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamypoko-pants-all-night-absorb-diapers-l-pack-of-78-9-14-kg-mfgtyz-7558257",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946092991.jpg.223168f5e4.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
