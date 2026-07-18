@@ -72,9 +72,9 @@
         "brand": "Ocean",
         "category": "drinks_juices",
         "old_price": 209.0,
-        "new_price": 60.0,
-        "savings": 149.0,
-        "discount_pct": 71.3,
+        "new_price": 49.0,
+        "savings": 160.0,
+        "discount_pct": 76.6,
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/ocean-pink-guava-flavoured-fruit-drink-500-ml-mffmzx-7520590",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912644541.jpg.7f530b96d9.jpg",
@@ -95,22 +95,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/noble-pure-premium-ragi-pani-puri-snack-pellets-500-g-mn8ucu-75681655",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947412721.jpg.37bbe5a5ad.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7528870",
-        "name": "Dried Blueberry 100 g",
-        "brand": "Private Label",
-        "category": "dry_fruits_nuts",
-        "old_price": 399.0,
-        "new_price": 169.0,
-        "savings": 230.0,
-        "discount_pct": 57.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dried-blueberry-100-g-mffn3v-7528870",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944087541.jpg.71e6a98ed7.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
@@ -652,23 +636,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947754751.jpg.87ab3f0969.jpg",
         "locations": [
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7514036",
-        "name": "Pond's Bright Beauty Light Cream 1% Niacinamide Body Lotion 400 ml",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 517.0,
-        "new_price": 262.0,
-        "savings": 255.0,
-        "discount_pct": 49.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ponds-bright-beauty-light-cream-1-niacinamide-body-lotion-400-ml-mffmwx-7514036",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938403691.jpg.07523c3892.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
         ]
     },
     {
@@ -1684,6 +1651,22 @@
         ]
     },
     {
+        "uid": "7521194",
+        "name": "Prestige Clean Home Blue ABS Plastic Magic Mop with 2 Refill Mop Heads and Twin Buckets 7 L",
+        "brand": "Prestige",
+        "category": "home_cleaning_tools",
+        "old_price": 2465.0,
+        "new_price": 1399.0,
+        "savings": 1066.0,
+        "discount_pct": 43.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/prestige-clean-home-blue-abs-plastic-magic-mop-with-2-refill-mop-heads-and-twin-buckets-7-l-mffn07-7521194",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926483911.jpg.4abe2603c0.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7530694",
         "name": "Tata Grand Classic Coffee 100 g",
         "brand": "TATA GRAND",
@@ -1862,22 +1845,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947645111.jpg.f093a6633e.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7549626",
-        "name": "Turkish Dried Apricots 200 g",
-        "brand": "Private Label",
-        "category": "dry_fruits_nuts",
-        "old_price": 449.0,
-        "new_price": 269.0,
-        "savings": 180.0,
-        "discount_pct": 40.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/turkish-dried-apricots-200-g-mffndv-7549626",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944087501.jpg.2bca3654c5.jpg",
-        "locations": [
-            "VIKARABAD"
         ]
     },
     {
@@ -2886,6 +2853,23 @@
         ]
     },
     {
+        "uid": "7505376",
+        "name": "Nissin Geki Korean Veg Noodles 80 g",
+        "brand": "Nissin",
+        "category": "noodles_pasta_vermicelli",
+        "old_price": 45.0,
+        "new_price": 31.0,
+        "savings": 14.0,
+        "discount_pct": 31.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nissin-geki-hot-spicy-korean-veg-flavour-noodles-80-g-mffmst-7505376",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/whatsappimage2025-12-16at1.03.24pm.jpg.c13a12426b.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7514973",
         "name": "Lifebuoy Lemon Fresh Soap 125 g (Buy 5 Get 2 Free)",
         "brand": "lifebuoy",
@@ -3370,23 +3354,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945900241.jpg.34a6a7ef16.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7504176",
-        "name": "Denver Hamilton Caliber Deodorant Body Spray 180 ml",
-        "brand": "Denver",
-        "category": "deo_fragrances",
-        "old_price": 210.0,
-        "new_price": 149.0,
-        "savings": 61.0,
-        "discount_pct": 29.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/denver-hamilton-caliber-deodorant-body-spray-200-ml-mffmse-7504176",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915988961.jpg.9c5d4fc98e.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
         ]
     },
     {
@@ -4401,22 +4368,6 @@
         ]
     },
     {
-        "uid": "35893250",
-        "name": "Best Farms Kala Chana 1 kg",
-        "brand": "Best Farms",
-        "category": "dals_pulses",
-        "old_price": 146.0,
-        "new_price": 111.0,
-        "savings": 35.0,
-        "discount_pct": 24.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/best-farms-kala-chana-1-kg-miyq1k-35893250",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944087241.jpg.fc4bccd41c.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "78162332",
         "name": "Cipla ORS Nimbupani 200 ml",
         "brand": "Cipla",
@@ -5344,6 +5295,23 @@
         "url": "https://store1.jiomartjcp.com/product/curry-leaves-1-bunch-approx-20-g-100-g-mffmvm-7511263",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900001171.jpg.09f37d68a8.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7514036",
+        "name": "Pond's Bright Beauty Light Cream 1% Niacinamide Body Lotion 400 ml",
+        "brand": "Pond's",
+        "category": "skin_care",
+        "old_price": 282.0,
+        "new_price": 226.0,
+        "savings": 56.0,
+        "discount_pct": 19.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/ponds-bright-beauty-light-cream-1-niacinamide-body-lotion-400-ml-mffmwx-7514036",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004938403691.jpg.07523c3892.jpg",
+        "locations": [
+            "INDORE",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
