@@ -168,6 +168,22 @@
         ]
     },
     {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 34.0,
+        "new_price": 14.0,
+        "savings": 20.0,
+        "discount_pct": 58.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7511188",
         "name": "MTR 3 Minute Breakfast Seviyan Upma Mix 160 g",
         "brand": "MTR",
@@ -1556,6 +1572,24 @@
         ]
     },
     {
+        "uid": "7586526",
+        "name": "Elle 18 Eye Drama Bold Black Kajal 0.35 g",
+        "brand": "ELLE 18",
+        "category": "eyes",
+        "old_price": 90.0,
+        "new_price": 49.0,
+        "savings": 41.0,
+        "discount_pct": 45.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/elle-18-eye-drama-bold-black-kajal-035-g-mfpi4s-7586526",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913367441.jpg.a991437d7c.jpg",
+        "locations": [
+            "INDORE",
+            "VIKARABAD",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "109158796",
         "name": "Unibic Swaadesi Bakery Wala Kaju Biskut 200 g",
         "brand": "unibic",
@@ -1651,23 +1685,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7543145",
-        "name": "iD Just Heat Wheat Parota 400 g (5 pcs)",
-        "brand": "Id",
-        "category": "ice_cream_frozen",
-        "old_price": 87.0,
-        "new_price": 49.0,
-        "savings": 38.0,
-        "discount_pct": 43.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/id-just-heat-wheat-parota-400-g-5-pcs-mffnad-7543145",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004905292101.jpg.f5e5b7642b.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -2346,8 +2363,9 @@
         "url": "https://store1.jiomartjcp.com/product/whisper-choice-ultra-sanitary-napkin-with-wings-xl-20-pads-mffmyc-7517083",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913381991.jpg.39fb36d00f.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
+            "VIKARABAD",
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2791,24 +2809,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900116581.jpg.0443d6bd21.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7550681",
-        "name": "Sunfeast Dark Fantasy Bourbon Biscuit 450 g (90 g x 5 pcs)",
-        "brand": "sunfeast",
-        "category": "biscuits_cookies",
-        "old_price": 71.0,
-        "new_price": 49.0,
-        "savings": 22.0,
-        "discount_pct": 31.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sunfeast-dark-fantasy-bourbon-biscuit-465-g-93-g-x-5-pcs-mffnea-7550681",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943163871.jpg.5addef689a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -4504,6 +4504,24 @@
         ]
     },
     {
+        "uid": "7512183",
+        "name": "Rexona Coconut & Olive Oil Soap Bar 150 g (Pack of 3)",
+        "brand": "Rexona",
+        "category": "bath_hand_wash",
+        "old_price": 246.0,
+        "new_price": 188.0,
+        "savings": 58.0,
+        "discount_pct": 23.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/rexona-coconut-olive-oil-soap-bar-150-g-pack-of-3-mffmw1-7512183",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919390421.jpg.3ce78efcf2.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "31047585",
         "name": "Goldiee Kasuri Methi 50 g",
         "brand": "Goldiee",
@@ -4553,24 +4571,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7586526",
-        "name": "Elle 18 Eye Drama Bold Black Kajal 0.35 g",
-        "brand": "ELLE 18",
-        "category": "eyes",
-        "old_price": 90.0,
-        "new_price": 69.0,
-        "savings": 21.0,
-        "discount_pct": 23.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/elle-18-eye-drama-bold-black-kajal-035-g-mfpi4s-7586526",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913367441.jpg.a991437d7c.jpg",
-        "locations": [
-            "INDORE",
-            "VIKARABAD",
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -4852,6 +4852,22 @@
         ]
     },
     {
+        "uid": "7538716",
+        "name": "Tata Agni Tea 250 g",
+        "brand": "Tata Agni",
+        "category": "tea_coffee",
+        "old_price": 66.0,
+        "new_price": 52.0,
+        "savings": 14.0,
+        "discount_pct": 21.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tata-agni-tea-250-g-mffn8a-7538716",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900041791.jpg.4c1889db20.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7501407",
         "name": "Cadbury Gems Surprise Ball with Toy 14.69  g",
         "brand": "cadbury",
@@ -5129,22 +5145,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 34.0,
-        "new_price": 27.0,
-        "savings": 7.0,
-        "discount_pct": 20.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -5514,6 +5514,22 @@
         ]
     },
     {
+        "uid": "69496275",
+        "name": "Mamaearth Rice Dewy Bright Face Wash 200 ml",
+        "brand": "mamaearth",
+        "category": "skin_care",
+        "old_price": 269.0,
+        "new_price": 219.0,
+        "savings": 50.0,
+        "discount_pct": 18.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamaearth-rice-dewy-bright-face-wash-200-ml-mjs8v0-69496275",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947511611.jpg.3464ef0e65.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7567792",
         "name": "Tata Grand Filter Coffee Powder 500 g",
         "brand": "TATA GRAND",
@@ -5578,24 +5594,6 @@
         ]
     },
     {
-        "uid": "7512183",
-        "name": "Rexona Coconut & Olive Oil Soap Bar 150 g (Pack of 3)",
-        "brand": "Rexona",
-        "category": "bath_hand_wash",
-        "old_price": 246.0,
-        "new_price": 204.0,
-        "savings": 42.0,
-        "discount_pct": 17.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/rexona-coconut-olive-oil-soap-bar-150-g-pack-of-3-mffmw1-7512183",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919390421.jpg.3ce78efcf2.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7510215",
         "name": "Pomegranate Economy 6 pcs (Pack)",
         "brand": "reliance",
@@ -5610,6 +5608,22 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7505930",
+        "name": "Himalaya Gentle Baby Wash 400 ml",
+        "brand": "himalaya",
+        "category": "bath_hygiene_grooming",
+        "old_price": 292.0,
+        "new_price": 242.0,
+        "savings": 50.0,
+        "discount_pct": 17.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-gentle-baby-wash-400-ml-mffmt2-7505930",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-gentle-baby-wash-400-ml-0-20210909.jpg.ef63c88473.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -5675,8 +5689,8 @@
         "url": "https://store1.jiomartjcp.com/product/loreal-paris-total-repair-5-advanced-hair-conditioner-180-ml-mffnav-7544287",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004906424111.jpg.562eefb4ad.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -6026,6 +6040,22 @@
         ]
     },
     {
+        "uid": "7506105",
+        "name": "Nivea Frangipani & Oil Shower Gel 500 ml",
+        "brand": "nivea",
+        "category": "bath_hand_wash",
+        "old_price": 449.0,
+        "new_price": 399.0,
+        "savings": 50.0,
+        "discount_pct": 11.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nivea-frangipani-oil-shower-gel-500-ml-mffmt5-7506105",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916945591.jpg.398a13fc21.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "17441894",
         "name": "Whisper Period Pants L-XL 12 N",
         "brand": "whisper",
@@ -6057,6 +6087,23 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7540975",
+        "name": "Dove Nutritive Solutions Intense Repair Shampoo 650 ml",
+        "brand": "dove",
+        "category": "hair_care",
+        "old_price": 541.0,
+        "new_price": 483.0,
+        "savings": 58.0,
+        "discount_pct": 10.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dove-nutritive-solutions-intense-repair-shampoo-650-ml-mffn9e-7540975",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290281.jpg.2b9b582382.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -6305,23 +6352,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912032351.jpg.f92c7d291b.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7511103",
-        "name": "Good Life Daily Rice 26 kg",
-        "brand": "Good Life",
-        "category": "rice",
-        "old_price": 1399.0,
-        "new_price": 1349.0,
-        "savings": 50.0,
-        "discount_pct": 3.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/good-life-daily-rice-26-kg-mffmvj-7511103",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942604491.jpg.e03d8d15d7.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     }
 ]
