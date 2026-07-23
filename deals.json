@@ -167,22 +167,6 @@
         ]
     },
     {
-        "uid": "78140740",
-        "name": "Aashirvaad Malabar Paratha (Heat & Eat) 330 g (6 pcs)",
-        "brand": "aashirvaad",
-        "category": "ice_cream_frozen",
-        "old_price": 109.0,
-        "new_price": 49.0,
-        "savings": 60.0,
-        "discount_pct": 55.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/aashirvaad-malabar-paratha-heat-eat-330-g-6-pcs-mnomy0-78140740",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4936926951.jpg.c5c7318c29.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7526827",
         "name": "APIS HIMALAYA HONEY 1kg JAR",
         "brand": "Apis",
@@ -2405,7 +2389,8 @@
         "url": "https://store1.jiomartjcp.com/product/eastern-turmeric-powder-250-g-mffmuf-7508736",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900721361.jpg.3d9fa3f836.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
@@ -3309,22 +3294,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7537197",
-        "name": "French Beans 250 g",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 25.0,
-        "new_price": 18.0,
-        "savings": 7.0,
-        "discount_pct": 28.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/french-beans-250-g-mffn7m-7537197",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900001571.jpg.d9767c98b0.jpg",
-        "locations": [
             "VIKARABAD"
         ]
     },
