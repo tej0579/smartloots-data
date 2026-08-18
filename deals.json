@@ -1,21 +1,5 @@
 [
     {
-        "uid": "7521975",
-        "name": "Gulab Peanuts 200 g",
-        "brand": "Gulab",
-        "category": "dals_pulses",
-        "old_price": 52.0,
-        "new_price": 5.0,
-        "savings": 47.0,
-        "discount_pct": 90.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/gulab-peanuts-200-g-mffn0k-7521975",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004903981111.jpg.05d113d8e6.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "24050441",
         "name": "Kwality Walls Magnum Almonds Ice Cream 62 g",
         "brand": "KWALITY WALLS",
@@ -2939,6 +2923,22 @@
         ]
     },
     {
+        "uid": "7530248",
+        "name": "Best Farms Premium Raisins 500 g",
+        "brand": "Best Farms",
+        "category": "dry_fruits_nuts",
+        "old_price": 495.0,
+        "new_price": 269.0,
+        "savings": 226.0,
+        "discount_pct": 45.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/best-farms-premium-raisins-500-g-mffn4h-7530248",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944086421.jpg.d95a683137.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "109158796",
         "name": "Unibic Swaadesi Bakery Wala Kaju Biskut 200 g",
         "brand": "unibic",
@@ -4309,22 +4309,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/25729engageredient-glowwoman010925fop.png.ea45c893d8.png",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7530248",
-        "name": "Best Farms Premium Raisins 500 g",
-        "brand": "Best Farms",
-        "category": "dry_fruits_nuts",
-        "old_price": 495.0,
-        "new_price": 309.0,
-        "savings": 186.0,
-        "discount_pct": 37.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/best-farms-premium-raisins-500-g-mffn4h-7530248",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944086421.jpg.d95a683137.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -10471,25 +10455,6 @@
         ]
     },
     {
-        "uid": "31044627",
-        "name": "Nature's Choice Mixed Dry Fruits 400 g",
-        "brand": "Nature's Choice",
-        "category": "dry_fruits_nuts",
-        "old_price": 259.0,
-        "new_price": 199.0,
-        "savings": 60.0,
-        "discount_pct": 23.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/natures-choice-mixed-dry-fruits-400-g-milcju-31044627",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928646161.jpg.9642614810.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7504430",
         "name": "Good Life Yellow / Pili Sarso Mustard Seeds 200 g",
         "brand": "Good Life",
@@ -12210,22 +12175,6 @@
         ]
     },
     {
-        "uid": "7534385",
-        "name": "Belpatra (Pack)",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 19.0,
-        "new_price": 15.0,
-        "savings": 4.0,
-        "discount_pct": 21.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/belpatra-pack-mffn6c-7534385",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900043511.jpg.dc87c4bff5.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7586526",
         "name": "Elle 18 Eye Drama Bold Black Kajal 0.35 g",
         "brand": "ELLE 18",
@@ -12429,6 +12378,22 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7509107",
+        "name": "Home One Paper Napkins (22 x 22 cms) 100 pcs",
+        "brand": "home one",
+        "category": "tissues_napkins",
+        "old_price": 29.0,
+        "new_price": 23.0,
+        "savings": 6.0,
+        "discount_pct": 20.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/home-one-paper-napkins-22-x-22-cms-100-pcs-mffmum-7509107",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919631931.jpg.ca887581b1.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -12648,22 +12613,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7539513",
-        "name": "MamyPoko Extra Absorb Pants (L) 54 count (9 - 14 kg)",
-        "brand": "mamypoko",
-        "category": "diapers_wipes",
-        "old_price": 903.0,
-        "new_price": 720.0,
-        "savings": 183.0,
-        "discount_pct": 20.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamypoko-extra-absorb-pants-l-54-count-9-14-kg-mffn8o-7539513",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4915693361.jpg.72c3f85090.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -13130,6 +13079,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945901321.jpg.bf718a6ac0.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7533346",
+        "name": "Coriander Bunch (Approx 100 g - 150 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 10.0,
+        "new_price": 8.0,
+        "savings": 2.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/coriander-bunch-approx-50-g-150-g-mffn5v-7533346",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900005281.jpg.f5ada678f6.jpg",
+        "locations": [
+            "INDORE"
         ]
     },
     {
@@ -14901,6 +14866,23 @@
         ]
     },
     {
+        "uid": "24066766",
+        "name": "Good Life W240 Cashew 400 g",
+        "brand": "Good Life",
+        "category": "dry_fruits_nuts",
+        "old_price": 449.0,
+        "new_price": 399.0,
+        "savings": 50.0,
+        "discount_pct": 11.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-w240-cashew-400-g-mieey0-24066766",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926631331.jpg.67c4ed400b.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7512997",
         "name": "Lotus Herbals Safe Sun SPF 50 PA+++ UV Screen Matte Gel 100 g",
         "brand": "lotus",
@@ -15030,6 +15012,23 @@
         "url": "https://store1.jiomartjcp.com/product/chicco-sensitive-fresh-spring-baby-laundry-detergent-1-l-mffna8-7542779",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924109551.jpg.015172df16.jpg",
         "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "31045633",
+        "name": "Good Life Magaz Seeds 500 g",
+        "brand": "Good Life",
+        "category": "dry_fruits_nuts",
+        "old_price": 445.0,
+        "new_price": 399.0,
+        "savings": 46.0,
+        "discount_pct": 10.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-magaz-seeds-500-g-milck6-31045633",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-magaz-seeds-500-g-0-20211202.jpg.bd128edddd.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -15376,22 +15375,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926631381.jpg.65febff679.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7507920",
-        "name": "Ankur Filtered Groundnut Oil 4.35 kg",
-        "brand": "ankur",
-        "category": "edible_oils",
-        "old_price": 938.0,
-        "new_price": 882.0,
-        "savings": 56.0,
-        "discount_pct": 6.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ankur-filtered-groundnut-oil-435-kg-mffmu0-7507920",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900225081.jpg.364df3bcfa.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
