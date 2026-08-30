@@ -285,22 +285,6 @@
         ]
     },
     {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 38.0,
-        "new_price": 14.0,
-        "savings": 24.0,
-        "discount_pct": 63.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "24070535",
         "name": "Havmor Lotte Cone Double Belgium Chocolate Ice Cream 150 ml",
         "brand": "HAVMOR",
@@ -7656,22 +7640,6 @@
         ]
     },
     {
-        "uid": "69364624",
-        "name": "Bitter Gourd Green 250 g",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 19.0,
-        "new_price": 14.0,
-        "savings": 5.0,
-        "discount_pct": 26.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bitter-gourd-green-250-g-mjr1sh-69364624",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900142401.jpg.7bf864cceb.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7524307",
         "name": "Parachute Advansed Aloe Vera Enriched Coconut Hair Oil 250 ml",
         "brand": "parachute",
@@ -7855,6 +7823,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/whitetone-soft-smooth-hydrating-sun-protection-face-cream-50-g-mffn6o-7535160",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916530641.jpg.b469534bb9.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7528555",
+        "name": "Green Capsicum 500 g",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 39.0,
+        "new_price": 29.0,
+        "savings": 10.0,
+        "discount_pct": 25.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/green-capsicum-500-g-mffn3q-7528555",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900001431.jpg.3c0a9aca4e.jpg",
         "locations": [
             "INDORE"
         ]
@@ -8621,22 +8605,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946263701.jpg.a0844eca2d.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7542876",
-        "name": "Lakme Peach Milk Soft Creme 100 g",
-        "brand": "lakme",
-        "category": "skin_care",
-        "old_price": 285.0,
-        "new_price": 215.0,
-        "savings": 70.0,
-        "discount_pct": 24.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-peach-milk-soft-creme-100-g-mffna9-7542876",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928480211.jpg.91a8717db5.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -9419,6 +9387,23 @@
         "url": "https://store1.jiomartjcp.com/product/organic-tattva-chitra-rajma-500-g-mffn5h-7532502",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912284181.jpg.37f978b2ff.jpg",
         "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 39.0,
+        "new_price": 30.0,
+        "savings": 9.0,
+        "discount_pct": 23.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
