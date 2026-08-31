@@ -285,6 +285,23 @@
         ]
     },
     {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 39.0,
+        "new_price": 14.0,
+        "savings": 25.0,
+        "discount_pct": 64.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "24070535",
         "name": "Havmor Lotte Cone Double Belgium Chocolate Ice Cream 150 ml",
         "brand": "HAVMOR",
@@ -1743,54 +1760,6 @@
         ]
     },
     {
-        "uid": "7550402",
-        "name": "Lakme Forever Faceit Matte Pearl Even Toned Compact Powder 9 g",
-        "brand": "lakme",
-        "category": "face",
-        "old_price": 255.0,
-        "new_price": 134.0,
-        "savings": 121.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-forever-faceit-matte-pearl-even-toned-compact-powder-9-g-mffne6-7550402",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924020343.jpg.b296d9b0f8.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7550019",
-        "name": "Lakme Forever Faceit Matte Shell Even Toned Compact Powder 9 g",
-        "brand": "lakme",
-        "category": "face",
-        "old_price": 255.0,
-        "new_price": 134.0,
-        "savings": 121.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-forever-faceit-matte-shell-even-toned-compact-powder-9-g-mffne1-7550019",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4924020351.jpg.d1060ac242.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7543411",
-        "name": "Lakme Forever Faceit Matte Marble Even Toned Compact Powder 9 g",
-        "brand": "lakme",
-        "category": "face",
-        "old_price": 255.0,
-        "new_price": 134.0,
-        "savings": 121.0,
-        "discount_pct": 47.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-forever-faceit-matte-marble-even-toned-compact-powder-9-g-mffnai-7543411",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4924020332.jpg.30e1e833b4.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7500057",
         "name": "Nivea Dryskin Cocoa Nourish Body Lotion 400 ml",
         "brand": "nivea",
@@ -2196,38 +2165,6 @@
         ]
     },
     {
-        "uid": "7584843",
-        "name": "Lakme Rose Powder with Sunscreen, Soft Pink 40 g",
-        "brand": "lakme",
-        "category": "face",
-        "old_price": 232.0,
-        "new_price": 122.0,
-        "savings": 110.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-rose-powder-with-sunscreen-soft-pink-40-g-mfpi40-7584843",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/lakme-rose-powder-with-sunscreen-soft-pink-40-g-0-20210225.jpg.9bd75c1f8d.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7614262",
-        "name": "Lakme Perfecting Liquid Foundation, Marble 27 ml",
-        "brand": "lakme",
-        "category": "face",
-        "old_price": 247.0,
-        "new_price": 130.0,
-        "savings": 117.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-perfecting-liquid-foundation-marble-27-ml-mfpihk-7614262",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900556571.jpg.fb5aae1774.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "75682202",
         "name": "Real Active Coconut Water 1 L",
         "brand": "Real Activ",
@@ -2342,22 +2279,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925911611.jpg.297832faac.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7521004",
-        "name": "Clinic Plus Strong & Long Health Shampoo 355 ml",
-        "brand": "clinic plus",
-        "category": "hair_care",
-        "old_price": 332.0,
-        "new_price": 175.0,
-        "savings": 157.0,
-        "discount_pct": 47.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-355-ml-mo7cks",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900023801.jpg.7669f77cab.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -3264,22 +3185,6 @@
         ]
     },
     {
-        "uid": "7503002",
-        "name": "Cowpea Beans 250 g",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 28.0,
-        "new_price": 16.0,
-        "savings": 12.0,
-        "discount_pct": 42.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cowpea-beans-250-g-mffmrw-7503002",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900001561.jpg.754f83af6f.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7598550",
         "name": "Ramson Stainless Steel Serving Basting Spoon (No. 3)",
         "brand": "RAMSON",
@@ -3532,24 +3437,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7531851",
-        "name": "Lakme Eyeconic Kajal Twin, Deep Black 0.35 g (Pack of 2)",
-        "brand": "lakme",
-        "category": "eyes",
-        "old_price": 382.0,
-        "new_price": 225.0,
-        "savings": 157.0,
-        "discount_pct": 41.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/lakme-eyeconic-kajal-twin-deep-black-035-g-pack-of-2-mffn57-7531851",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914504211.jpg.b311c43410.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -4154,22 +4041,6 @@
         ]
     },
     {
-        "uid": "103458432",
-        "name": "Livesmart 23 inch Straight Ultrasoft Semi-Automatic Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 699.0,
-        "new_price": 449.0,
-        "savings": 250.0,
-        "discount_pct": 35.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-23-inch-straight-ultrasoft-semi-automatic-umbrella-mpl2ih-103458432",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369061.jpg.2d342bb655.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7541798",
         "name": "Home One Stainless Steel Flower Basting Spoon 6.2x2.4 cm",
         "brand": "home one",
@@ -4454,25 +4325,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7507136",
-        "name": "Too Yumm Bhoot Chips 79 g",
-        "brand": "Too Yumm",
-        "category": "chips_namkeens",
-        "old_price": 41.0,
-        "new_price": 27.0,
-        "savings": 14.0,
-        "discount_pct": 34.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/too-yumm-bhoot-chips-82-g-mffmtm-7507136",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/11.png.479603b033.png",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -5332,22 +5184,6 @@
         ]
     },
     {
-        "uid": "7500285",
-        "name": "Nivea Shea Smooth Body Lotion 600 ml",
-        "brand": "nivea",
-        "category": "skin_care",
-        "old_price": 743.0,
-        "new_price": 510.0,
-        "savings": 233.0,
-        "discount_pct": 31.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-shea-smooth-body-lotion-600-ml-mffi22-7500285",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923927221.jpg.2936c25cea.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7511258",
         "name": "Kamasutra Spark Deodorant Spray for Men 220 ml",
         "brand": "Kamasutra",
@@ -5715,54 +5551,6 @@
         ]
     },
     {
-        "uid": "101394221",
-        "name": "Livesmart Assorted Semi Automatic Straight Womens Umbrella 23 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 499.0,
-        "new_price": 349.0,
-        "savings": 150.0,
-        "discount_pct": 30.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-semi-automatic-straight-womens-umbrella-23-inch-mpcfx9-101394221",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369051.jpg.4c2a1db5ab.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "107489888",
-        "name": "Livesmart Blue Solid Fully Automatic 3 Fold Mens Umbrella 23 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 499.0,
-        "new_price": 349.0,
-        "savings": 150.0,
-        "discount_pct": 30.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-blue-solid-fully-automatic-3-fold-mens-umbrella-23-inch-mpwisd-107489888",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369011.jpg.8a3a05db1a.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "103458301",
-        "name": "Livesmart Assorted 16 Ply Straight Semi Automatic Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 499.0,
-        "new_price": 349.0,
-        "savings": 150.0,
-        "discount_pct": 30.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-16-ply-straight-semi-automatic-umbrella-mpl2id-103458301",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369101.jpg.b9f1a2c0ad.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7518261",
         "name": "PASEO Smart Soft 2 Ply Facial Tissue 100 Pulls",
         "brand": "PASEO",
@@ -6104,6 +5892,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900005341.jpg.1b2b00de73.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7551750",
+        "name": "Brinjal Round Green 200 - 300 g",
+        "brand": "reliance",
+        "category": "fresh_vegetables",
+        "old_price": 34.0,
+        "new_price": 24.0,
+        "savings": 10.0,
+        "discount_pct": 29.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/brinjal-round-green-200-300-g-mffnet-7551750",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900112851.jpg.d230d1f0bd.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -6679,22 +6483,6 @@
         ]
     },
     {
-        "uid": "88939455",
-        "name": "Livesmart Cityscape Aoac New York 23\" 3 Fold Automatic Womens Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 699.0,
-        "new_price": 499.0,
-        "savings": 200.0,
-        "discount_pct": 28.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-cityscape-aoac-new-york-23-3-fold-automatic-womens-umbrella-mp595i-88939455",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368981.jpg.053da90436.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7560362",
         "name": "Khadi Natural Lemon Soap 125 g",
         "brand": "Khadi Natural",
@@ -6722,22 +6510,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/pilgrim-advanced-hair-growth-serum-30-ml-mfpieb-7607064",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944128491.jpg.f575ee256c.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7515139",
-        "name": "Bikaji Coated Peanuts Nut Cracker 150 g",
-        "brand": "Bikaji",
-        "category": "chips_namkeens",
-        "old_price": 49.0,
-        "new_price": 35.0,
-        "savings": 14.0,
-        "discount_pct": 28.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bikaji-coated-peanuts-nut-cracker-150-g-mffmxf-7515139",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900705311.jpg.d1b22ea167.jpg",
         "locations": [
             "INDORE"
         ]
@@ -6774,22 +6546,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/img-20250822-wa0131.jpg.35d664fd70.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7506753",
-        "name": "Bottle Gourd (Approx. 600 g - 900 g)",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 49.0,
-        "new_price": 35.0,
-        "savings": 14.0,
-        "discount_pct": 28.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bottle-gourd-approx-600-g-900-g-mffmtg-7506753",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900012171.jpg.50394dd6ef.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -7979,25 +7735,6 @@
         ]
     },
     {
-        "uid": "7519380",
-        "name": "Sunsilk Radiant Black Shine Shampoo 350 ml",
-        "brand": "Sunsilk",
-        "category": "hair_care",
-        "old_price": 257.0,
-        "new_price": 192.0,
-        "savings": 65.0,
-        "discount_pct": 25.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sunsilk-stunning-black-shine-shampoo-360-ml-mffmzn-7519380",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900024151.jpg.61ea53c439.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7527541",
         "name": "Sunsilk Luscious Thick & Long Shampoo 350 ml",
         "brand": "Sunsilk",
@@ -8049,134 +7786,19 @@
         ]
     },
     {
-        "uid": "107489526",
-        "name": "Fendo Nova 2 Fold Semi Automatic Unisex Umbrella 24.5 inch",
-        "brand": "Fendo",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
+        "uid": "7503002",
+        "name": "Cowpea Beans 250 g",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 16.0,
+        "new_price": 12.0,
+        "savings": 4.0,
+        "discount_pct": 25.0,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fendo-nova-2-fold-semi-automatic-unisex-umbrella-24-5-inch-mpwi7w-107489526",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947377871.jpg.ec254ecd6c.jpg",
+        "url": "https://store1.jiomartjcp.com/product/cowpea-beans-250-g-mffmrw-7503002",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900001561.jpg.754f83af6f.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "78775701",
-        "name": "Livesmart Assorted Solid 8PNGE Women's 3 Fold Automatic Umbrella 21 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 299.0,
-        "new_price": 224.0,
-        "savings": 75.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-solid-8pnge-women-s-3-fold-automatic-umbrella-21-inch-mnwyeb-78775701",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369031.jpg.0d43a35b2e.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "78775708",
-        "name": "Livesmart Lavender POE NDSNY Straight Semi Automatic Kid's Umbrella 19 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-lavender-poe-ndsny-straight-semi-automatic-kid-s-umbrella-19-inch-mnwyek-78775708",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368951.jpg.10d62903b7.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "81190808",
-        "name": "Fendo Assorted Printed PolyesterLadies 2-Fold Automatic Umbrella 43x8x17 cm",
-        "brand": "Fendo",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fendo-assorted-printed-polyesterladies-2-fold-automatic-umbrella-43x8x17-cm-mo7cm3-81190808",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910565131.jpg.ebcc2e4002.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "103458298",
-        "name": "Livesmart Assorted 8 Pongee 21 inch Digital 3 Fold Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 399.0,
-        "new_price": 299.0,
-        "savings": 100.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-8-pongee-21-inch-digital-3-fold-umbrella-mpl2id-103458298",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369041.jpg.76fa41bbd6.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "87844135",
-        "name": "Fendo Womens 2-Fold Semi-Automatic Assorted Umbrella (1 pc)",
-        "brand": "Fendo",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fendo-womens-2-fold-semi-automatic-assorted-umbrella-1-pc-mp2962-87844135",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947753491.jpg.a6deec9792.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "127474147",
-        "name": "Natural Unisex 3 Fold Manual Umbrella 21.5 Inch",
-        "brand": "NATURAL UMBRELLA",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/natural-unisex-3-fold-manual-umbrella-21-5-inch-mquwdp-127474147",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947374761.jpg.df1ccc1280.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "24046103",
-        "name": "Opp Black Polyester Automatic Umbrella",
-        "brand": "Opp",
-        "category": "office_supplies",
-        "old_price": 199.0,
-        "new_price": 149.0,
-        "savings": 50.0,
-        "discount_pct": 25.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/opp-black-polyester-automatic-umbrella-miedlp-24046103",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910565111.jpg.e7db71043e.jpg",
-        "locations": [
-            "VIKARABAD"
+            "INDORE"
         ]
     },
     {
@@ -8395,22 +8017,6 @@
         ]
     },
     {
-        "uid": "103458458",
-        "name": "Livesmart Assorted 10 Pongee 23 inch Digital 3 Fold Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 599.0,
-        "new_price": 449.0,
-        "savings": 150.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-10-pongee-23-inch-digital-3-fold-umbrella-mpl2ii-103458458",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368961.jpg.74c02a30cb.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7550819",
         "name": "Mom's Choice Roasted Vermicelli 180 g",
         "brand": "MOM'S CHOICE",
@@ -8457,22 +8063,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7562440",
-        "name": "Suhana Gujurat Special Turmeric Powder 500 g",
-        "brand": "Suhana",
-        "category": "masala_spices_mukhwas",
-        "old_price": 176.0,
-        "new_price": 132.0,
-        "savings": 44.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/suhana-gujurat-special-turmeric-powder-500-g-mfphuf-7562440",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942633961.jpg.157ef10f98.jpg",
-        "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
     },
@@ -9387,23 +8977,6 @@
         "url": "https://store1.jiomartjcp.com/product/organic-tattva-chitra-rajma-500-g-mffn5h-7532502",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912284181.jpg.37f978b2ff.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 39.0,
-        "new_price": 30.0,
-        "savings": 9.0,
-        "discount_pct": 23.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -10588,23 +10161,6 @@
         ]
     },
     {
-        "uid": "7517858",
-        "name": "Tomato Country 1 kg",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 24.0,
-        "new_price": 19.0,
-        "savings": 5.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tomato-country-1-kg-mffmyp-7517858",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900000911.jpg.49fddfe2db.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7546054",
         "name": "Nivea Natural Glow Sensitive Female Roll On Deo 50 ml",
         "brand": "nivea",
@@ -10890,40 +10446,6 @@
         ]
     },
     {
-        "uid": "78775705",
-        "name": "Livesmart Assorted Solid POE Straight Semi Automatic Unisex Umbrella 23 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 249.0,
-        "new_price": 199.0,
-        "savings": 50.0,
-        "discount_pct": 20.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-solid-poe-straight-semi-automatic-unisex-umbrella-23-inch-mnwyej-78775705",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368941.jpg.e9500e95f5.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "76148951",
-        "name": "LiveSmart Printed Straight Semi-Automatic Umbrella 58 cm",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 249.0,
-        "new_price": 199.0,
-        "savings": 50.0,
-        "discount_pct": 20.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-printed-straight-semi-automatic-umbrella-58-cm-mnhdb0-76148951",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368991.jpg.fcc9a31fdc.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7522894",
         "name": "Nycil Germ Expert Cool Herbal Prickly Heat Powder 400 g",
         "brand": "nycil",
@@ -10986,22 +10508,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "78775700",
-        "name": "Livesmart Assorted Women's Purse 5 Fold Umbrella 20 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 499.0,
-        "new_price": 399.0,
-        "savings": 100.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-women-s-purse-5-fold-umbrella-20-inch-mnwyea-78775700",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369001.jpg.7cb3e965fe.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -11082,24 +10588,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945900181.jpg.62da00112d.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7546506",
-        "name": "Kellogg's Fruit Nut & Seeds Muesli 65 g",
-        "brand": "Kellogg's",
-        "category": "breakfast_cereals",
-        "old_price": 35.0,
-        "new_price": 28.0,
-        "savings": 7.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kelloggs-fruit-and-nut-seeds-muesli-72-g-mffnbz-7546506",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943547291.jpg.398c1c5301.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE",
             "VIKARABAD"
         ]
     },
@@ -11496,24 +10984,6 @@
         ]
     },
     {
-        "uid": "7511605",
-        "name": "L'Oreal Paris Total Repair 5 Advanced Shampoo 650 ml",
-        "brand": "L'Oreal Paris",
-        "category": "hair_care",
-        "old_price": 566.0,
-        "new_price": 463.0,
-        "savings": 103.0,
-        "discount_pct": 18.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/loreal-paris-total-repair-5-advanced-repairing-damaged-hair-shampoo-650-ml-mffmvs-7511605",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909858931.jpg.0a256864b6.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7505107",
         "name": "Lacto Calamine Daily Sunshield SPF 50 PA+++ Matte Look Sunscreen 50 g",
         "brand": "lacto calamine",
@@ -11683,23 +11153,6 @@
         ]
     },
     {
-        "uid": "7529485",
-        "name": "MamyPoko Pants Extra Absorb XL (64 counts)",
-        "brand": "mamypoko",
-        "category": "diapers_wipes",
-        "old_price": 1226.0,
-        "new_price": 1017.0,
-        "savings": 209.0,
-        "discount_pct": 17.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mamypoko-pants-extra-absorb-xl-64-counts-mffn45-7529485",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944095941.jpg.26308a08c2.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7542511",
         "name": "Mamypoko Extra Absorb Medium Pants 90 pcs",
         "brand": "mamypoko",
@@ -11845,22 +11298,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "103458818",
-        "name": "Livesmart Assorted 19-8 Disney Semi Strait Kids Umbrella",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 299.0,
-        "new_price": 249.0,
-        "savings": 50.0,
-        "discount_pct": 16.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-19-8-disney-semi-strait-kids-umbrella-mpl2is-103458818",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368841.jpg.73d5293247.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -12585,22 +12022,6 @@
         ]
     },
     {
-        "uid": "7546809",
-        "name": "Colgate Strong Toothpaste (200 g x 2 + 100 g)",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 333.0,
-        "new_price": 288.0,
-        "savings": 45.0,
-        "discount_pct": 13.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-strong-toothpaste-200-g-x-2-100-g-mffnc5-7546809",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.d751e77818.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7534677",
         "name": "Pond's Super Light Hydrated Glow Gel 200 ml",
         "brand": "Pond's",
@@ -12735,25 +12156,6 @@
         ]
     },
     {
-        "uid": "7521108",
-        "name": "Dove Deep Nourish Nutrient Serum Bar 125 g (Buy 4 Get 1 Free)",
-        "brand": "dove",
-        "category": "bath_hand_wash",
-        "old_price": 389.0,
-        "new_price": 347.0,
-        "savings": 42.0,
-        "discount_pct": 10.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dove-cream-beauty-bathing-bar-125-g-buy-4-get-1-free-mffn06-7521108",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919613171.jpg.12fae8de9a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7548991",
         "name": "Lakme 9-5 Sun Expert SPF 50 Sunscreen Light Gel 100 g",
         "brand": "lakme",
@@ -12850,25 +12252,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942379071.jpg.01e65525a6.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7529937",
-        "name": "Clinic Plus Strong & Long Health Shampoo 650 ml",
-        "brand": "clinic plus",
-        "category": "hair_care",
-        "old_price": 420.0,
-        "new_price": 378.0,
-        "savings": 42.0,
-        "discount_pct": 10.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-650-ml-mffn4c-7529937",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909084751.jpg.acd06d324d.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
