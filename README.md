@@ -1,0 +1,1 @@
+# SmartLoots Data
