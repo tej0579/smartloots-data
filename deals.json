@@ -285,23 +285,6 @@
         ]
     },
     {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 39.0,
-        "new_price": 14.0,
-        "savings": 25.0,
-        "discount_pct": 64.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7513118",
         "name": "Biotique Herbcolor Conditioning Color, Brown (4N) 110 ml + 50 g",
         "brand": "biotique",
@@ -1406,24 +1389,6 @@
         ]
     },
     {
-        "uid": "7509502",
-        "name": "Whisper Choice Ultra Sanitary Napkin with Wings (XL) 40 pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 320.0,
-        "new_price": 160.0,
-        "savings": 160.0,
-        "discount_pct": 50.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-choice-ultra-sanitary-napkin-with-wings-xl-40-pads-mffmus-7509502",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925198951.jpg.8a49d5c6f3.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7521004",
         "name": "Clinic Plus Strong & Long Health Shampoo 355 ml",
         "brand": "clinic plus",
@@ -1435,25 +1400,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-355-ml-mo7cks",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900023801.jpg.7669f77cab.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7527095",
-        "name": "Sunfeast Dark Fantasy Choco Fills Cookie 460 g",
-        "brand": "DARK FANTASY",
-        "category": "biscuits_cookies",
-        "old_price": 370.0,
-        "new_price": 185.0,
-        "savings": 185.0,
-        "discount_pct": 50.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sunfeast-dark-fantasy-choco-fills-cookie-4715-g-mffn31-7527095",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4945036131.jpg.d20e6b5fbb.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
@@ -1565,6 +1511,43 @@
         ]
     },
     {
+        "uid": "7505493",
+        "name": "Parle Happy Happy Choco-Chip Cookies 396 g",
+        "brand": "parle",
+        "category": "biscuits_cookies",
+        "old_price": 130.0,
+        "new_price": 65.0,
+        "savings": 65.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parle-happy-happy-choco-chip-cookies-396-g-mffmsv-7505493",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919844161.jpg.5998860a9f.jpg",
+        "locations": [
+            "VIKARABAD",
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7541306",
+        "name": "Veeba Smart Tomato Ketchup 1 kg",
+        "brand": "Veeba",
+        "category": "spread_sauces_ketchup",
+        "old_price": 150.0,
+        "new_price": 75.0,
+        "savings": 75.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/veeba-smart-tomato-ketchup-1-kg-mffn9j-7541306",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945035581.jpg.90a9e54508.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "16514610",
         "name": "Get Real Aloe Vera Shower Gel Glycerine & Vitamin E 300 ml",
         "brand": "Get Real",
@@ -1643,22 +1626,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944001051.jpg.dc36979a9e.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7505493",
-        "name": "Parle Happy Happy Choco-Chip Cookies 396 g",
-        "brand": "parle",
-        "category": "biscuits_cookies",
-        "old_price": 130.0,
-        "new_price": 67.0,
-        "savings": 63.0,
-        "discount_pct": 48.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-happy-happy-choco-chip-cookies-396-g-mffmsv-7505493",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919844161.jpg.5998860a9f.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -1807,25 +1774,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7500986",
-        "name": "Stayfree All Night Ultra-Dry Max Sanitary Napkin (XXL) 42 pads",
-        "brand": "stayfree",
-        "category": "feminine_hygiene",
-        "old_price": 595.0,
-        "new_price": 312.0,
-        "savings": 283.0,
-        "discount_pct": 47.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/stayfree-all-night-ultra-dry-max-sanitary-napkin-xxl-42-pads-mffmql-7500986",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914870241.jpg.93fb754e1a.jpg",
-        "locations": [
-            "VIKARABAD",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2038,6 +1986,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912087681.jpg.54596d7172.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7511234",
+        "name": "Softsens Baby Milk Bar Soap 100 g (Pack of 3)",
+        "brand": "Softsens",
+        "category": "bath_hygiene_grooming",
+        "old_price": 219.0,
+        "new_price": 115.0,
+        "savings": 104.0,
+        "discount_pct": 47.5,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/softsens-baby-milk-bar-soap-100-g-pack-of-3-mffmvl-7511234",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/softsens-baby-milk-bar-soap-100-g-pack-of-3-0-20200718.jpg.98490e6881.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -2411,6 +2375,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947594331.jpg.af16007bdc.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7516500",
+        "name": "Softsens Baby Lotion 400 ml",
+        "brand": "Softsens",
+        "category": "bath_hygiene_grooming",
+        "old_price": 308.0,
+        "new_price": 162.0,
+        "savings": 146.0,
+        "discount_pct": 47.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/softsens-baby-lotion-400-ml-mffmy2-7516500",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/softsens-baby-lotion-400-ml-0-20211103.jpg.9cab0c125e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -2978,25 +2958,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909285751.jpg.896d79f668.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7523082",
-        "name": "Whisper Bindazzz Nights XXL Sanitary Pads 40 Pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 604.0,
-        "new_price": 324.0,
-        "savings": 280.0,
-        "discount_pct": 46.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-xxl-sanitary-pads-40-pads-mffn13-7523082",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925199031.jpg.bee1bb19d6.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
         ]
     },
     {
@@ -4025,24 +3986,6 @@
         ]
     },
     {
-        "uid": "7550680",
-        "name": "Whisper Period Panty L-XL 6 pcs",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 265.0,
-        "new_price": 162.0,
-        "savings": 103.0,
-        "discount_pct": 38.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-period-panty-l-xl-6-pcs-mffnea-7550680",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944092461.jpg.53b340dd37.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7550300",
         "name": "Vega Multicolor BA-2/3 Back Loofah",
         "brand": "vega",
@@ -4325,23 +4268,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/super-brown-bread-400-g-0-20201113.jpg.ebcabf9306.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "117640412",
-        "name": "Nua My Wave Sanitary Pads XL (28 Pads)",
-        "brand": "Nua",
-        "category": "feminine_hygiene",
-        "old_price": 194.0,
-        "new_price": 124.0,
-        "savings": 70.0,
-        "discount_pct": 36.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nua-my-wave-sanitary-pads-xl-28-pads-mql1hf-117640412",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947887341.jpg.210877a00a.jpg",
-        "locations": [
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -4628,6 +4554,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943363871.jpg.3877a27e4b.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7550749",
+        "name": "Colgate Lemon Fresh Anticavity Toothpaste (2N x 120 g)",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 294.0,
+        "new_price": 194.0,
+        "savings": 100.0,
+        "discount_pct": 34.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-anticavity-lemon-fresh-gel-toothpaste-240-g-mffneb-7550749",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.76be77bac8.jpg",
+        "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -5147,22 +5089,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914879381.jpg.2f8ff84fb2.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7529811",
-        "name": "Clinic Plus+ Strength & Shine Egg Protein Shampoo 355 ml",
-        "brand": "clinic plus",
-        "category": "hair_care",
-        "old_price": 288.0,
-        "new_price": 192.0,
-        "savings": 96.0,
-        "discount_pct": 33.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strength-shine-egg-protein-shampoo-340-ml-mffn4a-7529811",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916945971.jpg.a029baff99.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -6061,22 +5987,6 @@
         ]
     },
     {
-        "uid": "7553236",
-        "name": "VLCC De-Tan Facial Kit 40 g",
-        "brand": "vlcc",
-        "category": "skin_care",
-        "old_price": 99.0,
-        "new_price": 69.0,
-        "savings": 30.0,
-        "discount_pct": 30.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vlcc-de-tan-facial-kit-mffnfp-7553236",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946089441.jpg.010ac9eb0e.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7513038",
         "name": "Cornitos Sizzlin Jalapeno Nacho Crisps 77 g",
         "brand": "Cornitos",
@@ -6754,6 +6664,25 @@
         ]
     },
     {
+        "uid": "7524577",
+        "name": "Colgate Charcoal Clean Toothpaste 120 g (Pack of 2)",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 320.0,
+        "new_price": 227.0,
+        "savings": 93.0,
+        "discount_pct": 29.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-charcoal-clean-toothpaste-120-g-pack-of-2-mffn1r-7524577",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916525471.jpg.c804c7cc31.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "89085233",
         "name": "Home One Plastic Round Pixie Pot 520 ml (1 pc)",
         "brand": "home one",
@@ -6945,24 +6874,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7526682",
-        "name": "VLCC Smokey Black Kajal .35 g",
-        "brand": "vlcc",
-        "category": "eyes",
-        "old_price": 69.0,
-        "new_price": 49.0,
-        "savings": 20.0,
-        "discount_pct": 29.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vlcc-smokey-black-kajal-35-g-mffn2u-7526682",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944095221.jpg.7cd865dc79.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -8016,6 +7927,60 @@
         ]
     },
     {
+        "uid": "7551068",
+        "name": "Mamaearth Lemon and Ginger Anti-Dandruff Shampoo 400 ml",
+        "brand": "mamaearth",
+        "category": "hair_care",
+        "old_price": 299.0,
+        "new_price": 219.0,
+        "savings": 80.0,
+        "discount_pct": 26.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamaearth-lemon-and-ginger-anti-dandruff-shampoo-400-ml-mffneg-7551068",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943367381.jpg.b57a415ff0.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7543836",
+        "name": "Mamaearth Hair Fall Control Onion Shampoo 400 ml",
+        "brand": "mamaearth",
+        "category": "hair_care",
+        "old_price": 299.0,
+        "new_price": 219.0,
+        "savings": 80.0,
+        "discount_pct": 26.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamaearth-hair-fall-control-onion-shampoo-400-ml-mffnao-7543836",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/mamaearth-hair-fall-control-onion-shampoo-400-ml-0-20210705.jpg.184d347a5f.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7502136",
+        "name": "Mamaearth Rosemary Anti Hari Fall Shampoo 400 ml",
+        "brand": "mamaearth",
+        "category": "hair_care",
+        "old_price": 299.0,
+        "new_price": 219.0,
+        "savings": 80.0,
+        "discount_pct": 26.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamaearth-rosemary-anti-hari-fall-shampoo-400-ml-mffmre-7502136",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942637161.jpg.c0d429465a.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7538712",
         "name": "Whisper Choice Night Sanitary Pads (XXL) 16 Pads",
         "brand": "whisper",
@@ -8455,24 +8420,6 @@
         ]
     },
     {
-        "uid": "7551179",
-        "name": "Stayfree Advanced Ultra Soft Sanitary Pad XXL 42 N",
-        "brand": "stayfree",
-        "category": "feminine_hygiene",
-        "old_price": 385.0,
-        "new_price": 287.0,
-        "savings": 98.0,
-        "discount_pct": 25.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/stayfree-advanced-ultra-soft-pads-xxl-pack-of-42-mffneh-7551179",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/4945035141.png.21c3c07150.png",
-        "locations": [
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7518222",
         "name": "Paseo Smart Soft Facial Tissues 2 Ply 200 Pulls",
         "brand": "PASEO",
@@ -8722,6 +8669,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/tresemme-keratin-smooth-shampoo-340-ml-mffmzo-7519585",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914325291.jpg.0c3afdea1c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7505214",
+        "name": "Colgate Max Fresh Peppermint Ice Blue Gel Toothpaste 300 g",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 299.0,
+        "new_price": 224.0,
+        "savings": 75.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-max-fresh-peppermint-ice-blue-gel-toothpaste-300-g-mffmsr-7505214",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.7370f64b1b.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
@@ -8990,22 +8953,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7506753",
-        "name": "Bottle Gourd (Approx. 600 g - 900 g)",
-        "brand": "reliance",
-        "category": "fresh_vegetables",
-        "old_price": 48.0,
-        "new_price": 36.0,
-        "savings": 12.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bottle-gourd-approx-600-g-900-g-mffmtg-7506753",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900012171.jpg.50394dd6ef.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -9283,22 +9230,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7505214",
-        "name": "Colgate Max Fresh Peppermint Ice Blue Gel Toothpaste 300 g",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 299.0,
-        "new_price": 225.0,
-        "savings": 74.0,
-        "discount_pct": 24.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-max-fresh-peppermint-ice-blue-gel-toothpaste-300-g-mffmsr-7505214",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.7370f64b1b.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -9831,40 +9762,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "78775705",
-        "name": "Livesmart Assorted Solid POE Straight Semi Automatic Unisex Umbrella 23 inch",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 249.0,
-        "new_price": 189.0,
-        "savings": 60.0,
-        "discount_pct": 24.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-solid-poe-straight-semi-automatic-unisex-umbrella-23-inch-mnwyej-78775705",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368941.jpg.e9500e95f5.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "76148951",
-        "name": "LiveSmart Printed Straight Semi-Automatic Umbrella 58 cm",
-        "brand": "LIVESMART",
-        "category": "office_supplies",
-        "old_price": 249.0,
-        "new_price": 189.0,
-        "savings": 60.0,
-        "discount_pct": 24.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/livesmart-printed-straight-semi-automatic-umbrella-58-cm-mnhdb0-76148951",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368991.jpg.fcc9a31fdc.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -10752,6 +10649,23 @@
         ]
     },
     {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 32.0,
+        "new_price": 25.0,
+        "savings": 7.0,
+        "discount_pct": 21.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7546555",
         "name": "Jabsons Sabudana Mix 180 g",
         "brand": "Jabsons",
@@ -10976,6 +10890,22 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7510970",
+        "name": "Colgate Ultrafoam Ultra Soft Multicolor Toothbrush B1G1",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 238.0,
+        "new_price": 187.0,
+        "savings": 51.0,
+        "discount_pct": 21.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-ultrafoam-ulta-soft-toothbrush-2-pcs-mffmvg-7510970",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.b7bd5c9f61.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -11732,6 +11662,22 @@
         ]
     },
     {
+        "uid": "81191220",
+        "name": "Streax Professional Gloss Hair Serum 200 ml",
+        "brand": "Streax Professional",
+        "category": "hair_care",
+        "old_price": 484.0,
+        "new_price": 384.0,
+        "savings": 100.0,
+        "discount_pct": 20.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/streax-professional-gloss-hair-serum-200-ml-mo7cn4-81191220",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004937232401.jpg.771a7e65d8.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7525584",
         "name": "Joy Hello Sunblock & Anti-Tan Lotion SPF 40 100 ml",
         "brand": "JOY",
@@ -11833,92 +11779,6 @@
         ]
     },
     {
-        "uid": "7550749",
-        "name": "Colgate Lemon Fresh Anticavity Toothpaste (2N x 120 g)",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 294.0,
-        "new_price": 234.0,
-        "savings": 60.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-anticavity-lemon-fresh-gel-toothpaste-240-g-mffneb-7550749",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.76be77bac8.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7510462",
-        "name": "Mirabelle Aloe Vera Fairness Facial Mask 25 ml",
-        "brand": "Mirabelle",
-        "category": "skin_care",
-        "old_price": 49.0,
-        "new_price": 39.0,
-        "savings": 10.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mirabelle-aloe-vera-fairness-facial-mask-25-ml-mffmv8-7510462",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283851.jpg.98083ee0dd.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7518644",
-        "name": "Mirabelle Korea Berries Fairness Facial Mask 25 ml",
-        "brand": "Mirabelle",
-        "category": "skin_care",
-        "old_price": 49.0,
-        "new_price": 39.0,
-        "savings": 10.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mirabelle-korea-berries-fairness-facial-mask-25-ml-mffmz2-7518644",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283861.jpg.8fa99d73ce.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7514779",
-        "name": "Mirabelle Papaya Fairness Facial Mask 25 ml",
-        "brand": "Mirabelle",
-        "category": "skin_care",
-        "old_price": 49.0,
-        "new_price": 39.0,
-        "savings": 10.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mirabelle-papaya-fairness-facial-mask-25-ml-mffmx9-7514779",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283901.jpg.ec420870d0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7540435",
-        "name": "Mirabelle Korea Cucumber Fairness Facial Mask 25 ml",
-        "brand": "Mirabelle",
-        "category": "skin_care",
-        "old_price": 49.0,
-        "new_price": 39.0,
-        "savings": 10.0,
-        "discount_pct": 20.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mirabelle-korea-cucumber-fairness-facial-mask-25-ml-mffn94-7540435",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283871.jpg.3590ae3f83.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7532680",
         "name": "Joy Hydra Refresh Ultra Light Moisturiser Gel 150 ml",
         "brand": "JOY",
@@ -12004,22 +11864,20 @@
         ]
     },
     {
-        "uid": "7543736",
-        "name": "Slice Mango Drink 1.75 L",
-        "brand": "Slice",
-        "category": "drinks_juices",
-        "old_price": 99.0,
-        "new_price": 79.0,
-        "savings": 20.0,
+        "uid": "24059411",
+        "name": "Johnson's Baby Soap 75 g (Pack of 3)",
+        "brand": "Johnson's",
+        "category": "bath_hygiene_grooming",
+        "old_price": 168.0,
+        "new_price": 134.0,
+        "savings": 34.0,
         "discount_pct": 20.2,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/slice-mango-drink-175-l-mffnan-7543736",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910861751.jpg.fce1ae1711.jpg",
+        "url": "https://store1.jiomartjcp.com/product/johnsons-baby-soap-75-g-pack-of-3-mieeg4-24059411",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004921720411.jpg.00229ac1e2.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
+            "INDORE"
         ]
     },
     {
@@ -12573,23 +12431,6 @@
         ]
     },
     {
-        "uid": "31620591",
-        "name": "Frooti Mango Drink 150 ml (Pack of 10)",
-        "brand": "Frooti",
-        "category": "drinks_juices",
-        "old_price": 100.0,
-        "new_price": 80.0,
-        "savings": 20.0,
-        "discount_pct": 20.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/frooti-mango-drink-150-ml-pack-of-10-min10m-31620591",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945701601.jpg.5ada9659da.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7521996",
         "name": "Gillette Fusion Shaving Cartridge 5 blades 4 pcs",
         "brand": "gillette",
@@ -12806,19 +12647,19 @@
         ]
     },
     {
-        "uid": "7510970",
-        "name": "Colgate Ultrafoam Ultra Soft Multicolor Toothbrush B1G1",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 280.0,
-        "new_price": 226.0,
-        "savings": 54.0,
+        "uid": "7548746",
+        "name": "Continental Special Pure Instant Coffee 100 g",
+        "brand": "Continental",
+        "category": "tea_coffee",
+        "old_price": 415.0,
+        "new_price": 335.0,
+        "savings": 80.0,
         "discount_pct": 19.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-ultrafoam-ulta-soft-toothbrush-2-pcs-mffmvg-7510970",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0.jpg.b7bd5c9f61.jpg",
+        "url": "https://store1.jiomartjcp.com/product/continental-special-pure-instant-coffee-100-g-mffndi-7548746",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943573921.jpg.868ab8a14d.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA"
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -13352,25 +13193,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/vega-premium-paddle-brush-0-20210603.jpg.f498dd796e.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7524577",
-        "name": "Colgate Charcoal Clean Toothpaste 120 g (Pack of 2)",
-        "brand": "Colgate",
-        "category": "oral_care",
-        "old_price": 320.0,
-        "new_price": 267.0,
-        "savings": 53.0,
-        "discount_pct": 16.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/colgate-charcoal-clean-toothpaste-120-g-pack-of-2-mffn1r-7524577",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916525471.jpg.c804c7cc31.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -13981,6 +13803,38 @@
         ]
     },
     {
+        "uid": "7536800",
+        "name": "Colgate ProClinical 250R Charcoal Rechargeable Toothbrush",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 2175.0,
+        "new_price": 1875.0,
+        "savings": 300.0,
+        "discount_pct": 13.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-proclinical-250r-charcoal-rechargeable-toothbrush-mffn7g-7536800",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928481991.jpg.52604629d6.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7537542",
+        "name": "Colgate ProClinical 250R Deep Clean Rechargeable Toothbrush 1 pc",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 2175.0,
+        "new_price": 1875.0,
+        "savings": 300.0,
+        "discount_pct": 13.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-proclinical-250r-deep-clean-rechargeable-toothbrush-mffn7r-7537542",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928481981.jpg.dd379522c7.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7501188",
         "name": "Colgate ProClinical 150 Charcoal Battery Powered Toothbrush",
         "brand": "Colgate",
@@ -14012,6 +13866,38 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7542659",
+        "name": "COLGATE Batman (Extra Soft) Electric Kids Toothbrush",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 621.0,
+        "new_price": 536.0,
+        "savings": 85.0,
+        "discount_pct": 13.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-batman-extra-soft-electric-kids-toothbrush-mffna5-7542659",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/1.jpg.af090d3bc3.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7501661",
+        "name": "Colgate Assorted Barbie (Extra Soft) Electric Toothbrush",
+        "brand": "Colgate",
+        "category": "oral_care",
+        "old_price": 621.0,
+        "new_price": 536.0,
+        "savings": 85.0,
+        "discount_pct": 13.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/colgate-assorted-barbie-extra-soft-electric-toothbrush-mffmr3-7501661",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/colgate-barbie-extra-soft-electric-toothbrush-0-20210120.jpg.2d02e0dd5b.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -14259,6 +14145,22 @@
         ]
     },
     {
+        "uid": "7538008",
+        "name": "Daawat Rozana 40 Mini Mogra - II Basmati Rice 10 kg",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 499.0,
+        "new_price": 449.0,
+        "savings": 50.0,
+        "discount_pct": 10.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-rozana-mini-mogra-ii-basmati-rice-10-kg-mffn7z-7538008",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400861.jpg.3ee3fe1047.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7597177",
         "name": "Scotch-Brite Bathroom Squeegee Mop 1 pc",
         "brand": "Scotch-Brite",
@@ -14326,6 +14228,24 @@
         ]
     },
     {
+        "uid": "7532772",
+        "name": "Continental Xtra Instant Coffee Powder 200 g",
+        "brand": "Continental",
+        "category": "tea_coffee",
+        "old_price": 475.0,
+        "new_price": 434.0,
+        "savings": 41.0,
+        "discount_pct": 8.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/continental-xtra-instant-coffee-powder-200-g-mffn5m-7532772",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4913375181.jpg.df7cd6b52a.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7501951",
         "name": "Daawat Rozana Mini 60 Basmati Rice 10 kg",
         "brand": "Daawat",
@@ -14356,6 +14276,22 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7542958",
+        "name": "Daawat Rozana 70 Mogra Basmati Rice 10 kg",
+        "brand": "Daawat",
+        "category": "rice",
+        "old_price": 699.0,
+        "new_price": 649.0,
+        "savings": 50.0,
+        "discount_pct": 7.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/daawat-rozana-mogra-basmati-rice-10-kg-mffnab-7542958",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913168151.jpg.27ef0986b1.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
