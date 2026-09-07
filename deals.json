@@ -320,6 +320,23 @@
         ]
     },
     {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 32.0,
+        "new_price": 14.0,
+        "savings": 18.0,
+        "discount_pct": 56.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "81191181",
         "name": "Kelloggs Multigrain plus Corn Flakes 450 g",
         "brand": "Kellogg's",
@@ -1488,8 +1505,9 @@
         "url": "https://store1.jiomartjcp.com/product/veeba-smart-tomato-ketchup-1-kg-mffn9j-7541306",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945035581.jpg.90a9e54508.jpg",
         "locations": [
-            "AHMEDABAD_GHATLODIYA",
+            "VIKARABAD",
             "HYDERABAD_GUDIMALKAPUR",
+            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -4165,22 +4183,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004917128661.jpg.8c02032d2f.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7526793",
-        "name": "Meethi Black Chana 200 g",
-        "brand": "Meethi",
-        "category": "chips_namkeens",
-        "old_price": 55.0,
-        "new_price": 35.0,
-        "savings": 20.0,
-        "discount_pct": 36.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/meethi-black-chana-200-g-mffn2w-7526793",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/meethi-black-chana-200-g-0-20220113.jpg.0b8bcc83c0.jpg",
-        "locations": [
             "INDORE"
         ]
     },
@@ -10621,23 +10623,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 32.0,
-        "new_price": 25.0,
-        "savings": 7.0,
-        "discount_pct": 21.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
