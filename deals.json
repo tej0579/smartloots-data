@@ -372,6 +372,39 @@
         ]
     },
     {
+        "uid": "101786630",
+        "name": "Raintop Poncho Unisex Assorted Raincoat",
+        "brand": "Raintop",
+        "category": "office_supplies",
+        "old_price": 149.0,
+        "new_price": 69.0,
+        "savings": 80.0,
+        "discount_pct": 53.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/raintop-poncho-unisex-assorted-raincoat-mpf9xg-101786630",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947755801.jpg.244d3daa28.jpg",
+        "locations": [
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7530200",
+        "name": "Real Fruit Power Masala Pomegranate Juice 1 L",
+        "brand": "Real",
+        "category": "drinks_juices",
+        "old_price": 150.0,
+        "new_price": 70.0,
+        "savings": 80.0,
+        "discount_pct": 53.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/real-fruit-power-masala-pomegranate-juice-1-l-mffn4g-7530200",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/401289888-real-fruit-power-juice-masala-pomegranate.jpg.2d117459ad.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7508354",
         "name": "J.J. Rice Wafers Square Fryums 200 g",
         "brand": "JJ",
@@ -1383,6 +1416,81 @@
         "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-650-ml-mffn4c-7529937",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909084751.jpg.acd06d324d.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7529885",
+        "name": "Parle Hide & Seek 4 Flavour Choco Chip Creme Biscuit 400 g",
+        "brand": "parle",
+        "category": "biscuits_cookies",
+        "old_price": 180.0,
+        "new_price": 90.0,
+        "savings": 90.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/parle-hide-seek-4-flavour-choco-chip-creme-biscuit-400-g-mffn4b-7529885",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/parle-hide-seek-4-fun-flavours-choco-chip-creme-sandwich-biscuits-400-g-0-20220113.jpg.49c1e1e9e6.jpg",
+        "locations": [
+            "VIKARABAD",
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7515421",
+        "name": "Dukes Bourbon Choco Creme Biscuits 125 g",
+        "brand": "Dukes",
+        "category": "biscuits_cookies",
+        "old_price": 36.0,
+        "new_price": 18.0,
+        "savings": 18.0,
+        "discount_pct": 50.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dukes-bourbon-choco-creme-biscuits-125-g-mffmxk-7515421",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900018811.jpg.ef515bca5c.jpg",
+        "locations": [
+            "VIKARABAD",
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7534326",
+        "name": "Nivea Soft Light Moisturiser Cream for Face, Hands & Body 300 ml",
+        "brand": "nivea",
+        "category": "skin_care",
+        "old_price": 721.0,
+        "new_price": 362.0,
+        "savings": 359.0,
+        "discount_pct": 49.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/nivea-soft-light-moisturiser-cream-for-face-hands-body-300-ml-mffn6b-7534326",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909980441.jpg.114a470d76.jpg",
+        "locations": [
+            "VIKARABAD",
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7534677",
+        "name": "Pond's Super Light Hydrated Glow Gel 200 ml",
+        "brand": "Pond's",
+        "category": "skin_care",
+        "old_price": 707.0,
+        "new_price": 355.0,
+        "savings": 352.0,
+        "discount_pct": 49.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/ponds-super-light-hydrated-glow-gel-200-ml-mffn6g-7534677",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936561101.jpg.8447f1774c.jpg",
+        "locations": [
+            "VIKARABAD",
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -2932,25 +3040,6 @@
         ]
     },
     {
-        "uid": "7535045",
-        "name": "Sunfeast Dark Fantasy Yumfills Cake 242 g",
-        "brand": "sunfeast",
-        "category": "chocolates_candies",
-        "old_price": 170.0,
-        "new_price": 93.0,
-        "savings": 77.0,
-        "discount_pct": 45.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sunfeast-dark-fantasy-yumfills-cake-242-g-mffn6n-7535045",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4911880361.jpg.6539e89aa1.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7502513",
         "name": "Parle Poppins 100 g",
         "brand": "parle",
@@ -3016,25 +3105,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7534326",
-        "name": "Nivea Soft Light Moisturiser Cream for Face, Hands & Body 300 ml",
-        "brand": "nivea",
-        "category": "skin_care",
-        "old_price": 721.0,
-        "new_price": 399.0,
-        "savings": 322.0,
-        "discount_pct": 44.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-soft-light-moisturiser-cream-for-face-hands-body-300-ml-mffn6b-7534326",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909980441.jpg.114a470d76.jpg",
-        "locations": [
-            "VIKARABAD",
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -3326,22 +3396,6 @@
         ]
     },
     {
-        "uid": "7530200",
-        "name": "Real Fruit Power Masala Pomegranate Juice 1 L",
-        "brand": "Real",
-        "category": "drinks_juices",
-        "old_price": 150.0,
-        "new_price": 85.0,
-        "savings": 65.0,
-        "discount_pct": 43.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/real-fruit-power-masala-pomegranate-juice-1-l-mffn4g-7530200",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/401289888-real-fruit-power-juice-masala-pomegranate.jpg.2d117459ad.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7528802",
         "name": "Pears Variety Pack 125 g (Pack of 5)",
         "brand": "Pears",
@@ -3582,25 +3636,6 @@
         ]
     },
     {
-        "uid": "7529885",
-        "name": "Parle Hide & Seek 4 Flavour Choco Chip Creme Biscuit 400 g",
-        "brand": "parle",
-        "category": "biscuits_cookies",
-        "old_price": 180.0,
-        "new_price": 105.0,
-        "savings": 75.0,
-        "discount_pct": 41.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parle-hide-seek-4-flavour-choco-chip-creme-biscuit-400-g-mffn4b-7529885",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/parle-hide-seek-4-fun-flavours-choco-chip-creme-sandwich-biscuits-400-g-0-20220113.jpg.49c1e1e9e6.jpg",
-        "locations": [
-            "VIKARABAD",
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "136602187",
         "name": "Healthy Hunger Ginger Jaggery Cubes 500 g",
         "brand": "Healthy Hunger",
@@ -3613,25 +3648,6 @@
         "url": "https://store1.jiomartjcp.com/product/healthy-hunger-ginger-jaggery-cubes-500-g-ms47bi-136602187",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946270691.jpg.8a5a6d3d98.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7534677",
-        "name": "Pond's Super Light Hydrated Glow Gel 200 ml",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 707.0,
-        "new_price": 414.0,
-        "savings": 293.0,
-        "discount_pct": 41.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/ponds-super-light-hydrated-glow-gel-200-ml-mffn6g-7534677",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936561101.jpg.8447f1774c.jpg",
-        "locations": [
-            "VIKARABAD",
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -4336,24 +4352,6 @@
         ]
     },
     {
-        "uid": "7515421",
-        "name": "Dukes Bourbon Choco Creme Biscuits 125 g",
-        "brand": "Dukes",
-        "category": "biscuits_cookies",
-        "old_price": 36.0,
-        "new_price": 23.0,
-        "savings": 13.0,
-        "discount_pct": 36.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dukes-bourbon-choco-creme-biscuits-125-g-mffmxk-7515421",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900018811.jpg.ef515bca5c.jpg",
-        "locations": [
-            "VIKARABAD",
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7524181",
         "name": "Lakme Lip Love SPF 15 Lipbalm, Strawberry 4.5 g",
         "brand": "lakme",
@@ -4464,6 +4462,25 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7517083",
+        "name": "Whisper Choice Ultra Sanitary Napkin with Wings (XL) 20 pads",
+        "brand": "whisper",
+        "category": "feminine_hygiene",
+        "old_price": 152.0,
+        "new_price": 99.0,
+        "savings": 53.0,
+        "discount_pct": 34.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/whisper-choice-ultra-sanitary-napkin-with-wings-xl-20-pads-mffmyc-7517083",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913381991.jpg.39fb36d00f.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
         ]
     },
     {
@@ -4738,6 +4755,23 @@
         ]
     },
     {
+        "uid": "7542669",
+        "name": "Bagrry's Original & Healthier Cornflakes 300 g",
+        "brand": "Bagrry's",
+        "category": "breakfast_cereals",
+        "old_price": 74.0,
+        "new_price": 49.0,
+        "savings": 25.0,
+        "discount_pct": 33.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/bagrrys-original-healthier-cornflakes-300-g-mffna5-7542669",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942977401.jpg.39334bd8b4.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "88113222",
         "name": "Tropicool Ice Cream Shape Silicon Bottle Opener",
         "brand": "IMPORT",
@@ -4783,23 +4817,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947645141.jpg.921b1aa638.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "101786630",
-        "name": "Raintop Poncho Unisex Assorted Raincoat",
-        "brand": "Raintop",
-        "category": "office_supplies",
-        "old_price": 149.0,
-        "new_price": 99.0,
-        "savings": 50.0,
-        "discount_pct": 33.6,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/raintop-poncho-unisex-assorted-raincoat-mpf9xg-101786630",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947755801.jpg.244d3daa28.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
         ]
     },
     {
@@ -5622,6 +5639,22 @@
         ]
     },
     {
+        "uid": "7533652",
+        "name": "Brinjal Black Big Premium 500 g",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 32.0,
+        "new_price": 22.0,
+        "savings": 10.0,
+        "discount_pct": 31.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/brinjal-black-big-premium-500-g-mffn60-7533652",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900013491.jpg.053b5ac4e5.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7513604",
         "name": "Kerala Sandal Premium Soap with Virgin Sandalwood Oil 150 g",
         "brand": "Kerala Sandal",
@@ -5994,6 +6027,22 @@
         ]
     },
     {
+        "uid": "7553236",
+        "name": "VLCC De-Tan Facial Kit 40 g",
+        "brand": "vlcc",
+        "category": "skin_care",
+        "old_price": 99.0,
+        "new_price": 69.0,
+        "savings": 30.0,
+        "discount_pct": 30.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-de-tan-facial-kit-mffnfp-7553236",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946089441.jpg.010ac9eb0e.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7513038",
         "name": "Cornitos Sizzlin Jalapeno Nacho Crisps 77 g",
         "brand": "Cornitos",
@@ -6107,6 +6156,23 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "103458301",
+        "name": "Livesmart Assorted 16 Ply Straight Semi Automatic Umbrella",
+        "brand": "LIVESMART",
+        "category": "office_supplies",
+        "old_price": 499.0,
+        "new_price": 349.0,
+        "savings": 150.0,
+        "discount_pct": 30.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-16-ply-straight-semi-automatic-umbrella-mpl2id-103458301",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369101.jpg.b9f1a2c0ad.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
         ]
     },
@@ -6903,6 +6969,24 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7526682",
+        "name": "VLCC Smokey Black Kajal .35 g",
+        "brand": "vlcc",
+        "category": "eyes",
+        "old_price": 69.0,
+        "new_price": 49.0,
+        "savings": 20.0,
+        "discount_pct": 29.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vlcc-smokey-black-kajal-35-g-mffn2u-7526682",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944095221.jpg.7cd865dc79.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE",
+            "VIKARABAD"
         ]
     },
     {
@@ -8931,6 +9015,105 @@
         ]
     },
     {
+        "uid": "107489526",
+        "name": "Fendo Nova 2 Fold Semi Automatic Unisex Umbrella 24.5 inch",
+        "brand": "Fendo",
+        "category": "office_supplies",
+        "old_price": 199.0,
+        "new_price": 149.0,
+        "savings": 50.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/fendo-nova-2-fold-semi-automatic-unisex-umbrella-24-5-inch-mpwi7w-107489526",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947377871.jpg.ec254ecd6c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "78775701",
+        "name": "Livesmart Assorted Solid 8PNGE Women's 3 Fold Automatic Umbrella 21 inch",
+        "brand": "LIVESMART",
+        "category": "office_supplies",
+        "old_price": 299.0,
+        "new_price": 224.0,
+        "savings": 75.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-solid-8pnge-women-s-3-fold-automatic-umbrella-21-inch-mnwyeb-78775701",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947369031.jpg.0d43a35b2e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "127474147",
+        "name": "Natural Unisex 3 Fold Manual Umbrella 21.5 Inch",
+        "brand": "NATURAL UMBRELLA",
+        "category": "office_supplies",
+        "old_price": 199.0,
+        "new_price": 149.0,
+        "savings": 50.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/natural-unisex-3-fold-manual-umbrella-21-5-inch-mquwdp-127474147",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947374761.jpg.df1ccc1280.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "87844135",
+        "name": "Fendo Womens 2-Fold Semi-Automatic Assorted Umbrella (1 pc)",
+        "brand": "Fendo",
+        "category": "office_supplies",
+        "old_price": 199.0,
+        "new_price": 149.0,
+        "savings": 50.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/fendo-womens-2-fold-semi-automatic-assorted-umbrella-1-pc-mp2962-87844135",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947753491.jpg.a6deec9792.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "81190808",
+        "name": "Fendo Assorted Printed PolyesterLadies 2-Fold Automatic Umbrella 43x8x17 cm",
+        "brand": "Fendo",
+        "category": "office_supplies",
+        "old_price": 199.0,
+        "new_price": 149.0,
+        "savings": 50.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/fendo-assorted-printed-polyesterladies-2-fold-automatic-umbrella-43x8x17-cm-mo7cm3-81190808",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910565131.jpg.ebcc2e4002.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "24046103",
+        "name": "Opp Black Polyester Automatic Umbrella",
+        "brand": "Opp",
+        "category": "office_supplies",
+        "old_price": 199.0,
+        "new_price": 149.0,
+        "savings": 50.0,
+        "discount_pct": 25.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/opp-black-polyester-automatic-umbrella-miedlp-24046103",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910565111.jpg.e7db71043e.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7503002",
         "name": "Cowpea Beans 250 g",
         "brand": "Private Label",
@@ -9436,22 +9619,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7533652",
-        "name": "Brinjal Black Big Premium 500 g",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 32.0,
-        "new_price": 24.0,
-        "savings": 8.0,
-        "discount_pct": 25.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/brinjal-black-big-premium-500-g-mffn60-7533652",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900013491.jpg.053b5ac4e5.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -10624,6 +10791,23 @@
         ]
     },
     {
+        "uid": "7586526",
+        "name": "Elle 18 Eye Drama Bold Black Kajal 0.35 g",
+        "brand": "ELLE 18",
+        "category": "eyes",
+        "old_price": 90.0,
+        "new_price": 69.0,
+        "savings": 21.0,
+        "discount_pct": 23.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/elle-18-eye-drama-bold-black-kajal-035-g-mfpi4s-7586526",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913367441.jpg.a991437d7c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7501212",
         "name": "Parry's Jaggery Powder 500 g",
         "brand": "Parry's",
@@ -10944,22 +11128,6 @@
         ]
     },
     {
-        "uid": "7508019",
-        "name": "Nivea Frangipani & Oil Shower Gel 250 ml",
-        "brand": "nivea",
-        "category": "bath_hand_wash",
-        "old_price": 254.0,
-        "new_price": 197.0,
-        "savings": 57.0,
-        "discount_pct": 22.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nivea-frangipani-oil-shower-gel-250-ml-mffmu2-7508019",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909205741.jpg.6ce96d6e3e.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "31049987",
         "name": "Date Crown Premium Emirates Black Dates 500 g",
         "brand": "Date Crown",
@@ -11125,6 +11293,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004910612661.jpg.fade7e70a7.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7500015",
+        "name": "Himalaya Cucumber & Aloe Body Lotion for Dry Skin, 400 ml",
+        "brand": "himalaya",
+        "category": "skin_care",
+        "old_price": 284.0,
+        "new_price": 222.0,
+        "savings": 62.0,
+        "discount_pct": 21.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-cucumber-aloe-body-lotion-for-dry-skin-400-ml-mffhxf-7500015",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900033881eedfewfewdewd.jpg.e41137c60e.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -12201,6 +12385,74 @@
         ]
     },
     {
+        "uid": "7510462",
+        "name": "Mirabelle Aloe Vera Fairness Facial Mask 25 ml",
+        "brand": "Mirabelle",
+        "category": "skin_care",
+        "old_price": 49.0,
+        "new_price": 39.0,
+        "savings": 10.0,
+        "discount_pct": 20.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mirabelle-aloe-vera-fairness-facial-mask-25-ml-mffmv8-7510462",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283851.jpg.98083ee0dd.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7518644",
+        "name": "Mirabelle Korea Berries Fairness Facial Mask 25 ml",
+        "brand": "Mirabelle",
+        "category": "skin_care",
+        "old_price": 49.0,
+        "new_price": 39.0,
+        "savings": 10.0,
+        "discount_pct": 20.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mirabelle-korea-berries-fairness-facial-mask-25-ml-mffmz2-7518644",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283861.jpg.8fa99d73ce.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7540435",
+        "name": "Mirabelle Korea Cucumber Fairness Facial Mask 25 ml",
+        "brand": "Mirabelle",
+        "category": "skin_care",
+        "old_price": 49.0,
+        "new_price": 39.0,
+        "savings": 10.0,
+        "discount_pct": 20.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mirabelle-korea-cucumber-fairness-facial-mask-25-ml-mffn94-7540435",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283871.jpg.3590ae3f83.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7514779",
+        "name": "Mirabelle Papaya Fairness Facial Mask 25 ml",
+        "brand": "Mirabelle",
+        "category": "skin_care",
+        "old_price": 49.0,
+        "new_price": 39.0,
+        "savings": 10.0,
+        "discount_pct": 20.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mirabelle-papaya-fairness-facial-mask-25-ml-mffmx9-7514779",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916283901.jpg.ec420870d0.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7532680",
         "name": "Joy Hydra Refresh Ultra Light Moisturiser Gel 150 ml",
         "brand": "JOY",
@@ -12393,6 +12645,24 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/parachute-100-pure-coconut-hair-oil-600-ml-mffn1h-7523967",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/parachute-100-pure-coconut-hair-oil-600-ml-0-20210317.jpg.4651a05ee8.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "78775705",
+        "name": "Livesmart Assorted Solid POE Straight Semi Automatic Unisex Umbrella 23 inch",
+        "brand": "LIVESMART",
+        "category": "office_supplies",
+        "old_price": 249.0,
+        "new_price": 199.0,
+        "savings": 50.0,
+        "discount_pct": 20.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/livesmart-assorted-solid-poe-straight-semi-automatic-unisex-umbrella-23-inch-mnwyej-78775705",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947368941.jpg.e9500e95f5.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
@@ -13678,22 +13948,6 @@
         ]
     },
     {
-        "uid": "7551795",
-        "name": "Nescafe Roastery Dark Roast Coffee Powder 95 g",
-        "brand": "Nescafe",
-        "category": "tea_coffee",
-        "old_price": 950.0,
-        "new_price": 800.0,
-        "savings": 150.0,
-        "discount_pct": 15.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nescafe-roastery-dark-roast-coffee-powder-95-g-mo7cmy",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4944351041.jpg.bec39cb45c.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7551680",
         "name": "Maruti Classic Bold Premium Makhana 250 g",
         "brand": "MARUTI",
@@ -14427,6 +14681,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928738561.jpg.2e62fda88c.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7529729",
+        "name": "Dove Serum Bar Collection Soap Pack of 5 (125 g each)",
+        "brand": "dove",
+        "category": "bath_hand_wash",
+        "old_price": 450.0,
+        "new_price": 402.0,
+        "savings": 48.0,
+        "discount_pct": 10.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dove-serum-bar-collection-soap-pack-of-5-125-g-each-mffn48-7529729",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946089321.jpg.74a5b9640c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "VIKARABAD"
         ]
     },
     {
