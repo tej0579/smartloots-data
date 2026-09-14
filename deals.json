@@ -3550,23 +3550,6 @@
         ]
     },
     {
-        "uid": "7542476",
-        "name": "Cauliflower 1 pc (Approx 300 g - 500 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 49.0,
-        "new_price": 28.0,
-        "savings": 21.0,
-        "discount_pct": 42.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cauliflower-1-pc-approx-300-g-500-g-mffna2-7542476",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900006191.jpg.61f948539f.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7505781",
         "name": "Parachute Aloe vera Gold Coconut Advanced Hair Oil 400 ml",
         "brand": "parachute",
@@ -4115,22 +4098,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908700101.jpg.a8ee533116.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7533346",
-        "name": "Coriander Bunch (Approx 100 g - 150 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 10.0,
-        "new_price": 6.0,
-        "savings": 4.0,
-        "discount_pct": 40.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/coriander-bunch-approx-50-g-150-g-mffn5v-7533346",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900005281.jpg.f5ada678f6.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -4846,6 +4813,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/he-respect-perfumed-body-spray-for-men-150-ml-0-20211125.jpg.f41a55b799.jpg",
         "locations": [
             "INDORE"
+        ]
+    },
+    {
+        "uid": "89085193",
+        "name": "Home One Plastic Round Pixie Pot 330 ml (1 pc)",
+        "brand": "home one",
+        "category": "containers_and_storage",
+        "old_price": 59.0,
+        "new_price": 39.0,
+        "savings": 20.0,
+        "discount_pct": 33.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/home-one-plastic-round-pixie-pot-330-ml-1-pc-mp6rp7-89085193",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945900231.jpg.4f07080a7f.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -6962,56 +6945,6 @@
         ]
     },
     {
-        "uid": "78723423",
-        "name": "Parachute Coconut Milk & Shikakai Protein Shampoo 650 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 350.0,
-        "new_price": 249.0,
-        "savings": 101.0,
-        "discount_pct": 28.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-coconut-milk-shikakai-protein-shampoo-650-ml-mntj3s-78723423",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947887831.jpg.f05eb9d044.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "78723426",
-        "name": "Parachute Coconut Milk & Aloe Vera Protein Shampoo 650 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 350.0,
-        "new_price": 249.0,
-        "savings": 101.0,
-        "discount_pct": 28.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-coconut-milk-aloe-vera-protein-shampoo-650-ml-mntj40-78723426",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947887791.jpg.1481a26ed4.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "78723428",
-        "name": "Parachute Coconut Milk & Rosemary Protein Shampoo 650 ml",
-        "brand": "parachute",
-        "category": "hair_care",
-        "old_price": 350.0,
-        "new_price": 249.0,
-        "savings": 101.0,
-        "discount_pct": 28.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/parachute-coconut-milk-rosemary-protein-shampoo-650-ml-mntj4g-78723428",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947887811.jpg.0025a645c6.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "72240675",
         "name": "Candid Menthol Cool Prickly Heat Powder 120 g",
         "brand": "Candid",
@@ -8304,14 +8237,15 @@
         "name": "Pond's Hydra Miracle Hyaluronic Super Light Gel 300 ml",
         "brand": "Pond's",
         "category": "skin_care",
-        "old_price": 615.0,
-        "new_price": 452.0,
-        "savings": 163.0,
+        "old_price": 565.0,
+        "new_price": 415.0,
+        "savings": 150.0,
         "discount_pct": 26.5,
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/ponds-hydra-miracle-hyaluronic-super-light-gel-300-ml-mffndz-7549884",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944094501.jpg.3cb6ced375.jpg",
         "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -8918,22 +8852,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7520291",
-        "name": "Vaseline Cocoa Butter Lip Therapy 17 g",
-        "brand": "vaseline",
-        "category": "nails_lips",
-        "old_price": 197.0,
-        "new_price": 147.0,
-        "savings": 50.0,
-        "discount_pct": 25.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/vaseline-cocoa-butter-lip-therapy-17-g-mffmzt-7520291",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923678681.jpg.3a85c71d35.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -11469,6 +11387,23 @@
         ]
     },
     {
+        "uid": "7542476",
+        "name": "Cauliflower 1 pc (Approx 300 g - 500 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 46.0,
+        "new_price": 36.0,
+        "savings": 10.0,
+        "discount_pct": 21.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cauliflower-1-pc-approx-300-g-500-g-mffna2-7542476",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900006191.jpg.61f948539f.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "31049874",
         "name": "Good Life Green Cardamom 100 g",
         "brand": "Good Life",
@@ -12469,24 +12404,6 @@
         "url": "https://store1.jiomartjcp.com/product/gits-rabdi-dessert-mix-100-g-mffn22-7525230",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902909321.jpg.eea62b8242.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "69366430",
-        "name": "Pond's Magic Lavender Bloom Talcum Powder 300 g",
-        "brand": "Pond's",
-        "category": "skin_care",
-        "old_price": 258.0,
-        "new_price": 205.0,
-        "savings": 53.0,
-        "discount_pct": 20.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pond-s-magic-lavender-bloom-talcum-powder-300-g-mjr4ln-69366430",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947511121.jpg.2c70df54fc.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -14836,22 +14753,6 @@
         ]
     },
     {
-        "uid": "7538008",
-        "name": "Daawat Rozana 40 Mini Mogra - II Basmati Rice 10 kg",
-        "brand": "Daawat",
-        "category": "rice",
-        "old_price": 499.0,
-        "new_price": 449.0,
-        "savings": 50.0,
-        "discount_pct": 10.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/daawat-rozana-mini-mogra-ii-basmati-rice-10-kg-mffn7z-7538008",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923400861.jpg.3ee3fe1047.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7597177",
         "name": "Scotch-Brite Bathroom Squeegee Mop 1 pc",
         "brand": "Scotch-Brite",
@@ -14935,22 +14836,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911209781.jpg.5dd2bb737a.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7537996",
-        "name": "India Gate Daily Premium Basmati Rice 5 kg",
-        "brand": "india gate",
-        "category": "rice",
-        "old_price": 525.0,
-        "new_price": 479.0,
-        "savings": 46.0,
-        "discount_pct": 8.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/india-gate-daily-premium-basmati-rice-5-kg-mffn7z-7537996",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936458321.jpg.6f71b7cc17.jpg",
-        "locations": [
             "INDORE"
         ]
     },
@@ -15069,22 +14954,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7542958",
-        "name": "Daawat Rozana 70 Mogra Basmati Rice 10 kg",
-        "brand": "Daawat",
-        "category": "rice",
-        "old_price": 699.0,
-        "new_price": 649.0,
-        "savings": 50.0,
-        "discount_pct": 7.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/daawat-rozana-mogra-basmati-rice-10-kg-mffnab-7542958",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913168151.jpg.27ef0986b1.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
