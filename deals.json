@@ -302,23 +302,6 @@
         ]
     },
     {
-        "uid": "7507583",
-        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
-        "brand": "Private Label",
-        "category": "fresh_vegetables",
-        "old_price": 32.0,
-        "new_price": 14.0,
-        "savings": 18.0,
-        "discount_pct": 56.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
-        "locations": [
-            "INDORE",
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "81191181",
         "name": "Kelloggs Multigrain plus Corn Flakes 450 g",
         "brand": "Kellogg's",
@@ -608,22 +591,6 @@
             "VIKARABAD",
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "124151776",
-        "name": "Cadbury Fuse Bites Miniature Chocolate 9 x 13 g",
-        "brand": "cadbury",
-        "category": "chocolates_candies",
-        "old_price": 133.0,
-        "new_price": 66.0,
-        "savings": 67.0,
-        "discount_pct": 50.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/cadbury-fuse-bites-miniature-chocolate-9-x-13-g-mqp3fe-124151776",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4948096411.jpg.192fb59923.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -3415,22 +3382,6 @@
         ]
     },
     {
-        "uid": "74396467",
-        "name": "Yoga Bar Womens  Dark Chocolate Muesli 350 g",
-        "brand": "yogabar",
-        "category": "breakfast_cereals",
-        "old_price": 175.0,
-        "new_price": 99.0,
-        "savings": 76.0,
-        "discount_pct": 43.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/yoga-bar-womens-dark-chocolate-muesli-350-g-mo7cn4",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943596141.jpg.ebe36c75ee.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7528802",
         "name": "Pears Variety Pack 125 g (Pack of 5)",
         "brand": "Pears",
@@ -6083,22 +6034,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7550805",
-        "name": "Yogabar Millet Muesli 450 g",
-        "brand": "yogabar",
-        "category": "breakfast_cereals",
-        "old_price": 142.0,
-        "new_price": 99.0,
-        "savings": 43.0,
-        "discount_pct": 30.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/yogabar-millet-muesli-500-g-mffnec-7550805",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945034271.jpg.e9e9ad89a5.jpg",
-        "locations": [
             "VIKARABAD"
         ]
     },
@@ -10603,22 +10538,6 @@
         ]
     },
     {
-        "uid": "81190912",
-        "name": "Sunfeast Mom's Magic Cashew & Almond Cookies 183 g",
-        "brand": "sunfeast",
-        "category": "biscuits_cookies",
-        "old_price": 42.0,
-        "new_price": 32.0,
-        "savings": 10.0,
-        "discount_pct": 23.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/sunfeast-mom-s-magic-cashew-almond-cookies-183-g-mo7cm5-81190912",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911794381.jpg.887f2664a8.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7541095",
         "name": "Mount 84 Rocksalt Crystals 1 Kg",
         "brand": "MOUNT 84",
@@ -11322,6 +11241,23 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7507583",
+        "name": "Cabbage 1 pc (Approx 600 g - 1000 g)",
+        "brand": "Private Label",
+        "category": "fresh_vegetables",
+        "old_price": 32.0,
+        "new_price": 25.0,
+        "savings": 7.0,
+        "discount_pct": 21.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/cabbage-1-pc-approx-600-g-1000-g-mffmtv-7507583",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900023701.jpg.55602ceaee.jpg",
+        "locations": [
+            "INDORE",
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -12604,22 +12540,6 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/head-shoulders-cool-menthol-anti-dandruff-shampoo-650-ml-mffn30-7527046",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290431.jpg.ac2fc885e0.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7533998",
-        "name": "Pantene Pro-V Advanced Hair Fall Control Shampoo 650 ml",
-        "brand": "Pantene",
-        "category": "hair_care",
-        "old_price": 543.0,
-        "new_price": 434.0,
-        "savings": 109.0,
-        "discount_pct": 20.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pantene-pro-v-advanced-hair-fall-control-shampoo-650-ml-mffn66-7533998",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907402981.jpg.29c64b455c.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
