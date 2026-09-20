@@ -1,21 +1,5 @@
 [
     {
-        "uid": "7542448",
-        "name": "Dabur Almond Hair Oil 485 ml",
-        "brand": "Dabur",
-        "category": "hair_care",
-        "old_price": 187.0,
-        "new_price": 29.0,
-        "savings": 158.0,
-        "discount_pct": 84.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dabur-almond-hair-oil-for-damage-free-hair-485-ml-mffna2-7542448",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912643241.jpg.e6fba6ddb2.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "132703843",
         "name": "IGP Elegant Beaded Bracelet Rakhi (FMRABB450985)",
         "brand": "IGP",
@@ -3634,6 +3618,23 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912095491.jpg.6567f6941d.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7515272",
+        "name": "Khadi Natural Rosewater Soap 125g (Pack of 3)",
+        "brand": "khadi",
+        "category": "bath_hand_wash",
+        "old_price": 207.0,
+        "new_price": 120.0,
+        "savings": 87.0,
+        "discount_pct": 42.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/khadi-natural-rosewater-soap-125g-pack-of-3-mffmxh-7515272",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936803821.jpg.cc0a6cf3ef.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -7488,23 +7489,6 @@
         ]
     },
     {
-        "uid": "7515272",
-        "name": "Khadi Natural Rosewater Soap 125g (Pack of 3)",
-        "brand": "khadi",
-        "category": "bath_hand_wash",
-        "old_price": 207.0,
-        "new_price": 148.0,
-        "savings": 59.0,
-        "discount_pct": 28.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/khadi-natural-rosewater-soap-125g-pack-of-3-mffmxh-7515272",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936803821.jpg.cc0a6cf3ef.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7504285",
         "name": "Khadi Natural Sandalwood Soap 125g (Pack of 3)",
         "brand": "khadi",
@@ -10718,23 +10702,6 @@
         "url": "https://store1.jiomartjcp.com/product/ambika-no4-appalam-180-g-mffn0x-7522763",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/ambika-no-4-appalam-180-g-0-20210810.jpg.13991b4046.jpg",
         "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7518395",
-        "name": "Aachi Instant Semiya Payasam Mix 175 g",
-        "brand": "Aachi",
-        "category": "ready_to_cook_eat",
-        "old_price": 64.0,
-        "new_price": 49.0,
-        "savings": 15.0,
-        "discount_pct": 23.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/aachi-instant-semiya-payasam-mix-175-g-mffmyy-7518395",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900666011.jpg.6f32db6d5e.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
         ]
     },
