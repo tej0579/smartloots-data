@@ -1492,6 +1492,7 @@
         "url": "https://store1.jiomartjcp.com/product/everyday-premium-bombay-pav-200-g-mffndy-7549813",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942377681.jpg.6ce384218b.jpg",
         "locations": [
+            "VIKARABAD",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -2330,23 +2331,6 @@
         ]
     },
     {
-        "uid": "7544448",
-        "name": "Himalaya Gentle Baby Soap 75 g (Pack of 4)",
-        "brand": "himalaya",
-        "category": "bath_hygiene_grooming",
-        "old_price": 228.0,
-        "new_price": 120.0,
-        "savings": 108.0,
-        "discount_pct": 47.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/himalaya-gentle-baby-soap-75-g-pack-of-4-mffnay-7544448",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-gentle-baby-soap-value-pack-75-g-pack-of-4-0-20201005.jpg.24a3ab514c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7528468",
         "name": "Himalaya Gentle Baby Wipes 72 pcs",
         "brand": "himalaya",
@@ -2377,7 +2361,8 @@
         "url": "https://store1.jiomartjcp.com/product/himalaya-baby-lotion-400-ml-mffnb3-7544782",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-baby-lotion-400-ml-0-20210602.jpg.69b575af83.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -2526,6 +2511,24 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/hersheysassortedgiftpack129g-2.jpg.804b5ea1a6.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7544448",
+        "name": "Himalaya Gentle Baby Soap 75 g (Pack of 4)",
+        "brand": "himalaya",
+        "category": "bath_hygiene_grooming",
+        "old_price": 216.0,
+        "new_price": 114.0,
+        "savings": 102.0,
+        "discount_pct": 47.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-gentle-baby-soap-75-g-pack-of-4-mffnay-7544448",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-gentle-baby-soap-value-pack-75-g-pack-of-4-0-20201005.jpg.24a3ab514c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -3777,22 +3780,6 @@
         ]
     },
     {
-        "uid": "31048519",
-        "name": "Suhana Shahi Paneer Mix 50 g",
-        "brand": "Suhana",
-        "category": "masala_spices_mukhwas",
-        "old_price": 42.0,
-        "new_price": 25.0,
-        "savings": 17.0,
-        "discount_pct": 40.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/suhana-shahi-paneer-mix-50-g-milckz-31048519",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/suhana-shahi-paneer-mix-50-g-0-20210216.jpg.d97cc2f1bc.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7546506",
         "name": "Kellogg's Fruit Nut & Seeds Muesli 65 g",
         "brand": "Kellogg's",
@@ -3953,7 +3940,8 @@
         "url": "https://store1.jiomartjcp.com/product/prestige-clean-home-blue-abs-plastic-magic-mop-with-2-refill-mop-heads-and-twin-buckets-7-l-mffn07-7521194",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004926483911.jpg.4abe2603c0.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
         ]
     },
     {
@@ -5227,22 +5215,6 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "7516413",
-        "name": "Tata Grand Premium Coffee 100 g",
-        "brand": "TATA GRAND",
-        "category": "tea_coffee",
-        "old_price": 360.0,
-        "new_price": 240.0,
-        "savings": 120.0,
-        "discount_pct": 33.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tata-grand-premium-coffee-100-g-mffmy1-7516413",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/1.png.62bc9d5ad7.png",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -10126,22 +10098,6 @@
         ]
     },
     {
-        "uid": "72618159",
-        "name": "Nakoda Golden Mixture 750 g",
-        "brand": "Nakoda",
-        "category": "chips_namkeens",
-        "old_price": 130.0,
-        "new_price": 99.0,
-        "savings": 31.0,
-        "discount_pct": 23.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nakoda-golden-mixture-750-g-mkqu84-72618159",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004946204411.jpg.1b9e38bc73.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7541095",
         "name": "Mount 84 Rocksalt Crystals 1 Kg",
         "brand": "MOUNT 84",
@@ -10372,6 +10328,8 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945901471.jpg.298d48c9fc.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
+            "VIKARABAD",
+            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -10672,6 +10630,23 @@
         "url": "https://store1.jiomartjcp.com/product/drrashel-lemon-wet-wipes-25-pcs-mffnag-7543276",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944099231.jpg.d210ad21c8.jpg",
         "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7511132",
+        "name": "Bikaji Bikaneri Bhujia 1 kg",
+        "brand": "Bikaji",
+        "category": "chips_namkeens",
+        "old_price": 350.0,
+        "new_price": 270.0,
+        "savings": 80.0,
+        "discount_pct": 22.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/bikaji-bikaneri-bhujia-1-kg-mffmvk-7511132",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900053111.jpg.e9226861e0.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -11099,22 +11074,6 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7539204",
-        "name": "Whisper Bindazzz Nights Sanitary Napkin with Wings (XXL+) 16 pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 290.0,
-        "new_price": 227.0,
-        "savings": 63.0,
-        "discount_pct": 21.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-sanitary-napkin-with-wings-xxl-16-pads-mffn8j-7539204",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919473701.jpg.f6e80d9104.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -11644,25 +11603,6 @@
         ]
     },
     {
-        "uid": "7543131",
-        "name": "Scotch Brite Scrub Sponge (10 cm x 6 cm) 3 pcs",
-        "brand": "Scotch-Brite",
-        "category": "home_cleaning_tools",
-        "old_price": 100.0,
-        "new_price": 79.0,
-        "savings": 21.0,
-        "discount_pct": 21.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/scotch-brite-scrub-sponge-10-cm-x-6-cm-3-pcs-mffnad-7543131",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/7339732-2scotchbritescrubsponge6.9x103pkrs105fop.png.b09448dbf3.png",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7505457",
         "name": "Ambika No.5 Appalam 150 g",
         "brand": "Ambika",
@@ -11744,23 +11684,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/4945711081.png.c4b8abd88e.png",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "7504857",
-        "name": "Alpino Classic+ Crunch Peanut Butter 400 g",
-        "brand": "Alpino",
-        "category": "spread_sauces_ketchup",
-        "old_price": 125.0,
-        "new_price": 99.0,
-        "savings": 26.0,
-        "discount_pct": 20.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/alpino-classic-crunch-peanut-butter-400-g-mffmsm-7504857",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004923393751.jpg.5ece36478a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
             "INDORE"
         ]
     },
@@ -12317,19 +12240,19 @@
         ]
     },
     {
-        "uid": "7545390",
-        "name": "Stayfree Advanced All Night Ultra Soft Sanitary Napkin XXL 42 N",
-        "brand": "stayfree",
-        "category": "feminine_hygiene",
-        "old_price": 534.0,
-        "new_price": 428.0,
-        "savings": 106.0,
-        "discount_pct": 19.9,
+        "uid": "7527478",
+        "name": "Chilli Green 100 g Pack",
+        "brand": "reliance",
+        "category": "fresh_vegetables",
+        "old_price": 10.0,
+        "new_price": 8.0,
+        "savings": 2.0,
+        "discount_pct": 20.0,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/stayfree-advanced-all-night-ultra-soft-xxl-42-pcs-mffnbe-7545390",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4943364383.jpg.0d0afda9d6.jpg",
+        "url": "https://store1.jiomartjcp.com/product/chilli-green-100-g-pack-mffn38-7527478",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900035331.jpg.04e06a9cff.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -12800,23 +12723,6 @@
         ]
     },
     {
-        "uid": "7511132",
-        "name": "Bikaji Bikaneri Bhujia 1 kg",
-        "brand": "Bikaji",
-        "category": "chips_namkeens",
-        "old_price": 350.0,
-        "new_price": 295.0,
-        "savings": 55.0,
-        "discount_pct": 15.7,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bikaji-bikaneri-bhujia-1-kg-mffmvk-7511132",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900053111.jpg.e9226861e0.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "73351945",
         "name": "Smart And Handsome Oil Clear Face Wash 150 g",
         "brand": "Smart & Handsome",
@@ -13196,22 +13102,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919350811.jpg.d8a2c8fc48.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7567792",
-        "name": "Tata Grand Filter Coffee Powder 500 g",
-        "brand": "TATA GRAND",
-        "category": "tea_coffee",
-        "old_price": 387.0,
-        "new_price": 337.0,
-        "savings": 50.0,
-        "discount_pct": 12.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tata-grand-filter-coffee-powder-500-g-mfphwl-7567792",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004914171001.jpg.d723313b14.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -13649,6 +13539,22 @@
         ]
     },
     {
+        "uid": "7534230",
+        "name": "Dhara Health Refined Sunflower Oil 4.2 kg",
+        "brand": "Dhara",
+        "category": "edible_oils",
+        "old_price": 986.0,
+        "new_price": 945.0,
+        "savings": 41.0,
+        "discount_pct": 4.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/dhara-health-refined-sunflower-oil-42-kg-mffn69-7534230",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900127301.jpg.45d9e64119.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
         "uid": "7508371",
         "name": "Best Farms Sona Masoori Super Premium Rice 30 kg",
         "brand": "Best Farms",
@@ -13665,6 +13571,22 @@
         ]
     },
     {
+        "uid": "7518387",
+        "name": "Ankur Filtered Groundnut Oil 13 kg",
+        "brand": "ankur",
+        "category": "edible_oils",
+        "old_price": 2942.0,
+        "new_price": 2847.0,
+        "savings": 95.0,
+        "discount_pct": 3.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/ankur-filtered-groundnut-oil-13-kg-mffmyy-7518387",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900225091.jpg.304a01ecd2.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7527089",
         "name": "Ankur Refined Cottonseed Oil 15 kg",
         "brand": "ankur",
@@ -13678,22 +13600,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004901160921.jpg.e6121afff9.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7536856",
-        "name": "Fortune Sunlite Refined Sunflower Oil 13 kg",
-        "brand": "fortune",
-        "category": "edible_oils",
-        "old_price": 2661.0,
-        "new_price": 2599.0,
-        "savings": 62.0,
-        "discount_pct": 2.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/fortune-sunlite-refined-sunflower-oil-13-kg-mffn7g-7536856",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900127111.jpg.e81cc0ad19.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
