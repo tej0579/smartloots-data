@@ -19,22 +19,6 @@
         ]
     },
     {
-        "uid": "31045294",
-        "name": "Good Life White Till 100 g",
-        "brand": "Good Life",
-        "category": "masala_spices_mukhwas",
-        "old_price": 160.0,
-        "new_price": 30.0,
-        "savings": 130.0,
-        "discount_pct": 81.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/good-life-white-till-100-g-milck2-31045294",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-white-til-100-g-0-20220107.jpg.2214ce5eac.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "87530816",
         "name": "Home One Plastic Cylinder Gas Trolley 1 pc (30 x 23 cm)",
         "brand": "home one",
@@ -1161,22 +1145,6 @@
         ]
     },
     {
-        "uid": "89085239",
-        "name": "Mr Bakewell Lachha Paratha 400 g",
-        "brand": "Mr Bakewell",
-        "category": "ice_cream_frozen",
-        "old_price": 90.0,
-        "new_price": 45.0,
-        "savings": 45.0,
-        "discount_pct": 50.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/mr-bakewell-lachha-paratha-400-g-mp6rp7-89085239",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004947754751.jpg.87ab3f0969.jpg",
-        "locations": [
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7531215",
         "name": "Good Life Suji / Rawa 1 kg",
         "brand": "Good Life",
@@ -1580,6 +1548,7 @@
         "url": "https://store1.jiomartjcp.com/product/true-elements-choco-almond-protein-bar-40-g-mklasn-72266620",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004943595681.jpg.17ffea1c57.jpg",
         "locations": [
+            "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -1650,6 +1619,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/gheejar-500ml.png.cda221b1ec.png",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7551833",
+        "name": "Yogabar Super Muesli With Whole Grains Seeds & Almonds 400 g",
+        "brand": "yogabar",
+        "category": "breakfast_cereals",
+        "old_price": 195.0,
+        "new_price": 99.0,
+        "savings": 96.0,
+        "discount_pct": 49.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/yogabar-super-muesli-with-whole-grains-seeds-almonds-400-g-mffnev-7551833",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916962131.jpg.85d55c8f80.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -3744,6 +3729,25 @@
         ]
     },
     {
+        "uid": "7523082",
+        "name": "Whisper Bindazzz Nights XXL Sanitary Pads 40 Pads",
+        "brand": "whisper",
+        "category": "feminine_hygiene",
+        "old_price": 578.0,
+        "new_price": 324.0,
+        "savings": 254.0,
+        "discount_pct": 43.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-xxl-sanitary-pads-40-pads-mffn13-7523082",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925199031.jpg.bee1bb19d6.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE",
+            "VIKARABAD",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "133552858",
         "name": "Home One Plastic Square Pixie Pot 430 ml (1 pc)",
         "brand": "home one",
@@ -4499,6 +4503,22 @@
         ]
     },
     {
+        "uid": "7541731",
+        "name": "Catch Super Garam Masala 200 g",
+        "brand": "Catch",
+        "category": "masala_spices_mukhwas",
+        "old_price": 85.0,
+        "new_price": 52.0,
+        "savings": 33.0,
+        "discount_pct": 38.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/catch-super-garam-masala-200-g-mffn9q-7541731",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908700511.jpg.a68ed0d037.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7550816",
         "name": "Vega Pumice Stone",
         "brand": "vega",
@@ -5209,24 +5229,6 @@
         ]
     },
     {
-        "uid": "7523082",
-        "name": "Whisper Bindazzz Nights XXL Sanitary Pads 40 Pads",
-        "brand": "whisper",
-        "category": "feminine_hygiene",
-        "old_price": 499.0,
-        "new_price": 324.0,
-        "savings": 175.0,
-        "discount_pct": 35.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/whisper-bindazzz-nights-xxl-sanitary-pads-40-pads-mffn13-7523082",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925199031.jpg.bee1bb19d6.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "VIKARABAD",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7544537",
         "name": "Zoff Shahi Biryani Masala 100 g",
         "brand": "ZOFF",
@@ -5560,6 +5562,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945900231.jpg.4f07080a7f.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7549293",
+        "name": "Good Life Mace 25 g",
+        "brand": "Good Life",
+        "category": "masala_spices_mukhwas",
+        "old_price": 139.0,
+        "new_price": 92.0,
+        "savings": 47.0,
+        "discount_pct": 33.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-mace-25-g-mffndq-7549293",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004942605121.jpg.5c7d9bab57.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -6335,6 +6353,22 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004925195001.jpg.3d0ffb3c6e.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
+        "uid": "7515324",
+        "name": "Orange 1 kg",
+        "brand": "Private Label",
+        "category": "fresh_fruits",
+        "old_price": 116.0,
+        "new_price": 79.0,
+        "savings": 37.0,
+        "discount_pct": 31.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/orange-1-kg-mffmxi-7515324",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900004491.jpg.cf5dcaf3a4.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -7869,24 +7903,6 @@
         ]
     },
     {
-        "uid": "7542886",
-        "name": "Head & Shoulders Cool Menthol Anti-Dandruff Shampoo 180 ml",
-        "brand": "Head & Shoulders",
-        "category": "hair_care",
-        "old_price": 207.0,
-        "new_price": 146.0,
-        "savings": 61.0,
-        "discount_pct": 29.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/head-shoulders-cool-menthol-anti-dandruff-shampoo-180-ml-mffna9-7542886",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/head-shoulders-cool-menthol-anti-dandruff-shampoo-180-ml-0-20210727.jpg.4cc517bbb1.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "INDORE",
-            "VIKARABAD"
-        ]
-    },
-    {
         "uid": "7517565",
         "name": "Tata Grand Premium Coffee 90 g",
         "brand": "TATA GRAND",
@@ -7933,6 +7949,22 @@
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "31047718",
+        "name": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg",
+        "brand": "Tata Sampann",
+        "category": "dals_pulses",
+        "old_price": 231.0,
+        "new_price": 163.0,
+        "savings": 68.0,
+        "discount_pct": 29.4,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tata-sampann-unpolished-tur-arhar-dal-1-kg-milcks-31047718",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908309321.jpg.6bc7143e59.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -8418,22 +8450,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4946090581.jpg.d74dba8046.jpg",
         "locations": [
             "INDORE",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7507754",
-        "name": "Dragonfruit (Red Flesh) 1 pc",
-        "brand": "reliance",
-        "category": "fresh_fruits",
-        "old_price": 69.0,
-        "new_price": 49.0,
-        "savings": 20.0,
-        "discount_pct": 29.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/dragonfruit-red-flesh-1-pc-mffmty-7507754",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900036121.jpg.5e119d8fa7.jpg",
-        "locations": [
             "HYDERABAD_GUDIMALKAPUR"
         ]
     },
@@ -9252,6 +9268,22 @@
         ]
     },
     {
+        "uid": "24071029",
+        "name": "Good Life Green Cardamom 50 g",
+        "brand": "Good Life",
+        "category": "masala_spices_mukhwas",
+        "old_price": 299.0,
+        "new_price": 216.0,
+        "savings": 83.0,
+        "discount_pct": 27.8,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-green-cardamom-50-g-mief8a-24071029",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911851071.jpg.c5a2c556ee.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7529473",
         "name": "Aashirvaad Chaat Masala 100 g",
         "brand": "aashirvaad",
@@ -9602,22 +9634,6 @@
             "INDORE",
             "VIKARABAD",
             "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
-        "uid": "7539255",
-        "name": "Shareat Foochka Ready To Fry Panipuri Water Balls 200 g",
-        "brand": "Shareat",
-        "category": "ready_to_cook_eat",
-        "old_price": 34.0,
-        "new_price": 25.0,
-        "savings": 9.0,
-        "discount_pct": 26.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/shareat-foochka-ready-to-fry-panipuri-water-balls-200-g-mffn8k-7539255",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004915978931.jpg.2ecaa497ef.jpg",
-        "locations": [
-            "INDORE"
         ]
     },
     {
@@ -10119,6 +10135,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/trimurti-kings-premium-frozen-sweet-corn-1-kg-mffn0n-7522124",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004904491841.jpg.11e3e19032.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
+        "uid": "7543044",
+        "name": "MamyPoko Aloevera Extra Clean Wipes 72 pcs",
+        "brand": "mamypoko",
+        "category": "diapers_wipes",
+        "old_price": 133.0,
+        "new_price": 99.0,
+        "savings": 34.0,
+        "discount_pct": 25.6,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/mamypoko-aloevera-extra-clean-wipes-72-pcs-mffnac-7543044",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004921835111.jpg.ea4869f8cc.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
@@ -11179,6 +11211,22 @@
         ]
     },
     {
+        "uid": "7534226",
+        "name": "Good Life Fine Mustard / Kali Sarso / Rai 200 g",
+        "brand": "Good Life",
+        "category": "masala_spices_mukhwas",
+        "old_price": 40.0,
+        "new_price": 30.0,
+        "savings": 10.0,
+        "discount_pct": 25.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-fine-mustard-kali-sarso-rai-200-g-mffn69-7534226",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/good-life-fine-mustard-200-g-0-20211011.jpg.6891832414.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7534294",
         "name": "Dove Nutritive Solutions Dandruff Care ZPTO & Micro Moisture Serum Shampoo 180 ml",
         "brand": "dove",
@@ -11665,6 +11713,22 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "24057470",
+        "name": "Good Life Black Pepper 50 g",
+        "brand": "Good Life",
+        "category": "masala_spices_mukhwas",
+        "old_price": 70.0,
+        "new_price": 53.0,
+        "savings": 17.0,
+        "discount_pct": 24.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/good-life-black-pepper-50-g-mieeb2-24057470",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911851111.jpg.383dddacd4.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -12470,17 +12534,17 @@
         ]
     },
     {
-        "uid": "7515324",
-        "name": "Orange 1 kg",
-        "brand": "Private Label",
-        "category": "fresh_fruits",
-        "old_price": 116.0,
-        "new_price": 89.0,
-        "savings": 27.0,
+        "uid": "7522653",
+        "name": "Cornitos Cheese & Herbs Nacho Crisps 55 g",
+        "brand": "Cornitos",
+        "category": "chips_namkeens",
+        "old_price": 30.0,
+        "new_price": 23.0,
+        "savings": 7.0,
         "discount_pct": 23.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/orange-1-kg-mffmxi-7515324",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000005900004491.jpg.cf5dcaf3a4.jpg",
+        "url": "https://store1.jiomartjcp.com/product/cornitos-cheese-herbs-nacho-crisps-55-g-mffn0w-7522653",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909292471.jpg.e3d51b5bba.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA"
         ]
@@ -13457,8 +13521,9 @@
         "url": "https://store1.jiomartjcp.com/product/mayora-malkist-chocolate-cracker-biscuits-144-g-mffn4q-7530785",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004919350661.jpg.1fba13798d.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
+            "INDORE",
+            "VIKARABAD",
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -13988,6 +14053,22 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
+        ]
+    },
+    {
+        "uid": "7520607",
+        "name": "Himalaya Wheatgerm Oil & Carrot Seed Oil Lip Balm 10 g",
+        "brand": "himalaya",
+        "category": "nails_lips",
+        "old_price": 38.0,
+        "new_price": 30.0,
+        "savings": 8.0,
+        "discount_pct": 21.1,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-wheatgerm-oil-carrot-seed-oil-lip-balm-10-g-mffmzx-7520607",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-wheatgerm-oil-carrot-seed-oil-lip-balm-10-g-0-20210112.jpg.8142886b7c.jpg",
+        "locations": [
+            "VIKARABAD"
         ]
     },
     {
@@ -14838,6 +14919,22 @@
         ]
     },
     {
+        "uid": "78759882",
+        "name": "VIP Supreme Men's Sleeveless Cotton Vest, 95 cm, White (Pack of 3)",
+        "brand": "vip",
+        "category": "furnishing_personal_wear",
+        "old_price": 345.0,
+        "new_price": 276.0,
+        "savings": 69.0,
+        "discount_pct": 20.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/vip-supreme-men-s-sleeveless-cotton-vest-95-cm-white-pack-of-3-mnwslr-78759882",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000004203981790011.jpg.35fc829ac0.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7504239",
         "name": "Vaseline Intensive Care Deep Moisture Body Lotion 400 ml",
         "brand": "vaseline",
@@ -15395,6 +15492,22 @@
         ]
     },
     {
+        "uid": "24054179",
+        "name": "Rentio Premium Deshi Oiled Tur / Arhar Dal 5 kg",
+        "brand": "Rentio",
+        "category": "dals_pulses",
+        "old_price": 958.0,
+        "new_price": 805.0,
+        "savings": 153.0,
+        "discount_pct": 16.0,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/rentio-premium-deshi-oiled-tur-arhar-dal-5-kg-miee36-24054179",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900677261.jpg.0f0a9ea2ce.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "7523292",
         "name": "Nescafe Classic Instant Coffee 90 g",
         "brand": "Nescafe",
@@ -15796,6 +15909,22 @@
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE",
             "VIKARABAD"
+        ]
+    },
+    {
+        "uid": "7529937",
+        "name": "Clinic Plus Strong & Long Health Shampoo 650 ml",
+        "brand": "clinic plus",
+        "category": "hair_care",
+        "old_price": 420.0,
+        "new_price": 360.0,
+        "savings": 60.0,
+        "discount_pct": 14.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/clinic-plus-strong-long-health-shampoo-650-ml-mffn4c-7529937",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909084751.jpg.acd06d324d.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
@@ -16361,22 +16490,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "24054179",
-        "name": "Rentio Premium Deshi Oiled Tur / Arhar Dal 5 kg",
-        "brand": "Rentio",
-        "category": "dals_pulses",
-        "old_price": 958.0,
-        "new_price": 859.0,
-        "savings": 99.0,
-        "discount_pct": 10.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/rentio-premium-deshi-oiled-tur-arhar-dal-5-kg-miee36-24054179",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900677261.jpg.0f0a9ea2ce.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
