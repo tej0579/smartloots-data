@@ -3423,6 +3423,22 @@
         ]
     },
     {
+        "uid": "7525620",
+        "name": "Telugu Foods Andhra Mixture 400 g",
+        "brand": "Telugu Foods",
+        "category": "chips_namkeens",
+        "old_price": 179.0,
+        "new_price": 99.0,
+        "savings": 80.0,
+        "discount_pct": 44.7,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/telugu-foods-andhra-mixture-400-g-mffn29-7525620",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004930315311.jpg.8386e7a71b.jpg",
+        "locations": [
+            "VIKARABAD"
+        ]
+    },
+    {
         "uid": "7518594",
         "name": "Tata Soulfull Masala Oats+ Desi Veggie 500 g",
         "brand": "soulfull",
@@ -3658,22 +3674,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004945035871.jpg.104139b6f4.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7550443",
-        "name": "Kabhi B Oven Fresh White Bread 400 g",
-        "brand": "Kabhi B",
-        "category": "breads_chapatis",
-        "old_price": 52.0,
-        "new_price": 29.0,
-        "savings": 23.0,
-        "discount_pct": 44.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kabhi-b-oven-fresh-white-bread-400-g-mffne7-7550443",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004916414271.jpg.32ac696821.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -4350,22 +4350,6 @@
         "locations": [
             "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7525620",
-        "name": "Telugu Foods Andhra Mixture 400 g",
-        "brand": "Telugu Foods",
-        "category": "chips_namkeens",
-        "old_price": 179.0,
-        "new_price": 109.0,
-        "savings": 70.0,
-        "discount_pct": 39.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/telugu-foods-andhra-mixture-400-g-mffn29-7525620",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004930315311.jpg.8386e7a71b.jpg",
-        "locations": [
-            "VIKARABAD"
         ]
     },
     {
@@ -9677,22 +9661,6 @@
         ]
     },
     {
-        "uid": "7500925",
-        "name": "Bournvita Chocolate Nutrition Drink, 700 g Pouch",
-        "brand": "Bournvita",
-        "category": "drinks_juices",
-        "old_price": 337.0,
-        "new_price": 249.0,
-        "savings": 88.0,
-        "discount_pct": 26.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bournvita-chocolate-nutrition-drink-700-g-pouch-mffmqk-7500925",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911874811.jpg.b38a33ae07.jpg",
-        "locations": [
-            "INDORE"
-        ]
-    },
-    {
         "uid": "146579035",
         "name": "Cello Fridge Door Canister 2000 ml",
         "brand": "Cello",
@@ -13654,8 +13622,9 @@
         "url": "https://store1.jiomartjcp.com/product/cadbury-chocobakes-choc-layered-cake-114-g-pack-of-6-mffmur-7509415",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4918953131.jpg.6a61180876.jpg",
         "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
+            "AHMEDABAD_GHATLODIYA",
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
         ]
     },
     {
