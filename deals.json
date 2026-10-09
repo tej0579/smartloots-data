@@ -21,9 +21,9 @@
         "brand": "Dabur",
         "category": "spread_sauces_ketchup",
         "old_price": 553.0,
-        "new_price": 58.0,
-        "savings": 495.0,
-        "discount_pct": 89.5,
+        "new_price": 34.0,
+        "savings": 519.0,
+        "discount_pct": 93.9,
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/dabur-honey-squeezy-100-g-mffn7j-7536976",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/4936347871.jpg.0a4d15f0f9.jpg",
@@ -1528,6 +1528,24 @@
         ]
     },
     {
+        "uid": "24057325",
+        "name": "Kwality Wall's Crackle Cadbury Ice Cream 700 ml (Tub)",
+        "brand": "KWALITY WALLS",
+        "category": "ice_cream_frozen",
+        "old_price": 333.0,
+        "new_price": 169.0,
+        "savings": 164.0,
+        "discount_pct": 49.2,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/kwality-walls-crackle-cadbury-ice-cream-700-ml-tub-mieeae-24057325",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/b08yshk9tp.main.jpg.jpg.93cb0f839c.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA",
+            "HYDERABAD_GUDIMALKAPUR",
+            "INDORE"
+        ]
+    },
+    {
         "uid": "74541570",
         "name": "Simply Smart 3x Better Super Scrub (1 Piece)",
         "brand": "SIMPLY SMART",
@@ -1672,6 +1690,22 @@
         "stock": "N/A",
         "url": "https://store1.jiomartjcp.com/product/jj-banana-wafers-ring-fryums-200-g-mffn6r-7535354",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/j-j-banana-wafers-ring-fryums-200-g-0-20210201.jpg.4f63c06ce3.jpg",
+        "locations": [
+            "INDORE"
+        ]
+    },
+    {
+        "uid": "7531555",
+        "name": "Sri Murugan Fresh Idli Dosa Batter 1 kg",
+        "brand": "sri murugan",
+        "category": "batter_chutney",
+        "old_price": 94.0,
+        "new_price": 49.0,
+        "savings": 45.0,
+        "discount_pct": 47.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/sri-murugan-fresh-idli-dosa-batter-1-kg-mffn52-7531555",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909224911.jpg.5ba0320e72.jpg",
         "locations": [
             "INDORE"
         ]
@@ -2712,6 +2746,22 @@
         ]
     },
     {
+        "uid": "7524161",
+        "name": "Himalaya Gentle Baby Shampoo with Hibiscus & Chickpea 400 ml",
+        "brand": "himalaya",
+        "category": "bath_hygiene_grooming",
+        "old_price": 370.0,
+        "new_price": 195.0,
+        "savings": 175.0,
+        "discount_pct": 47.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/himalaya-gentle-baby-shampoo-with-hibiscus-chickpea-400-ml-mffn1k-7524161",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/himalaya-gentle-baby-shampoo-with-hibiscus-chickpea-400-ml-0-20201014.jpg.b84382008c.jpg",
+        "locations": [
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7538982",
         "name": "Parle 20-20 Gold Choco Chip Cookies 400 g",
         "brand": "PARLE 20-20",
@@ -3649,24 +3699,6 @@
         "url": "https://store1.jiomartjcp.com/product/ramson-silver-stainless-steel-serving-ladle-no-2-mffn5g-7532470",
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909285951.jpg.d75f138891.jpg",
         "locations": [
-            "INDORE"
-        ]
-    },
-    {
-        "uid": "24057325",
-        "name": "Kwality Wall's Crackle Cadbury Ice Cream 700 ml (Tub)",
-        "brand": "KWALITY WALLS",
-        "category": "ice_cream_frozen",
-        "old_price": 333.0,
-        "new_price": 190.0,
-        "savings": 143.0,
-        "discount_pct": 42.9,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/kwality-walls-crackle-cadbury-ice-cream-700-ml-tub-mieeae-24057325",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/b08yshk9tp.main.jpg.jpg.93cb0f839c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
             "INDORE"
         ]
     },
@@ -5362,23 +5394,6 @@
         ]
     },
     {
-        "uid": "7512580",
-        "name": "Pantene Pro-V Advanced Hair Fall Solution Silky Smooth Care Shampoo 650 ml",
-        "brand": "Pantene",
-        "category": "hair_care",
-        "old_price": 488.0,
-        "new_price": 325.0,
-        "savings": 163.0,
-        "discount_pct": 33.4,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pantene-pro-v-advanced-hair-fall-solution-silky-smooth-care-shampoo-650-ml-mffmw8-7512580",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907402991.jpg.0463622873.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE"
-        ]
-    },
-    {
         "uid": "7502563",
         "name": "Clear Premium Water 1 L",
         "brand": "clear",
@@ -5751,22 +5766,6 @@
         ]
     },
     {
-        "uid": "7533998",
-        "name": "Pantene Pro-V Advanced Hair Fall Control Shampoo 650 ml",
-        "brand": "Pantene",
-        "category": "hair_care",
-        "old_price": 444.0,
-        "new_price": 296.0,
-        "savings": 148.0,
-        "discount_pct": 33.3,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/pantene-pro-v-advanced-hair-fall-control-shampoo-650-ml-mffn66-7533998",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907402981.jpg.29c64b455c.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
-        ]
-    },
-    {
         "uid": "7519366",
         "name": "Head & Shoulders Smooth & Silky Anti-Dandruff Shampoo 650 ml",
         "brand": "Head & Shoulders",
@@ -5784,17 +5783,17 @@
         ]
     },
     {
-        "uid": "7544501",
-        "name": "Head & Shoulders Anti-Hairfall Anti-Dandruff Shampoo 650 ml",
-        "brand": "Head & Shoulders",
-        "category": "hair_care",
-        "old_price": 543.0,
-        "new_price": 362.0,
-        "savings": 181.0,
+        "uid": "7526634",
+        "name": "Maaza Mango Drink 1.2 L",
+        "brand": "Maaza",
+        "category": "drinks_juices",
+        "old_price": 69.0,
+        "new_price": 46.0,
+        "savings": 23.0,
         "discount_pct": 33.3,
         "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/head-shoulders-anti-hairfall-anti-dandruff-shampoo-650-ml-mffnaz-7544501",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004907290441.jpg.90e03f9184.jpg",
+        "url": "https://store1.jiomartjcp.com/product/maaza-mango-drink-12-l-mffn2t-7526634",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900017951.jpg.653c8c1f8a.jpg",
         "locations": [
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
@@ -8778,25 +8777,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912283911.jpg.88fb13801c.jpg",
         "locations": [
             "INDORE"
-        ]
-    },
-    {
-        "uid": "7526634",
-        "name": "Maaza Mango Drink 1.2 L",
-        "brand": "Maaza",
-        "category": "drinks_juices",
-        "old_price": 69.0,
-        "new_price": 50.0,
-        "savings": 19.0,
-        "discount_pct": 27.5,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/maaza-mango-drink-12-l-mffn2t-7526634",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900017951.jpg.653c8c1f8a.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA",
-            "HYDERABAD_GUDIMALKAPUR",
-            "INDORE",
-            "VIKARABAD"
         ]
     },
     {
@@ -14374,6 +14354,23 @@
         ]
     },
     {
+        "uid": "7535441",
+        "name": "Head & Shoulders 2-In-1 Smooth & Silky Anti-Dandruff Shampoo + Conditioner 650 ml",
+        "brand": "Head & Shoulders",
+        "category": "hair_care",
+        "old_price": 698.0,
+        "new_price": 577.0,
+        "savings": 121.0,
+        "discount_pct": 17.3,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/head-shoulders-2-in-1-smooth-silky-anti-dandruff-shampoo-conditioner-650-ml-mffn6t-7535441",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913789281.jpg.e944a9dbe3.jpg",
+        "locations": [
+            "INDORE",
+            "HYDERABAD_GUDIMALKAPUR"
+        ]
+    },
+    {
         "uid": "7534677",
         "name": "Pond's Super Light Hydrated Glow Gel 200 ml",
         "brand": "Pond's",
@@ -15340,38 +15337,6 @@
         ]
     },
     {
-        "uid": "24056676",
-        "name": "Bumtum Premium Ultrasoft Daiper Pants (XL) 54 Pcs (12-18 kg)",
-        "brand": "BUMTUM",
-        "category": "diapers_wipes",
-        "old_price": 581.0,
-        "new_price": 499.0,
-        "savings": 82.0,
-        "discount_pct": 14.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bumtum-premium-ultrasoft-daiper-pants-xl-54-count-12-18-kg-miee8u-24056676",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936607981.jpg.ee2e9b917b.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "24050749",
-        "name": "Bumtum Premium Ultrasoft Daiper Pants (L) 62 Count (9-14 kg)",
-        "brand": "BUMTUM",
-        "category": "diapers_wipes",
-        "old_price": 581.0,
-        "new_price": 499.0,
-        "savings": 82.0,
-        "discount_pct": 14.1,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/bumtum-premium-ultrasoft-daiper-pants-l-62-count-9-14-kg-miedux-24050749",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004936608001.jpg.bb05aec02b.jpg",
-        "locations": [
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7542659",
         "name": "COLGATE Batman (Extra Soft) Electric Kids Toothbrush",
         "brand": "Colgate",
@@ -15485,22 +15450,6 @@
             "AHMEDABAD_GHATLODIYA",
             "HYDERABAD_GUDIMALKAPUR",
             "VIKARABAD"
-        ]
-    },
-    {
-        "uid": "11058549",
-        "name": "Nutraj Anymany Cashew 400 g",
-        "brand": "NUTRAJ",
-        "category": "dry_fruits_nuts",
-        "old_price": 432.0,
-        "new_price": 375.0,
-        "savings": 57.0,
-        "discount_pct": 13.2,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/nutraj-anymany-cashew-400-g-mhmcnw-11058549",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004924041881.jpg.2e9d55b63e.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
@@ -15927,23 +15876,6 @@
         ]
     },
     {
-        "uid": "7535441",
-        "name": "Head & Shoulders 2-In-1 Smooth & Silky Anti-Dandruff Shampoo + Conditioner 650 ml",
-        "brand": "Head & Shoulders",
-        "category": "hair_care",
-        "old_price": 698.0,
-        "new_price": 635.0,
-        "savings": 63.0,
-        "discount_pct": 9.0,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/head-shoulders-2-in-1-smooth-silky-anti-dandruff-shampoo-conditioner-650-ml-mffn6t-7535441",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913789281.jpg.e944a9dbe3.jpg",
-        "locations": [
-            "INDORE",
-            "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
         "uid": "7501951",
         "name": "Daawat Rozana Mini 60 Basmati Rice 10 kg",
         "brand": "Daawat",
@@ -16142,6 +16074,22 @@
         ]
     },
     {
+        "uid": "7522690",
+        "name": "Tirupati Refined Cottonseed Oil 15 kg (Tin)",
+        "brand": "Tirupati",
+        "category": "edible_oils",
+        "old_price": 2939.0,
+        "new_price": 2765.0,
+        "savings": 174.0,
+        "discount_pct": 5.9,
+        "stock": "N/A",
+        "url": "https://store1.jiomartjcp.com/product/tirupati-refined-cottonseed-oil-15-kg-tin-mffn0w-7522690",
+        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/8ac28bdfc7697c4ee754ab71c4c2d513tirupati-refined-cottonseed-oil-15-kg-0-20210302.jpg.6a8da379e3.jpg",
+        "locations": [
+            "AHMEDABAD_GHATLODIYA"
+        ]
+    },
+    {
         "uid": "75837486",
         "name": "Shree Gita Double Filtered Super Groundnut Oil 4.35 kg",
         "brand": "SHREE GITA",
@@ -16268,22 +16216,6 @@
         "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004944088871.jpg.2dd2d4949a.jpg",
         "locations": [
             "HYDERABAD_GUDIMALKAPUR"
-        ]
-    },
-    {
-        "uid": "7522690",
-        "name": "Tirupati Refined Cottonseed Oil 15 kg (Tin)",
-        "brand": "Tirupati",
-        "category": "edible_oils",
-        "old_price": 2939.0,
-        "new_price": 2858.0,
-        "savings": 81.0,
-        "discount_pct": 2.8,
-        "stock": "N/A",
-        "url": "https://store1.jiomartjcp.com/product/tirupati-refined-cottonseed-oil-15-kg-tin-mffn0w-7522690",
-        "image": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/8ac28bdfc7697c4ee754ab71c4c2d513tirupati-refined-cottonseed-oil-15-kg-0-20210302.jpg.6a8da379e3.jpg",
-        "locations": [
-            "AHMEDABAD_GHATLODIYA"
         ]
     },
     {
